@@ -1,0 +1,929 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- saved from url=(0072)http://www-users.cs.umn.edu/~kauffman/4061/12-exam2-review-problems.html -->
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>CSCI 4061: Exam 2 Review Problems</title>
+<!-- 2017-11-18 Sat 11:21 -->
+
+<meta name="generator" content="Org-mode">
+<meta name="author" content="Chris Kauffman">
+<style type="text/css">
+ <!--/*--><![CDATA[/*><!--*/
+  .title  { text-align: center; }
+  .todo   { font-family: monospace; color: red; }
+  .done   { color: green; }
+  .tag    { background-color: #eee; font-family: monospace;
+            padding: 2px; font-size: 80%; font-weight: normal; }
+  .timestamp { color: #bebebe; }
+  .timestamp-kwd { color: #5f9ea0; }
+  .right  { margin-left: auto; margin-right: 0px;  text-align: right; }
+  .left   { margin-left: 0px;  margin-right: auto; text-align: left; }
+  .center { margin-left: auto; margin-right: auto; text-align: center; }
+  .underline { text-decoration: underline; }
+  #postamble p, #preamble p { font-size: 90%; margin: .2em; }
+  p.verse { margin-left: 3%; }
+  pre {
+    border: 1px solid #ccc;
+    box-shadow: 3px 3px 3px #eee;
+    padding: 8pt;
+    font-family: monospace;
+    overflow: auto;
+    margin: 1.2em;
+  }
+  pre.src {
+    position: relative;
+    overflow: visible;
+    padding-top: 1.2em;
+  }
+  pre.src:before {
+    display: none;
+    position: absolute;
+    background-color: white;
+    top: -10px;
+    right: 10px;
+    padding: 3px;
+    border: 1px solid black;
+  }
+  pre.src:hover:before { display: inline;}
+  pre.src-sh:before    { content: 'sh'; }
+  pre.src-bash:before  { content: 'sh'; }
+  pre.src-emacs-lisp:before { content: 'Emacs Lisp'; }
+  pre.src-R:before     { content: 'R'; }
+  pre.src-perl:before  { content: 'Perl'; }
+  pre.src-java:before  { content: 'Java'; }
+  pre.src-sql:before   { content: 'SQL'; }
+
+  table { border-collapse:collapse; }
+  caption.t-above { caption-side: top; }
+  caption.t-bottom { caption-side: bottom; }
+  td, th { vertical-align:top;  }
+  th.right  { text-align: center;  }
+  th.left   { text-align: center;   }
+  th.center { text-align: center; }
+  td.right  { text-align: right;  }
+  td.left   { text-align: left;   }
+  td.center { text-align: center; }
+  dt { font-weight: bold; }
+  .footpara:nth-child(2) { display: inline; }
+  .footpara { display: block; }
+  .footdef  { margin-bottom: 1em; }
+  .figure { padding: 1em; }
+  .figure p { text-align: center; }
+  .inlinetask {
+    padding: 10px;
+    border: 2px solid gray;
+    margin: 10px;
+    background: #ffffcc;
+  }
+  #org-div-home-and-up
+   { text-align: right; font-size: 70%; white-space: nowrap; }
+  textarea { overflow-x: auto; }
+  .linenr { font-size: smaller }
+  .code-highlighted { background-color: #ffff00; }
+  .org-info-js_info-navigation { border-style: none; }
+  #org-info-js_console-label
+    { font-size: 10px; font-weight: bold; white-space: nowrap; }
+  .org-info-js_search-highlight
+    { background-color: #ffff00; color: #000000; font-weight: bold; }
+  /*]]>*/-->
+</style>
+<meta name="viewport" content="width=device-width, maximum-scale=1, minimum-scale=1">
+<style type="text/css">
+@media screen {
+:root {
+--heading-bg-color:#e8c62e;
+--heading-fg-color:#7a0019;
+}
+html {
+font-family: serif;
+text-align: justify;
+}
+pre.src, pre.example {
+overflow-x: scroll;
+}
+/* Merge subtitle area with title area */
+.subtitle {
+text-align: center;
+margin-top: -2em;
+padding-top: 1em;
+padding-bottom: 0.1em;
+}
+.title, .subtitle {
+color: var(--heading-fg-color);
+background-color: var(--heading-bg-color);
+}
+/* Section borders, left section header style */
+div.outline-2, #table-of-contents {
+background-color: rgb(250,250,250);
+border: 0.75em solid var(--heading-bg-color);
+border-top: 0em;
+padding: 0em .5em .5em .5em; /* top right bottom left */
+margin: 1em 0em 1em 0em; /* top right bottom left */
+}
+div.outline-2 > h2, #table-of-contents > h2 {
+background-color: var(--heading-bg-color);
+color: var(--heading-fg-color);
+font-variant: small-caps;
+padding: 0em 0em 0em .5em; /* top right bottom left */
+margin: 0em -.5em 0em -.75em; /* top right bottom left */
+text-align: left;
+}
+blockquote {
+font-style: italic;
+}
+td, th {
+padding-top: 2px;
+padding-bottom: 2px;
+}
+body {
+background-color: #EEE;
+}
+pre {
+}
+#content, #preamble, #postamble {
+margin-left:300px;
+}
+.tag {
+background-color: inherit; font-family: inherit;
+padding: inherit; font-size: 80%; font-weight: inherit;
+text-transform: uppercase;
+}
+.figure p { text-align: inherit; }
+figure-number { font-style: italic; }
+#table-of-contents {
+text-align: left;
+position: fixed;
+left: 0;
+margin: 0 auto;
+padding: 0;
+width: 300px;
+top: 0;
+height: 100%;
+border: 0;
+display: block;
+}
+#text-table-of-contents {
+overflow-y: scroll;
+height: 100%;
+}
+#text-table-of-contents ul {
+padding-left: 1em;
+margin-left: 0.5em;
+}
+#table-of-contents > h2 {
+padding: 0.1em;
+margin: 0;
+}
+/* adjustments for small screen, toc at top only */
+@media (max-width: 800px) { /* landscape for iphone */
+html {
+-webkit-text-size-adjust: none;  /* prevent scaling of text on mobile */
+}
+body {
+background-color: #EEE;
+width:100%;
+margin:0 auto;
+}
+#content, #preamble, #postamble {
+margin-left:0;
+}
+#table-of-contents {
+position: static;
+left: inherit;
+width:inherit;
+height: auto;
+border-top: 0em;
+padding: 0em .5em .5em .5em; /* top right bottom left */
+margin: 1em 0em 1em 0em; /* top right bottom left */
+border: 0.75em solid #006633;
+}
+div.outline-2, #table-of-contents {
+background-color: rgb(250,250,250);
+border: 0.75em solid var(--heading-bg-color);
+border-top: 0em;
+padding: 0em .5em .5em .5em; /* top right bottom left */
+margin: 1em 0em 1em 0em; /* top right bottom left */
+}
+div.outline-2 > h2, #table-of-contents > h2 {
+background-color: var(--heading-bg-color);
+color: var(--heading-fg-color);
+font-variant: small-caps;
+padding: 0em 0em 0em .5em; /* top right bottom left */
+margin: 0em -.5em 0em -.75em; /* top right bottom left */
+text-align: left;
+}
+#text-table-of-contents {
+overflow-y: visible;
+height: inherit;
+}
+#text-table-of-contents ul {
+padding-left: 1em;
+margin-left: 0.5em;
+}
+}
+.linenr { font-size: xx-small; }
+}
+@media print {
+html {
+font-family: serif;
+font-size: 10pt;
+text-align: justify;
+.linenr { font-size: xx-small; }
+}
+}
+</style>
+<script type="text/javascript">
+/*
+@licstart  The following is the entire license notice for the
+JavaScript code in this tag.
+
+Copyright (C) 2012-2013 Free Software Foundation, Inc.
+
+The JavaScript code in this tag is free software: you can
+redistribute it and/or modify it under the terms of the GNU
+General Public License (GNU GPL) as published by the Free Software
+Foundation, either version 3 of the License, or (at your option)
+any later version.  The code is distributed WITHOUT ANY WARRANTY;
+without even the implied warranty of MERCHANTABILITY or FITNESS
+FOR A PARTICULAR PURPOSE.  See the GNU GPL for more details.
+
+As additional permission under GNU GPL version 3 section 7, you
+may distribute non-source (e.g., minimized or compacted) forms of
+that code without the copy of the GNU GPL normally required by
+section 4, provided you include this license notice and a URL
+through which recipients can access the Corresponding Source.
+
+
+@licend  The above is the entire license notice
+for the JavaScript code in this tag.
+*/
+<!--/*--><![CDATA[/*><!--*/
+ function CodeHighlightOn(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(null != target) {
+     elem.cacheClassElem = elem.className;
+     elem.cacheClassTarget = target.className;
+     target.className = "code-highlighted";
+     elem.className   = "code-highlighted";
+   }
+ }
+ function CodeHighlightOff(elem, id)
+ {
+   var target = document.getElementById(id);
+   if(elem.cacheClassElem)
+     elem.className = elem.cacheClassElem;
+   if(elem.cacheClassTarget)
+     target.className = elem.cacheClassTarget;
+ }
+/*]]>*///-->
+</script>
+<style>#cVim-command-bar, #cVim-command-bar-mode, #cVim-command-bar-input, #cVim-command-bar-search-results,
+.cVim-completion-item, .cVim-completion-item .cVim-full, .cVim-completion-item .cVim-left,
+.cVim-completion-item .cVim-right {
+  font-family: Helvetica, Helvetica Neue, Neue, sans-serif, monospace, Arial;
+  font-size: 10pt !important;
+  -webkit-font-smoothing: antialiased !important;
+}
+
+#cVim-command-bar {
+  position: fixed;
+  z-index: 2147483646;
+  background-color: #1b1d1e;
+  color: #bbb;
+  display: none;
+  box-sizing: content-box;
+  box-shadow: 0 3px 3px rgba(0,0,0,0.4);
+  left: 0;
+  width: 100%;
+  height: 20px;
+}
+
+#cVim-command-bar-mode {
+  display: inline-block;
+  vertical-align: middle;
+  box-sizing: border-box;
+  padding-left: 2px;
+  height: 100%;
+  width: 10px;
+  padding-top: 2px;
+  color: #888;
+}
+
+#cVim-command-bar-input {
+  background-color: #1b1d1e;
+  color: #bbb;
+  height: 100%;
+  right: 0;
+  top: 0;
+  width: calc(100% - 10px);
+  position: absolute;
+}
+
+#cVim-command-bar-search-results {
+  position: fixed;
+  width: 100%;
+  overflow: hidden;
+  z-index: 2147483647;
+  left: 0;
+  box-shadow: 0 3px 3px rgba(0,0,0,0.4);
+  background-color: #1c1c1c;
+}
+
+.cVim-completion-item, .cVim-completion-item .cVim-full, .cVim-completion-item .cVim-left, .cVim-completion-item .cVim-right {
+  text-overflow: ellipsis;
+  padding: 1px;
+  display: inline-block;
+  box-sizing: border-box;
+  vertical-align: middle;
+  overflow: hidden;
+  white-space: nowrap;
+}
+
+.cVim-completion-item:nth-child(even) {
+  background-color: #1f1f1f;
+}
+
+.cVim-completion-item {
+  width: 100%; left: 0;
+  color: #bcbcbc;
+}
+
+.cVim-completion-item[active] {
+  width: 100%; left: 0;
+  color: #1b1d1e;
+  background-color: #f1f1f1;
+}
+
+.cVim-completion-item[active] span {
+  color: #1b1d1e;
+}
+
+.cVim-completion-item .cVim-left {
+  color: #fff;
+  width: 37%;
+}
+
+.cVim-completion-item .cVim-right {
+  font-style: italic;
+  color: #888;
+  width: 57%;
+}
+
+
+#cVim-link-container, .cVim-link-hint,
+#cVim-hud, #cVim-status-bar {
+  font-family: Helvetica, Helvetica Neue, Neue, sans-serif, monospace, Arial;
+  font-size: 10pt !important;
+  -webkit-font-smoothing: antialiased !important;
+}
+
+#cVim-link-container {
+  position: absolute;
+  pointer-events: none;
+  width: 100%; left: 0;
+  height: 100%; top: 0;
+  z-index: 2147483647;
+}
+
+.cVim-link-hint {
+  position: absolute;
+  color: #302505 !important;
+  background-color: #ffd76e !important;
+  border-radius: 2px !important;
+  padding: 2px !important;
+  font-size: 8pt !important;
+  font-weight: 500 !important;
+  text-transform: uppercase !important;
+  border: 1px solid #ad810c;
+  display: inline-block !important;
+  vertical-align: middle !important;
+  text-align: center !important;
+  box-shadow: 2px 2px 1px rgba(0,0,0,0.25) !important;
+}
+
+.cVim-link-hint_match {
+  color: #777;
+  text-transform: uppercase !important;
+}
+
+
+#cVim-hud {
+  background-color: rgba(28,28,28,0.9);
+  position: fixed !important;
+  transition: right 0.2s ease-out;
+  z-index: 24724289;
+}
+
+#cVim-hud span {
+  padding: 2px;
+  padding-left: 4px;
+  padding-right: 4px;
+  color: #8f8f8f;
+  font-size: 10pt;
+}
+
+#cVim-frames-outline {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  right: 0;
+  z-index: 9999999999;
+  box-sizing: border-box;
+  border: 3px solid yellow;
+}
+</style></head>
+<body>
+<div id="preamble" class="status">
+<i>Last Updated: 2017-11-18 Sat 11:21</i>
+</div>
+<div id="content">
+<h1 class="title">CSCI 4061: Exam 2 Review Problems</h1>
+<div id="table-of-contents">
+<h2>Table of Contents</h2>
+<div id="text-table-of-contents">
+<ul>
+<li><a href="http://www-users.cs.umn.edu/~kauffman/4061/12-exam2-review-problems.html#sec-1">1. Concurrent Printer</a>
+<ul>
+<li><a href="http://www-users.cs.umn.edu/~kauffman/4061/12-exam2-review-problems.html#sec-1-1">1.1. Printer Manager Process</a></li>
+<li><a href="http://www-users.cs.umn.edu/~kauffman/4061/12-exam2-review-problems.html#sec-1-2">1.2. Printer Cooperation</a></li>
+</ul>
+</li>
+<li><a href="http://www-users.cs.umn.edu/~kauffman/4061/12-exam2-review-problems.html#sec-2">2. Graceful Shutdown</a></li>
+<li><a href="http://www-users.cs.umn.edu/~kauffman/4061/12-exam2-review-problems.html#sec-3">3. Critical Section</a></li>
+<li><a href="http://www-users.cs.umn.edu/~kauffman/4061/12-exam2-review-problems.html#sec-4">4. Concurrency and Signals</a>
+<ul>
+<li><a href="http://www-users.cs.umn.edu/~kauffman/4061/12-exam2-review-problems.html#sec-4-1">4.1. Code Outline</a></li>
+<li><a href="http://www-users.cs.umn.edu/~kauffman/4061/12-exam2-review-problems.html#sec-4-2">4.2. Implementation Flaws</a></li>
+</ul>
+</li>
+<li><a href="http://www-users.cs.umn.edu/~kauffman/4061/12-exam2-review-problems.html#sec-5">5. Read vs Select</a></li>
+<li><a href="http://www-users.cs.umn.edu/~kauffman/4061/12-exam2-review-problems.html#sec-6">6. Busy Polling versus Interrupt Driven Mutex</a></li>
+<li><a href="http://www-users.cs.umn.edu/~kauffman/4061/12-exam2-review-problems.html#sec-7">7. Processes vs Threads</a>
+<ul>
+<li><a href="http://www-users.cs.umn.edu/~kauffman/4061/12-exam2-review-problems.html#sec-7-1">7.1. Similarities and Differences</a></li>
+<li><a href="http://www-users.cs.umn.edu/~kauffman/4061/12-exam2-review-problems.html#sec-7-2">7.2. Thread Pitfalls</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+
+
+<div id="outline-container-sec-1" class="outline-2">
+<h2 id="sec-1"><span class="section-number-2">1</span> Concurrent Printer</h2>
+<div class="outline-text-2" id="text-1">
+</div><div id="outline-container-sec-1-1" class="outline-3">
+<h3 id="sec-1-1"><span class="section-number-3">1.1</span> Printer Manager Process</h3>
+<div class="outline-text-3" id="text-1-1">
+<p>
+A printer is a shared resource in that there is usually only one
+attached to a computing system that many users/processes can access.  
+</p>
+
+<p>
+Consider managing the printer using a "daemon" (background
+process).  Programs that want to print do not so directly but instead
+contact the daemon to request data be printed.  The printer daemon
+must get data from client processes, feed it to the printer, notify
+the client process of the completion of the printing, and then
+pick up the next request if any.
+</p>
+
+<p>
+Describe a simple protocol that could accomplish this by specifying
+the following: 
+</p>
+<ul class="org-ul">
+<li>What mechanism will you use to allow the printer daemon process to
+communicate with a client?
+</li>
+<li>How will client processes communicate data to the daemon? Keep in
+mind that print files have a variety of types and sizes
+</li>
+<li>How will the daemon process notify client processes of the
+completion of the print job or errors that occurred?
+</li>
+<li>Keep in mind that the printer daemon is a system process started
+when the computer boots.
+</li>
+</ul>
+</div>
+</div>
+
+<div id="outline-container-sec-1-2" class="outline-3">
+<h3 id="sec-1-2"><span class="section-number-3">1.2</span> Printer Cooperation</h3>
+<div class="outline-text-3" id="text-1-2">
+<p>
+As an alternative to the above daemon approach to managing a printer,
+consider a protocol that DOES NOT involve a manager.  In this setting,
+the printer is usable directly by any process. However, processes that
+print must obey a protocol you will design to avoid problems. The
+printer is associated with a known special file /dev/printer. When
+data is written to this file, it is sent directly to the
+printer. However, if multiple processes write data simultaneously, the
+printing results are likely to become corrupted.
+</p>
+
+<p>
+Design a protocol that would allow the shared printer resource to be
+managed without a manager process.
+</p>
+<ul class="org-ul">
+<li>What mechanism would you use for processes want to print to
+coordinate using the /dev/printer file?
+</li>
+<li>Is it possible in your scheme to guarantee fairness: processes that
+are ready to print early actually get to print earlier than later
+print attempts?
+</li>
+</ul>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-sec-2" class="outline-2">
+<h2 id="sec-2"><span class="section-number-2">2</span> Graceful Shutdown</h2>
+<div class="outline-text-2" id="text-2">
+<p>
+Many system programs run for a long time accumulating data from files
+that should be written out before shutting down. Occasionally these
+"daemon" processes need to be closed down or restarted but should be
+exited "gracefully" as in given an opportunity to write essential data
+to files before exiting.  
+</p>
+
+<p>
+Describe a common mechanism in Unix to notify a program that it should
+terminate but give it an opportunity to write essential data prior to
+exiting.  Describe the specific program control structures in the
+program and system calls involved in such a graceful shutdown.
+</p>
+</div>
+</div>
+
+
+<div id="outline-container-sec-3" class="outline-2">
+<h2 id="sec-3"><span class="section-number-2">3</span> Critical Section</h2>
+<div class="outline-text-2" id="text-3">
+<p>
+A database manger process is responsible for occasionally writing
+database information in main memory to a file so that it is backed up
+in the case of a crash. A system administrator can request an
+immediate backup by sending the <code>SIGUSR1</code> signal to the manager
+process.  Backup requests are considered fairly low priority and can
+be honored later.
+</p>
+
+<p>
+The manager process is also responsible for handling certain
+operations that are critical to integrity of the database and should
+not be interrupted by backup requests.
+</p>
+
+<p>
+Describe whether it is possible for the manager process to be written
+to fulfill both of these requirements. Mention how it might be done
+using Unix programming facilities.
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-4" class="outline-2">
+<h2 id="sec-4"><span class="section-number-2">4</span> Concurrency and Signals</h2>
+<div class="outline-text-2" id="text-4">
+<p>
+A simple protocol for communication between Process A and Process B
+involves the following steps.
+</p>
+
+<p>
+Process A
+</p>
+<ul class="org-ul">
+<li>A1: Process A writes its PID to Pipe X
+</li>
+<li>A2: Process A sleeps waiting for a signal
+</li>
+<li>A3: Process A wakes up from a signal
+</li>
+<li>A4: Process A reads an integer from Pipe Y
+</li>
+
+<li>B1: Process B reads a PID from Pipe X
+</li>
+<li>B2: Process B writes an integer to Pipe Y
+</li>
+<li>B3: Process B signals Process A to wake up and continue
+</li>
+</ul>
+</div>
+
+<div id="outline-container-sec-4-1" class="outline-3">
+<h3 id="sec-4-1"><span class="section-number-3">4.1</span> Code Outline</h3>
+<div class="outline-text-3" id="text-4-1">
+<p>
+Give an outline of C code for Process A and Process B which would
+(roughly) implement the above protocol. Below 
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-c">// PROCESS A
+int pipeX[2];  
+int pipeY[2];
+int receive;  // put data "received" from Process B in this integer
+
+// assume both pipes opened appropriately 
+
+// A1: Process A writes its PID to Pipe X
+
+// A2: Process A sleeps waiting for a signal
+
+// A3: Process A wakes up from a signal 
+
+// A4: Process A reads an integer from Pipe Y
+</pre>
+</div>
+
+<div class="org-src-container">
+
+<pre class="src src-c">// PROCESS B
+int pipeX[2];  
+int pipeY[2];
+int send = 42;  // integer to "send" to Process A
+
+// assume both pipes opened appropriately 
+
+// B1: Process B reads a PID from Pipe X
+
+// B2: Process B writes an integer to Pipe Y
+
+// B3: Process B signals Process A to wake up and continue
+</pre>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-sec-4-2" class="outline-3">
+<h3 id="sec-4-2"><span class="section-number-3">4.2</span> Implementation Flaws</h3>
+<div class="outline-text-3" id="text-4-2">
+<p>
+A naive implementation of the basic protocol outlined is likely to
+contain flaws. For example, if Process A merely calls
+</p>
+<pre class="example">sleep(0);
+</pre>
+<p>
+to await a signal, it may result in Process A never waking
+up. 
+</p>
+
+<p>
+Describe a sequence of events using the steps <code>A1, A2,.. B1, B2</code> that
+could give rise to the this situation. Also describe how one might fix
+this with a slightly more complex sleeping/waiting behavior and
+signals handling.
+</p>
+</div>
+</div>
+</div>
+
+<div id="outline-container-sec-5" class="outline-2">
+<h2 id="sec-5"><span class="section-number-2">5</span> Read vs Select</h2>
+<div class="outline-text-2" id="text-5">
+<p>
+The code below appeared in a lab in files that compared only reading
+from two separate files (pipes in this case) versus using the
+<code>select()</code> system call. Describe the difference between these blocks.
+</p>
+<ul class="org-ul">
+<li>What pattern of reading do you expect in each? Ex: Do you expect
+fixed patterns like <code>ABAB..</code> or <code>ABBABB...</code> or arbitrary
+intermingling like <code>ABBABAABBA...</code>?
+</li>
+<li>Which approach (<code>read()</code>-only or <code>select()/read()</code>) is appropriate
+if input is coming at very different rates in pipeA versus pipeB?
+Justify your answer.
+</li>
+</ul>
+
+<div class="org-src-container">
+
+<pre class="src src-c">// file read_AB.c
+  while(!signaled){                                                
+    char buf[1024];
+    int n;
+
+    n = read(pipeA[PREAD], buf, 1024);                             
+    buf[n] = '\0';
+    fprintf(stdout,"A had: |%s|\n",buf);
+
+    n = read(pipeB[PREAD], buf, 1024);                             
+    buf[n] = '\0';
+    fprintf(stdout,"B had: |%s|\n",buf);
+  }
+</pre>
+</div>
+<div class="org-src-container">
+
+<pre class="src src-c">// file select_AB.c
+  while(!signaled){                                                
+    fd_set read_set;                                               
+    FD_ZERO(&amp;read_set);                                            
+    FD_SET(pipeA[PREAD], &amp;read_set);                               
+    FD_SET(pipeB[PREAD], &amp;read_set);
+    int maxfd = pipeA[PREAD];                                      
+    maxfd = (maxfd &lt; pipeB[PREAD]) ? pipeB[PREAD] : maxfd;
+
+    select(maxfd+1, &amp;read_set, NULL, NULL, NULL);                  
+
+    char buf[1024];
+    int n;
+    if(FD_ISSET(pipeA[PREAD], &amp;read_set)){                         
+      n = read(pipeA[PREAD], buf, 1024);                           
+      buf[n] = '\0';
+      fprintf(stdout,"A had: |%s|\n",buf);
+    }
+    if(FD_ISSET(pipeB[PREAD], &amp;read_set)){                         
+      n = read(pipeB[PREAD], buf, 1024);                           
+      buf[n] = '\0';
+      fprintf(stdout,"B had: |%s|\n",buf);                         
+    }
+  }
+</pre>
+</div>
+</div>
+</div>
+
+
+<div id="outline-container-sec-6" class="outline-2">
+<h2 id="sec-6"><span class="section-number-2">6</span> Busy Polling versus Interrupt Driven Mutex</h2>
+<div class="outline-text-2" id="text-6">
+<p>
+Cee Lohacker is working on a drone with a small embedded processor and
+Unix which provides POSIX threads and mutexes. Unfortunately, the
+drone is manufactured in Easternopia and Cee cannot understand the
+Easternopian dialect of the documentation.  She needs know whether
+mutexes on this system use
+</p>
+<ul class="org-ul">
+<li>Busy polling to acquire a lock
+</li>
+<li>Interrupt driven waiting acquire a lock
+</li>
+</ul>
+
+<p>
+Writes the following short C program to test the mutexes and runs it
+with the <code>time</code> command.
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-sh"><span class="linenr"> 1: </span>&gt; cat mut_test.c
+<span class="linenr"> 2: </span>#include &lt;pthread.h&gt;
+<span class="linenr"> 3: </span>#include &lt;stdio.h&gt;
+<span class="linenr"> 4: </span>#include &lt;unistd.h&gt;
+<span class="linenr"> 5: </span>
+<span class="linenr"> 6: </span>int glob = 1;
+<span class="linenr"> 7: </span>pthread_mutex_t glob_lock;
+<span class="linenr"> 8: </span>
+<span class="linenr"> 9: </span>void *doit(void *param){
+<span class="linenr">10: </span>  pthread_mutex_lock(&amp;glob_lock);
+<span class="linenr">11: </span>  glob = glob*2;
+<span class="linenr">12: </span>  sleep(2);
+<span class="linenr">13: </span>  pthread_mutex_unlock(&amp;glob_lock);
+<span class="linenr">14: </span>  return NULL;
+<span class="linenr">15: </span>}
+<span class="linenr">16: </span>
+<span class="linenr">17: </span>int main(){
+<span class="linenr">18: </span>  pthread_mutex_init(&amp;glob_lock, NULL);
+<span class="linenr">19: </span>  printf("BEFORE glob: %d\n",glob);
+<span class="linenr">20: </span>  pthread_t threads[3];
+<span class="linenr">21: </span>  for(int i=0; i&lt;3; i++){
+<span class="linenr">22: </span>    pthread_create(&amp;threads[i], NULL, doit, NULL);
+<span class="linenr">23: </span>  }
+<span class="linenr">24: </span>  for(int i=0; i&lt;3; i++){
+<span class="linenr">25: </span>    pthread_join(threads[i], (void **) NULL); 
+<span class="linenr">26: </span>  }
+<span class="linenr">27: </span>  printf("AFTER glob: %d\n",glob);
+<span class="linenr">28: </span>  pthread_mutex_destroy(&amp;glob_lock);
+<span class="linenr">29: </span>  return 0;
+<span class="linenr">30: </span>}
+<span class="linenr">31: </span>
+<span class="linenr">32: </span>&gt; gcc mut_test.c -lpthread
+<span class="linenr">33: </span>
+<span class="linenr">34: </span>&gt; time a.out
+<span class="linenr">35: </span>BEFORE glob: 1
+<span class="linenr">36: </span>AFTER glob: ???   # glob final value
+<span class="linenr">37: </span>
+<span class="linenr">38: </span>real	???       # Wall time
+<span class="linenr">39: </span>user	???       # User CPU time
+<span class="linenr">40: </span>sys	???
+</pre>
+</div>
+
+<p>
+Answer the following questions
+</p>
+<ol class="org-ol">
+<li>What is the expected value for <code>glob</code> after the code is run (marked
+<code># glob final value</code>)?
+</li>
+<li>Assuming the mutexes use BUSY polling, what times are expected for
+<ul class="org-ul">
+<li>Real/Wall time?
+</li>
+<li>User CPU time?
+</li>
+</ul>
+<p>
+Explain your reasoning.
+</p>
+</li>
+<li>Assuming the mutexes use INTERRUPT-DRIVEN waiting, what times are
+expected for
+<ul class="org-ul">
+<li>Real/Wall time?
+</li>
+<li>User CPU time?
+</li>
+</ul>
+<p>
+Explain your reasoning.
+</p>
+</li>
+</ol>
+</div>
+</div>
+
+<div id="outline-container-sec-7" class="outline-2">
+<h2 id="sec-7"><span class="section-number-2">7</span> Processes vs Threads</h2>
+<div class="outline-text-2" id="text-7">
+</div><div id="outline-container-sec-7-1" class="outline-3">
+<h3 id="sec-7-1"><span class="section-number-3">7.1</span> Similarities and Differences</h3>
+<div class="outline-text-3" id="text-7-1">
+<p>
+Outline the similarities and differences between Processes and
+Threads. Describe some details of the assumptions that each makes
+about what memory is shared versus private.  Describe the tradeoffs
+associated with using one versus the others on issues such as system
+tools, security, and efficiency.
+</p>
+</div>
+</div>
+
+<div id="outline-container-sec-7-2" class="outline-3">
+<h3 id="sec-7-2"><span class="section-number-3">7.2</span> Thread Pitfalls</h3>
+<div class="outline-text-3" id="text-7-2">
+<p>
+Recall the Pi calculation program discussed in class. One version of
+this program spawned multiple threads to run the following worker
+function.
+</p>
+<div class="org-src-container">
+
+<pre class="src src-c">int total_hits = 0;
+int points_per_thread = -1;
+
+void *compute_pi(void *arg){
+  long thread_id = (long) arg;
+  unsigned int rstate = 123456789 * thread_id;
+  for (int i = 0; i &lt; points_per_thread; i++) { 
+    double x = ((double) rand_r(&amp;rstate)) / ((double) RAND_MAX);
+    double y = ((double) rand_r(&amp;rstate)) / ((double) RAND_MAX);
+    if (x*x + y*y &lt;= 1.0){
+      total_hits++;
+    }
+  } 
+  return NULL;
+}
+</pre>
+</div>
+<ol class="org-ol">
+<li>Why was it necessary to use the <code>rand_r()</code> function rather than the
+standard <code>rand()</code> function to generate random numbers?
+</li>
+<li>Do all the worker threads generate identical random sequences of
+numbers or are they different? Explain your reasoning.
+</li>
+<li>It was determined in discussion that this version <b>always</b>
+underestimates the value of Pi. Explain why and how one might fix
+this while also maintaining the efficiency of using multiple
+threads to get speedup.
+</li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+<div id="postamble" class="status">
+<hr> <i> Author: Chris Kauffman (<a href="mailto:kauffman@phaedrus">kauffman@phaedrus</a>) <br> Date: 2017-11-18 Sat 11:21 <br> </i>
+</div>
+
+
+</body><div id="cVim-status-bar" style="top: 0px;"></div><iframe src="./CSCI 4061_ Exam 2 Review Problems_files/cmdline_frame.html" id="cVim-command-frame"></iframe></html>

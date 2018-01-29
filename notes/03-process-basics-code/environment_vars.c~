@@ -1,0 +1,18 @@
+#include <stdlib.h>
+
+int main(int argc, char *argv[]){
+
+  char *verbosity = getenv("VERBOSITY");
+  if(verbosity == NULL){
+    printf("VERBOSITY not set\n");
+    return 0;
+  }
+  else{
+    printf("VERBOSITY is %s\n\n",verbosity);
+    printf("Turning VOLUME to 11\n");
+    int fail = setenv("VOLUME","11",0);
+    if(fail){
+      printf("Couldn't change VOLUME
+  
+
+  

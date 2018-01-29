@@ -1,0 +1,101 @@
+                           __________________
+
+                            LAB 09 QUESTIONS
+                           __________________
+
+
+- Name: Michael Zhang
+- NetID: zhan4854
+
+Answer the questions below according to the lab specification. Write
+your answers directly in this text file and submit it to complete Lab01.
+
+
+PROBLEM 1 `em_server_mq.c' and `em_server_mq.c'
+===============================================
+
+A
+~
+
+  Examine the source code for `em_server_mq.c' and
+  `em_client_mq.c'. Describe the lines of code which are used to
+  establish the message queues used for communication. How many message
+  queues are there?
+
+There's one message queue for the server, and one for the client. These are
+created by msgget(key, 0644 | IPC_CREAT) where key was obtained by ftok using
+the identity of the party that called it.
+
+B
+~
+
+  Describe the sending and receiving functions used in the server to put
+  messages onto the queue. Focus your attention on the server side
+  first. Describe each argument of the send/receive functions and its
+  purpose. You may wish to consult the textbook or manual page for the
+  functions to get more information.
+
+To put a message onto the message queue you would use msgsnd, and send the
+object containing the request information that you need.
+
+C
+~
+
+  Describe the protocol that appears to be used for communication. What
+  steps are taken by a client to make a request for an email address
+  lookup? How does the server respond? You may find it useful to use the
+  letters associated with print statements like "A" and "D". Note any
+  operations that might happen in an arbitrary order.
+
+The protocol looks like this:
+
+ - The client first sends { name = argv[1], mtype = pid }.
+ - The server msgrcvs this, reads the name and name and mtype from the request
+   object and looks up the email associated with the name.
+ - The server then sends back { name = request.name, mtype = request.mtype,
+   email = the email that was looked up. }
+ - The email client makes sure that the pid that the mtype returned is the same
+   as the pid that it requested with.
+
+D
+~
+
+  Recall that the previous email lookup server/client that used FIFOs
+  would answer requests on a Data FIFO. The Server would only allow one
+  Client to access the Data FIFO at a time.  This was to prevent the
+  client from retrieving data from the queue that was not intended for
+  them.
+
+  In the Message Queue server/client, potentially many clients are
+  accessing the To-Client queue simultaneously. Describe why there is
+  not a problem in this setting. Look carefully at the arguments used in
+  the `msgrcv()' call in the client.
+
+This isn't a problem because msgrcv takes in a flag msgtype which in this case
+is the pid of the client. This way, msgrcv will only return the messages
+intended for the correct client. Of course, this isn't a valid security measure
+but it produces the correct result.
+
+E
+~
+
+  In the FIFO server/client, sleeping and signaling was used to avoid
+  busily waiting for availability of the data. This complicated the
+  protocol somewhat in order to get more efficient resource utilization.
+
+  There is NO explicit sleeping in the Message Queue server/client which
+  might indicate it is less efficient as processes busily wait for
+  messages. Do some research on `msgsnd() / msgrcv()' calls to determine
+  if they are busy waiting (polling) or interrupt driven operations.
+
+  Confirm these answers by running `run_simulations_mq.sh' on a large
+  number of client and timing the results. A sample run might be
+  ,----
+  | > time ./run_simulation_mq.sh 1000 > ~/tmp/xxx
+  `----
+
+According to MSGOP(2), "If insufficient space is available in the queue, then
+the default behavior of msgsnd() is to block until space becomes available.  If
+IPC_NOWAIT is specified in msgflg, then the call instead fails with the error
+EAGAIN." This means they will wait for the message queue to become available
+(after the other clients have read from it) before it sends.

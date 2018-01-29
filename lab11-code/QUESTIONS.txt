@@ -1,0 +1,159 @@
+                           __________________
+
+                            LAB 11 QUESTIONS
+                           __________________
+
+
+- Name: (FILL THIS in)
+- NetID: (THE kauf0095 IN kauf0095@umn.edu)
+
+Answer the questions below according to the lab specification. Write
+your answers directly in this text file and submit it to complete Lab01.
+
+
+PROBLEM 1: Condition Variables
+==============================
+
+  Examine the three files
+  - `odds_evens_busy.c'
+  - `odds_evens_busy_nested_if.c'
+  - `odds_evens_condvar.c'
+  Each of these was discussed in class and in a follow-up Piazza
+  post. Each implements a slight variation on the odd/even worker
+  problem discussed in class.
+
+  The provided Makefile allows one to run part of the experiment
+  discussed on the Piazza post by entering
+  ,----
+  | make experiment
+  `----
+
+  Describe the 3 different techniques used by each of these
+  implementations and the timing differences that you get in the
+  experiment results. Keep in mind that "work" is simulated by short
+  sleeps by threads so the real/wall timing has little meaning while the
+  user/sys times have more meaning.
+
+Output:
+
+for prog in busy nested_if condvar ; do echo "time $prog:"; time ./$prog > /tmp/$prog.out; echo "-----"; done
+time busy:
+1.07user 0.91system 0:03.26elapsed 60%CPU (0avgtext+0avgdata 1584maxresident)k
+0inputs+3528outputs (0major+82minor)pagefaults 0swaps
+-----
+time nested_if:
+3.50user 0.27system 0:04.15elapsed 90%CPU (0avgtext+0avgdata 1624maxresident)k
+0inputs+3528outputs (0major+83minor)pagefaults 0swaps
+-----
+time condvar:
+0.22user 1.11system 0:02.85elapsed 46%CPU (0avgtext+0avgdata 1588maxresident)k
+0inputs+3528outputs (0major+84minor)pagefaults 0swaps
+-----
+for prog in busy nested_if condvar ; do wc -l /tmp/$prog.out; done
+40005 /tmp/busy.out
+40005 /tmp/nested_if.out
+40005 /tmp/condvar.out
+
+The "busy" implementation uses a while loop to check for when the mutex is
+available.
+
+The "nested_if" implementation simply waits until it has a chance to get the
+mutex, and then checks if it's even. Otherwise, it just releases it without
+doing anything. (potentially skipping certain iterations?)
+
+The "condvar" implementation uses pthread_cond_wait to wait until the count is
+even and then performs update.
+
+
+YOUR ANSWERS HERE:
+------------------
+
+
+PROBLEM 2: Mutex Dangers
+========================
+
+  A multi-threaded program has a number of worker threads which each
+  need to modify global data structures.  They are as follows:
+  - A workers must modify global data X and Y
+  - B workers must modify global data Y and Z
+
+
+A
+~
+
+  In one protocol design, there are two mutexes
+  - M1 is associated with accessing data X and Y
+  - M2 is associated with accessing data Y and Z
+  That means that
+  - A workers would acquire M1 when modifying X and Y and release when
+    finished
+  - B workers would acquire M2 when modify Y and Z and release when
+    finished
+
+  Describe a major flaw in this protocol.
+
+
+YOUR ANSWERS HERE:
+------------------
+
+B workers can't acquire lock M1, so when they're trying to access Y, they simply
+have to acquire lock M2. At the same time, A workers might have lock M1, so
+there could be a write race ending up with the wrong value.
+
+B
+~
+
+  In another protocol design, there are three mutexes
+  - MX is associated with accessing data X
+  - MY is associated with accessing data Y
+  - MZ is associated with accessing data Z
+
+  The workers do the following
+  - A workers acquire MX then MY then modify global data X and Y then
+    release both mutexes
+  - B workers acquire MY then MZ then modify global data Y and Z then
+    release both mutexes
+
+  Identify any problems you see this protocol such as deadlock or
+  starvation.  Describe a major flaw in this protocol.
+
+
+YOUR ANSWERS HERE:
+------------------
+
+The key is in the fact that the workers have to acquire the locks in some order.
+B workers can't acquire the MZ lock until they acquire MY, which might be held
+by A workers. Therefore, resource Z is being unnecessarily stalled.
+
+C
+~
+
+  A third protocol focuses on the A workers which modify global data X
+  and Y.  The intended changes for X and Y are independent so a
+  potentially more efficient protocol is the following.
+
+  "A" workers
+  1. Atomically check MX and lock it if possible
+     - If MX is acquired, modify X
+     - Acquire MY, modify Y
+     - Release both MX and MY
+  2. If MX is NOT available immediately
+     - Acquire MY, modify Y
+     - Acquire MX, modify X
+     - Release MX and MY
+
+  This protocol has the potential for deadlock. Explain a sequence of
+  events that would lead to deadlock and suggest a change in the
+  protocol to fix the problem.
+
+
+YOUR ANSWERS HERE:
+------------------
+
+The problem is that a worker must try to acquire both locks at the same time. If
+one worker has lock MX and another worker has lock MY, then neither of them
+would give up the lock until they have both. Conversely, neither of them would
+be able to acquire the other lock since it's already possessed. One way to fix
+this problem is to not require them to acquire both locks at the same time, or
+to specify that lock MX must be acquired before acquiring lock MY to keep
+lockless workers from touching MY.

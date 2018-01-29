@@ -1,0 +1,198 @@
+                           _________________
+
+                            LAB 06 QUESTIONS
+                           __________________
+
+
+- Name: Michael Zhang
+- NetID: zhan4854
+
+Answer the questions below according to the lab specification. Write
+your answers directly in this text file and submit it to complete Lab01.
+
+
+PROBLEM 1 `birth_death.c'
+=========================
+
+A
+~
+
+  Compile `circle_of_life.c' to the program `circle_of_life' and run
+  it. Examine the results and feel free to terminate execution
+  early. Examine the source code if desired though it is merely a
+  print/sleep loop.
+
+  Compile `birth_death.c' to the program `birth_death'. This program is
+  invoked with two arguments, another program name and a "lifetime"
+  which is an integer number of seconds. Run it like
+  ,----
+  | $> ./birth_death ./circle_of_life 4
+  `----
+  and show the output below.
+
+Nants ingonyama bagithi baba
+Sithi uhm ingonyama
+Nants ingonyama bagithi baba
+Sithi uhm ingonyama
+kill result: 0
+child process 13697 terminated with signal 2
+
+
+B
+~
+
+  Examine the source code for `birth_death.c' and determine the system
+  call the parent program (`birth_death') uses to send signals to the
+  child program. Paste this line below and explain which signal is being
+  sent.
+
+int result = kill(pid,SIGINT)
+
+This line invokes the kill system call and tells the child to kill itself. 
+
+
+C
+~
+
+  `birth_death.c' waits for a child to finish then outputs what signal
+  caused it to be terminated if that was the cause of death. Paste the
+  lines of code which determine if a child was terminated due to a
+  signal below and mention the macros used for this purpose.
+
+ 32   if(WIFSIGNALED(status)){                   // check if a signal ended the child                                                                                                                                          
+ 33     printf("child process %d terminated with signal %d\n",                                                                                                                                                                 
+ 34            pid,WTERMSIG(status));                                                                                                                                                                                          
+ 35   }
+
+Macros used were WIFSIGNALED to check if the child was terminated by a signal,
+and WTERMSIG which retruns the actual signal.
+
+
+D
+~
+
+  Compile the program `no_interruptions.c' and run it with
+  `birth_death'. Show your results below.
+
+  Note that you may need to send signals to `no_interruptions' to
+  forcibly end it. The `pkill' command is useful for this as in
+  ,----
+  | pkill no_inter        # send TERM signal to proc name matching "no_inter"
+  | pkill -KILL no_inter  # send KILL signal to proc name matching "no_inter"
+  `----
+
+Ma-na na-na!
+Ma-na na-na!
+Ma-na na-na!
+Ma-na na-na!
+
+kill result: 0
+No SIGINT-erruptions allowed.
+Ma-na na-na!
+Ma-na na-na!
+Ma-na na-na!
+Ma-na na-na!
+
+Try to SIGTERM me? Piss off!
+Ma-na na-na!
+Ma-na na-na!
+Ma-na na-na!
+
+
+E
+~
+
+  Examine the `no_interruptions.c' code and describe how it is able to
+  avoid being killed when receiving the interrupt and TERM signals. Show
+  the lines of code used to accomplish this signal handling.
+
+It uses signal handlers to catch the signals and handle them by not terminating
+itself, contrary to what the signal is telling it to do. The only signal it
+can't avoid is SIGKILL (and SIGSTOP but not used here) which forcefully
+terminates it.
+
+ 28   // Set handling functions for programs                                                                                                                                                                                   
+ 29   signal(SIGINT, handle_SIGINT);                                                                                                                                                                                           
+ 30   signal(SIGTERM, handle_SIGTERM); 
+
+
+PROBLEM 2 `start_stop.c'
+========================
+
+A
+~
+
+  Compile `start_stop.c' to the program `start_stop'. This program is
+  invoked identically to `birth_death' with two arguments, another
+  program name and an "interval" which is an integer number of
+  seconds. Run it like
+  ,----
+  | $> ./start_stop ./circle_of_life 3
+  `----
+  and show the output below. You may terminate the program early once
+  you see the pattern.
+
+Nants ingonyama bagithi baba
+Sithi uhm ingonyama
+Nants ingonyama bagithi baba
+SIGSTOP result: 0
+SIGCONT result: 0
+Sithi uhm ingonyama
+Ingonyama
+Siyo Nqoba
+SIGSTOP result: 0
+SIGCONT result: 0
+Ingonyama Ingonyama nengw' enamabala 
+From the day we arrive on the planet
+And blinking, step into the Sun
+
+
+B
+~
+
+  Describe at a high level the effect that `start_stop' has on a child
+  process it runs
+
+start_stop pauses and resumes the execution of the child process periodically
+(more precisely, based on the interval passed through the next argument), so in
+this case, it would let the child run for 3 seconds, then pause for 3 seconds,
+and then resume the loop until the child finished executing.
+
+C
+~
+
+  Examine the source code of `start_stop.c' and determine the types of
+  signals it uses to alter behavior of its child process and paste the
+  corresponding lines of code below.
+
+It uses the SIGSTOP signall with kill(), which stops the program that's
+executing but its behavior is more like pause. It resumes execution with SIGCONT
+afterwards. The relevant lines of code are:
+
+ 25     result = kill(pid,SIGSTOP);
+ 28     result = kill(pid,SIGCONT);
+
+D
+~
+
+  The program `no_interruptions.c' establishes signal handlers for some
+  signals allowing it to ignore signals that would normally terminate a
+  process. Investigate whether it is possible to similarly ignore the
+  signal used by `start_stop' to pause its child process. Hint: Consider
+  the provided program `cant_catch_sigstop.c' and run it with
+  `start_stop'.
+
+According to the manpage for SIGNAL(2), SIGSTOP cannot be caught by the program:
+
+The signals SIGKILL and SIGSTOP cannot be caught or ignored.
+
+As expected, the output of cant_catch_sigstop is:
+
+I'm awake, I'm awake!
+I'm awake, I'm awake!
+SIGSTOP result: 0
+SIGCONT result: 0
+I'm awake, I'm awake!
+I'm awake, I'm awake!
+
+and the signal has not been caught.

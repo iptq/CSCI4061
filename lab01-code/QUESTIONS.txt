@@ -1,0 +1,67 @@
+                           __________________
+
+                            LAB 01 QUESTIONS
+                           __________________
+
+
+- Name: Michael Zhang
+- NetID: zhan4854
+
+Answer the questions below according to the lab specification. Write
+your answers directly in this text file and submit it to complete Lab01.
+
+
+PROBLEM 1
+=========
+
+  Show output of the collatz sequence program starting at 17.
+
+Enter the starting integer: 17
+The next value in the Collatz sequence is 52
+Show output of steps (0:NO, any other int: yes): 1
+Step 0: 17
+Step 1: 52
+Step 2: 26
+Step 3: 13
+Step 4: 40
+Step 5: 20
+Step 6: 10
+Step 7: 5
+Step 8: 16
+Step 9: 8
+Step 10: 4
+Step 11: 2
+Step 12: 1
+The starting value 17 converged to 1 in 12 steps
+
+PROBLEM 2
+=========
+
+  Paste the Makefile you created for the lcd-clock project below.
+
+CFLAGS = -Wall -g
+CC = gcc $(CFLAGS)
+
+clock_sim: lcd_clock.o lcd_clock_main.o lcd_clock.h lcd_update.o
+	$(CC) -o clock_sim $^
+	@echo "clock_sim ready for duty"
+
+lcd_clock.o: lcd_clock.c lcd_clock.h
+	$(CC) -c $<
+
+lcd_clock_main.o: lcd_clock_main.c lcd_clock.h
+	$(CC) -c $<
+
+lcd_update.o: lcd_update.c lcd_clock.h
+	$(CC) -c $<
+
+test: clock_tests
+	@echo "Running clock_tests"
+	./clock_tests
+	@echo "Tests Complete"
+
+clock_tests: lcd_tests.c lcd_clock.o lcd_update.o lcd_clock.h
+	$(CC) -o $@ $^
+
+clean:
+	rm -f *.o

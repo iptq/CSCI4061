@@ -1,0 +1,102 @@
+                           __________________
+
+                            LAB 08 QUESTIONS
+                           __________________
+
+
+- Name: (FILL THIS in)
+- NetID: (THE kauf0095 IN kauf0095@umn.edu)
+
+Answer the questions below according to the lab specification. Write
+your answers directly in this text file and submit it to complete Lab01.
+
+
+PROBLEM 1 `server_em.c'
+=======================
+
+A
+~
+
+  Examine the source code for `em_server.c'. Note of the 3 FIFOs that
+  are used: Requests, Completions, and Data.  Describe what appears to
+  be the purpose of each from the server perspective.
+
+
+B
+~
+
+  What mechanism is used to notify clients that their request has been
+  filled and that data is ready on the Data FIFO?
+
+
+C
+~
+
+  How many clients have information on each of the FIFOs:
+  - On the Request FIFO?
+  - On the Completion FIFO?
+  - On the Data FIFO?
+
+
+PROBLEM 2 `client_em.c'
+=======================
+
+  Note that `read_AB.c' uses the same techniques as `sleep_print.c' to
+  set up signal handlers and shut down on receiving a signal.
+
+
+A
+~
+
+  Examine the `while()' loop in the client. When waiting for the server
+  to respond, does the client make use of busy waiting (polling),
+  interrupt-driven waiting, or something in between?
+
+
+B
+~
+
+  Experiment with changing the while() loop associated with server
+  responses.  Time running 100 transactions using the provided
+  `run_simulations.sh' script as in
+  ,----
+  | $> time run_simulation.sh 100 > xxx
+  `----
+  Note the timing. You may need to discuss with your TA how to interpret
+  the results of the shell `time' command which measures CPU utilization
+  for programs.
+
+  Comment out the `while()' loop associated with waiting and un-comment
+  the other `while()' loop.  Re-run the above script invocation and
+  report the differences in timing.
+
+
+PROBLEM 3 Protocol
+==================
+
+A
+~
+
+  Describe the overall protocol used by the client and server to
+  communicate. Use the labels in the messages like `C SERVER' and `B
+  CLIENT' to help you organize the order what happens when and things
+  can happen in an unpredictable order.
+
+
+B
+~
+
+  In an initial version of the programs, the client used the following
+  line to wait for a server response.
+  ,----
+  | raise(SIGSTOP);
+  `----
+  The `raise()' command sends a signal to the running process so that
+  the effect of this line is to stop the current process until a signal
+  to continue is received.  This approach was found to fail in many
+  cases causing the entire system to stall.
+
+  Based on your understanding of the protocol above, WHY could simply
+  stopping the client process result a breakdown?
+
+  You may wish to uncomment and try this version in the code.

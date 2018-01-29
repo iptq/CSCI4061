@@ -1,0 +1,2621 @@
+Symbol	Open	Low	Volume	Name
+NEA	13.79	13.77	304100	Nuveen AMT-Free Quality Municipal Income Fund
+NEE	151.5	151.03	1291000	NextEra Energy, Inc.
+NEM	37.72	37.55	3923700	Newmont Mining Corporation
+NEP	43.09	41	553600	NextEra Energy Partners, LP
+DNB	120.38	119.54	217100	Dun & Bradstreet Corporation (The)
+NEU	429.3	425.86	17000	NewMarket Corporation
+NEV	14.71	14.64	41000	Nuveen Enhanced Municipal Value Fund
+DWDP	70.8	70.53	5606700	DowDuPont Inc.
+DNI	13.1	13.05	13600	Dividend and Income Fund
+DNP	11.45	11.39	202000	Duff & Phelps Utilities Income, Inc.
+DNR	1.16	1.09	6693200	Denbury Resources Inc.
+CTBB	25.33	25.3	59700	Qwest Corporation
+SAH	20.25	20.15	229300	Sonic Automotive, Inc.
+SAM	176.15	174.95	381200	Boston Beer Company, Inc. (The)
+SAN	6.59	6.55	3392100	Banco Santander, S.A.
+SAP	111.12	110.86	328400	SAP SE
+SAR	22.33	22.15	24200	Saratoga Investment Corp
+A	66.68	65.99	1711800	Agilent Technologies, Inc.
+B	72.27	71.69	153400	Barnes Group, Inc.
+C	72.24	72	15743700	Citigroup Inc.
+D	79.03	78.24	1955400	Dominion Energy, Inc.
+E	32.91	32.63	89400	ENI S.p.A.
+F	12.13	12.12	55273200	Ford Motor Company
+G	29.61	29.5	812600	Genpact Limited
+VVC	66.75	66.7	212500	Vectren Corporation
+H	61.61	61.16	337000	Hyatt Hotels Corporation
+I	6.29	6.15	505400	Intelsat S.A.
+K	61.87	61.59	2032200	Kellogg Company
+L	49.07	48.515	550000	Loews Corporation
+M	19.88	19.68	8497300	Macy's Inc
+VVI	61.1	60.45	57500	Viad Corp
+NFG	56.44	56.44	391600	National Fuel Gas Company
+O	56.81	56.71	1258000	Realty Income Corporation
+P	7.9	7.88	3408600	Pandora Media, Inc.
+Q	99.26	99.065	1137500	Quintiles IMS Holdings, Inc.
+NFJ	13.41	13.36	171700	AllianzGI NFJ Dividend, Interest & Premium Strategy Fund
+R	79.45	78.68	806900	Ryder System, Inc.
+S	7.14	7.055	10231000	Sprint Corporation
+T	36.18	35.99	21663500	AT&T Inc.
+V	108.25	107.3	5979400	Visa Inc.
+VVR	4.44	4.43	476600	Invesco Senior Income Trust
+W	69.55	67.46	1736100	Wayfair Inc.
+X	26.68	26.49	7673700	United States Steel Corporation
+Y	552.66	551	63600	Alleghany Corporation
+DOC	17.97	17.95	636000	Physicians Realty Trust
+VVV	24	23.89	402400	Valvoline Inc.
+BGIO	10.15	10.11	73900	BlackRock 2022 Global Income Opportunity Trust
+NFX	30.11	29.555	2645100	Newfield Exploration Company
+SBH	17.67	17.59	1762500	Sally Beauty Holdings, Inc.
+DOV	94.62	93.9	791500	Dover Corporation
+SBR	40.55	40.32	10900	Sabine Royalty Trust
+SBS	10	9.74	2351700	Companhia de saneamento Basico Do Estado De Sao Paulo - Sabesp
+GSBD	22.54	22.38	118300	Goldman Sachs BDC, Inc.
+GDOT	54.13	53.7	192000	Green Dot Corporation
+NGG	62	61.79	518500	National Grid Transco, PLC
+NGL	11.75	11.3	508600	NGL ENERGY PARTNERS LP
+NGS	28.45	28.1	10100	Natural Gas Services Group, Inc.
+DPG	16.15	15.99	142400	Duff & Phelps Global Utility Income Fund Inc.
+SCA	25.39	25.38	1800	Stellus Capital Investment Corporation
+SCD	14.48	14.46	30200	LMP Capital and Income Fund Inc.
+DPS	89.44	88.95	679900	Dr Pepper Snapple Group, Inc
+SCG	48.78	48.06	1700700	Scana Corporation
+CEQP	24.15	23.75	141900	Crestwood Equity Partners LP
+SCI	34.26	34.2	758400	Service Corporation International
+CTDD	25.53	25.52	78100	Qwest Corporation
+TNET	34.18	33.54	175400	TriNet Group, Inc.
+SCL	88.34	87.325	53300	Stepan Company
+DPZ	193.5	191.83	1316900	Domino's Pizza Inc
+SCM	14.15	14	104400	Stellus Capital Investment Corporation
+SCS	15.4	15.1	388300	Steelcase Inc.
+SCX	8.8	8.5	7700	L.S. Starrett Company (The)
+NHA	10.02	10	3400	Nuveen Municipal 2021 Target Term Fund
+NHF	23.54	23.54	101000	NexPoint credit Strategies Fund
+NHI	77.43	76.955	117100	National Health Investors, Inc.
+MITT	19.5	19.5	95700	AG Mortgage Investment Trust, Inc.
+SALT	7.7	7.5	530200	Scorpio Bulkers Inc.
+TDOC	32.6	32.6	1027000	Teladoc, Inc.
+SDR	1.33	1.33	99800	SandRidge Mississippian Trust II
+SDT	1.31	1.31	46400	SandRidge Mississippian Trust I
+SSTK	33.89	33.72	172900	Shutterstock, Inc.
+NID	13.33	13.29	38000	Nuveen Intermediate Duration Municipal Term Fund
+NIE	20.64	20.6	79800	AllianzGI Equity & Convertible Income Fund
+GIMO	36	35.35	856800	Gigamon Inc.
+NIM	10.3	10.22	21800	Nuveen Select Maturities Municipal Fund
+NIQ	13.37	13.33	16900	Nuveenn Intermediate Duration Quality Municipal Term Fund
+DRD	3.62	3.48	134300	DRDGOLD Limited
+DRE	28.91	28.77	1654500	Duke Realty Corporation
+DRH	11	10.94	1350600	Diamondrock Hospitality Company
+DRI	79.08	78.865	2245500	Darden Restaurants, Inc.
+DRQ	43.05	42.1	425000	Dril-Quip, Inc.
+SEE	44.49	44.105	2045400	Sealed Air Corporation
+SEM	18.35	18.1	1377800	Select Medical Holdings Corporation
+SEP	43.72	43.65	307400	Spectra Energy Partners, LP
+INB	9.7	9.65	78300	Cohen & Steers Global Income Builder, Inc.
+INF	13.2	13.2	202400	Brookfield Global Listed Infrastructure Income Fund
+ING	18.36	18.32	2873300	ING Group, N.V.
+INN	16.12	15.905	773900	Summit Hotel Properties, Inc.
+INT	35.46	35.03	307700	World Fuel Services Corporation
+VZA	26.93	26.93	28700	Verizon Communications Inc.
+NJR	42.9	42.9	260400	NewJersey Resources Corporation
+DSE	6.31	6.18	151500	Duff & Phelps Select Energy MLP Fund Inc.
+NJV	14.9	14.87	2700	Nuveen New Jersey Municipal Value Fund
+DSL	21.3	21.22	206200	DoubleLine Income Solutions Fund
+DSM	8.53	8.53	85500	Dreyfus Strategic Municipal Bond Fund, Inc.
+SFE	14.15	14.05	27300	Safeguard Scientifics, Inc.
+DST	55.49	54.44	744300	DST Systems, Inc.
+DSU	11.8	11.75	55500	Blackrock Debt Strategies Fund, Inc.
+DSW	18.81	18.68	1561400	DSW Inc.
+DSX	4.06	3.99	619200	Diana Shipping inc.
+SFL	14.95	14.85	852400	Ship Finance International Limited
+SFR	36.25	36.23	547900	Starwood Waypoint Homes
+SFS	6.7	6.55	303000	Smart
+TIME	12.75	12.2	960000	Time Inc.
+NKE	51.5	51.38	9492600	Nike, Inc.
+NKG	13.2	13.16	3300	Nuveen Georgia Quality Municipal Income Fund
+DTE	109.63	109.33	1095900	DTE Energy Company
+DTF	14.25	14.25	13400	Duff & Phelps Utilities Tax-Free Income, Inc.
+MFCB	9.31	9.3	3800	MFC Bancorp Ltd.
+NKX	15.79	15.79	55800	Nuveen California AMT-Free Quality Municipal Income Fund
+DTJ	25.6	25.6	16100	DTE Energy Company
+DTK	25.95	25.95	140300	Deutsche Bank AG
+DTQ	25.11	25.05	9400	DTE Energy Company
+SGF	12.35	12.35	8000	Aberdeen Singapore Fund, Inc.
+DECK	64.95	64.93	610400	Deckers Outdoor Corporation
+DTV	55.09	54.8	58300	DTE Energy Company
+DTY	27.11	27.07	9400	DTE Energy Company
+SGU	11.08	11.08	26700	Star Gas Partners, L.P.
+IPG	21.21	20.99	13540600	Interpublic Group of Companies, Inc. (The)
+IPI	4.06	3.825	1098700	Intrepid Potash, Inc
+SGY	28.63	27.97	84100	Stone Energy Corporation
+KREF	21.47	21.3	13000	KKR Real Estate Finance Trust Inc.
+SSWN	25.49	25.31	7500	Seaspan Corporation
+XCO	1.21	1.21	175000	EXCO Resources NL
+MIXT	10.05	9.81	113200	MiX Telematics Limited
+DUC	9.16	9.09	73600	Duff & Phelps Utility & Corporate Bond Trust, Inc.
+NLS	16.9	16.75	60400	Nautilus Group, Inc. (The)
+NLY	12.3	12.27	7031800	Annaly Capital Management Inc
+DUK	86.99	86.78	2355500	Duke Energy Corporation
+JELD	35.64	35.27	196500	JELD-WEN Holding, Inc.
+NVRO	90.47	89.77	145600	Nevro Corp.
+GEF.B	64	62.025	7500	Greif Bros. Corporation
+EURN	8.6	8.5	379400	Euronav NV
+SHG	43.79	43.54	48700	Shinhan Financial Group Co Ltd
+SHI	62.56	61.92	10200	SINOPEC Shangai Petrochemical Company, Ltd.
+SHO	16.68	16.61	1717200	Sunstone Hotel Investors, Inc.
+AAC	7.97	7.83	105800	AAC Holdings, Inc.
+SHW	384.56	381.42	519000	Sherwin-Williams Company (The)
+IQI	12.67	12.61	75900	Invesco Quality Municipal Income Trust
+RMAX	66.1	65.95	67500	RE/MAX Holdings, Inc.
+CRD.A	9.9	9.64	3900	Crawford & Company
+CRD.B	12.06	11.795	13700	Crawford & Company
+AAN	41.73	41.48	342400	Aaron's,  Inc.
+AAP	86.38	86.2	2100200	Advance Auto Parts Inc
+AAT	40.46	40.36	123900	American Assets Trust, Inc.
+AAV	5.45	5.4	51700	Advantage Oil & Gas Ltd
+MAIN	40.25	39.93	167900	Main Street Capital Corporation
+NMI	11.6	11.59	17100	Nuveen Municipal Income Fund, Inc.
+NMM	2.1	2.09	259200	Navios Maritime Partners LP
+DVA	56.87	56.445	2239600	DaVita Inc.
+NMR	5.85	5.79	112500	Nomura Holdings Inc ADR
+NMS	15.47	15.29	12400	Nuveen Minnesota Quality Municipal Income Fund
+DVD	2	1.975	16200	Dover Motorsports, Inc.
+NMT	14.46	14.46	2500	Nuveen Massachusetts Municipal Income Fund
+NMY	12.86	12.84	23100	Nuveen Maryland Quality Municipal Income Fund
+NMZ	13.67	13.65	100700	Nuveen Municipal High Income Opportunity Fund
+JEMD	10.025	10	13300	Nuveen Emerging Markets Debt 2022 Target Term Fund
+DVN	35.86	35.185	3160700	Devon Energy Corporation
+SID	3.12	3.04	1915100	National Steel Company
+ANDV	104.31	103.97	1013200	Andeavor
+SIG	60.75	60.75	1061900	Signet Jewelers Limited
+ANDX	47.42	47.18	219900	Andeavor Logistics LP
+ABB	24.94	24.9	974700	ABB Ltd
+ABC	78.89	78.4	1043900	AmerisourceBergen Corporation (Holding Co)
+SIX	61.11	59.61	2217900	Six Flags Entertainment Corporation New
+ABG	56.85	56.5	171400	Asbury Automotive Group Inc
+IRL	13.81	13.55	15700	New Ireland Fund, Inc. (The)
+IRM	39.78	39.6	998600	Iron Mountain Incorporated
+XEC	115.94	115.25	608900	Cimarex Energy Co
+ABM	42.81	42.36	167100	ABM Industries Incorporated
+IRR	6.34	6.3	79300	Voya Natural Resources Equity Income Fund
+IRS	25.05	24.93	48700	IRSA Inversiones Y Representaciones S.A.
+IRT	10.39	10.315	499400	Independence Realty Trust, Inc.
+ABR	8.35	8.35	516300	Arbor Realty Trust
+ABT	54.59	54.4	5432900	Abbott Laboratories
+XEL	48.58	48.37	2808200	Xcel Energy Inc.
+ABX	16.14	16.02	7918900	Barrick Gold Corporation
+NNA	1.27	1.23	338800	Navios Maritime Acquisition Corporation
+NNC	13.32	13.27	14200	Nuveen North Carolina Quality Municipal Income Fd
+NNI	51.5	51.11	41200	Nelnet, Inc.
+NNN	42.31	42.3	531100	National Retail Properties
+NVTA	9.78	9.78	602600	Invitae Corporation
+NNY	10.4	10.34	5100	Nuveen New York Municipal Value Fund, Inc.
+ANET	188.86	188.86	355100	Arista Networks, Inc.
+SJI	32.29	32.04	1348000	South Jersey Industries, Inc.
+SJM	105.51	103.63	1171600	J.M. Smucker Company (The)
+LKSD	16.01	16	117100	LSC Communications, Inc.
+SJR	22	21.91	443300	Shaw Communications Inc.
+ADNT	84.45	84.45	472700	Adient plc
+ISD	15.15	15.1	107700	Prudential Short Duration High Yield Fund, Inc.
+SJT	8.04	7.93	168100	San Juan Basin Royalty Trust
+ACC	44	43.46	1468700	American Campus Communities Inc
+ISF	25.57	25.56	40600	ING Group, N.V.
+BBVA	8.53	8.475	1340300	Banco Bilbao Viscaya Argentaria S.A.
+ISG	25.61	25.61	32500	ING Group, N.V.
+SJW	62.72	62.46	70100	SJW Group
+ACH	22.37	22.345	84100	Aluminum Corporation of China Limited
+ACM	35.75	35.6	370900	AECOM
+ACN	138.91	138.28	1446700	Accenture plc
+ACP	14.75	14.68	58300	Avenue Income Credit Strategies Fund
+ACV	22.14	21.95	29700	AllianzGI Diversified Income & Convertible Fund
+EHIC	11.33	10.95	93200	eHi Car Services Limited
+NOA	4.17	4.05	41700	North American Energy Partners, Inc.
+NOC	295.5	293.74	585000	Northrop Grumman Corporation
+NOK	5.85	5.82	6370900	Nokia Corporation
+DXB	25.5	25.49	49800	Deutsche Bank AG
+DXC	91.39	91.17	2411400	DXC Technology Company
+ANFI	5.96	5.93	116200	Amira Nature Foods Ltd
+NOV	34.94	34.29	3477800	National Oilwell Varco, Inc.
+NOW	121.54	121	1084200	ServiceNow, Inc.
+VTRB	25.33	25.32	2400	Ventas Realty, Limited Partnership // Ventas Capital Corporati
+MFGP	32.5	32	692700	Micro Focus Intl PLC
+SKM	26.4	25.9	770000	SK Telecom Co., Ltd.
+EMES	7.42	7.13	258000	Emerge Energy Services LP
+SKT	24.85	24.85	652500	Tanger Factory Outlet Centers, Inc.
+ADC	49.81	49.22	120600	Agree Realty Corporation
+ITG	23.6	23.29	156800	Investment Technology Group, Inc.
+SKX	24.28	24.28	2259100	Skechers U.S.A., Inc.
+CTLT	41.95	41.49	414400	Catalent, Inc.
+ADM	43.62	43.4	1271900	Archer-Daniels-Midland Company
+ITT	46.71	46.43	501200	ITT Inc.
+ADS	228.75	226.52	411400	Alliance Data Systems Corporation
+ITW	153.04	152.65	725900	Illinois Tool Works Inc.
+ADX	15.47	15.45	88600	Adams Diversified Equity Fund, Inc.
+NPK	110.3	109.15	11800	National Presto Industries, Inc.
+SPGI	162.76	161.14	857800	S&P Global Inc.
+NPN	15.5	15.5	700	Nuveen Pennsylvania Municipal Value Fund
+NPO	80.47	78.9	170800	EnPro Industries
+NPV	13.25	13.18	33100	Nuveen Virginia Quality Municipal Income Fund
+DYN	9.56	9.29	4690900	Dynegy Inc.
+SLB	66.88	66.26	6621400	Schlumberger N.V.
+SLD	16	15.75	34300	Sutherland Asset Management Corporation
+SLF	39.43	39.23	263600	Sun Life Financial Inc.
+ITUB	13.97	13.8	6833800	Itau Unibanco Banco Holding SA
+SLG	102.81	101.94	923100	SL Green Realty Corporation
+AEB	24.53	24.51	26200	Aegon NV
+AED	26.33	26.14	210200	Aegon NV
+AEE	60.42	60.42	1130300	Ameren Corporation
+AEG	5.77	5.76	2307100	Aegon NV
+AEH	25.88	25.83	277100	Aegon NV
+AEK	26.37	26.37	20300	Aegon NV
+AEL	30.17	29.74	212700	American Equity Investment Life Holding Company
+AEM	45.07	44.645	1013500	Agnico Eagle Mines Limited
+AEO	12.9	12.69	2755700	American Eagle Outfitters, Inc.
+AEP	72.84	72.52	1721900	American Electric Power Company, Inc.
+AER	52.59	52.35	691200	Aercap Holdings N.V.
+AES	11.24	11.18	3623600	The AES Corporation
+AET	150.79	150.79	1922700	Aetna Inc.
+TISI	12.25	11.9	378100	Team, Inc.
+XHR	22.01	21.65	510800	Xenia Hotels & Resorts, Inc.
+FAC	1.05	1.05	100	First Acceptance Corporation
+FAF	50.72	49.91	822700	First American Corporation (The)
+NQP	13.65	13.63	25000	Nuveen Pennsylvania Quality Municipal Income Fund
+FAM	11.73	11.67	50300	First Trust/Aberdeen Global Opportunity Income Fund
+CORR	36.44	35.83	64200	CorEnergy Infrastructure Trust, Inc.
+SMG	100	98.97	233600	Scotts Miracle-Gro Company (The)
+SMI	6.49	6.36	691300	Semiconductor  Manufacturing International Corporation
+SMM	11.28	11.17	67800	Salient Midstream & MLP Fund
+SMP	47.15	46.91	45500	Standard Motor Products, Inc.
+IVC	14.5	14.4	354500	Invacare Corporation
+AFB	13.85	13.82	48200	Alliance National Municipal Income Fund Inc
+AFC	25.74	25.665	15000	Ares Capital Corporation
+DRUA	25.66	25.59	45600	Dominion Energy, Inc.
+IVH	15.95	15.77	54500	Ivy High Income Opportunities Fund
+AFG	104.71	104.02	260000	American Financial Group, Inc.
+AFI	15.83	15.57	58100	Armstrong Flooring, Inc.
+AFL	84.16	83.45	906800	Aflac Incorporated
+IVR	17.67	17.67	346300	INVESCO MORTGAGE CAPITAL INC
+AFT	16.81	16.73	46400	Apollo Senior Floating Rate Fund Inc.
+IVZ	36.34	36.025	1979400	Invesco Plc
+XIN	5.78	5.62	178500	Xinyuan Real Estate Co Ltd
+NRE	13.77	13.7	72500	NorthStar Realty Europe Corp.
+FBC	35.76	35.47	55300	Flagstar Bancorp, Inc.
+VOYA	40	39.36	1750300	Voya Financial, Inc.
+NRG	26.55	25.91	6414200	NRG Energy, Inc.
+NRK	13.11	13.11	165200	Nuveen New York AMT-Free Quality Municipal
+MANU	18.2	18.15	14800	Manchester United Ltd.
+FBK	37.95	37.64	34100	FB Financial Corporation
+NRP	25.95	25.65	8500	Natural Resource Partners LP
+FBM	13.59	13.31	150600	Foundation Building Materials, Inc.
+FBP	4.85	4.73	1692800	First BanCorp.
+NRT	6.81	6.5	27400	North European Oil Royality Trust
+GNRC	50.95	50.1	808000	Generac Holdlings Inc.
+FBR	16.75	16.17	1869800	Fibria Celulose S.A.
+KMPA	26.94	26.81	10900	Kemper Corporation
+NRZ	17.17	17.11	1299700	New Residential Investment Corp.
+SNA	151.92	151.46	478700	Snap-On Incorporated
+SNE	37.07	36.83	562000	Sony Corp Ord
+YUMC	42.5	42.43	1974600	Yum China Holdings, Inc.
+YUME	4.41	4.41	92800	YuMe, Inc.
+GNRT	4.95	4.89	184500	Gener8 Maritime, Inc.
+KMPR	58.85	57.65	109400	Kemper Corporation
+SNN	37.55	37.48	1463400	Smith & Nephew SNATS, Inc.
+SNP	74.93	74.46	92100	China Petroleum & Chemical Corporation
+SNR	8.83	8.81	627100	New Senior Investment Group Inc.
+AGC	6.24	6.22	74000	Advent Claymore Convertible Securities and Income Fund II
+SNV	45.5	44.98	1385600	Synovus Financial Corp.
+AGD	10.87	10.84	43100	Alpine Global Dynamic Dividend Fund
+SNX	132.41	130.95	145600	Synnex Corporation
+TSLF	17.34	17.28	21000	THL Credit Senior Loan Fund
+SNY	49.4	49.21	447200	Sanofi
+AGI	6.92	6.89	1569200	Alamos Gold Inc.
+AGM	76.4	74.265	38500	Federal Agricultural Mortgage Corporation
+AGN	199.01	197.3	5097500	Allergan plc.
+AGO	37.32	36.99	884100	Assured Guaranty Ltd.
+AGR	47.79	47.63	318700	Avangrid, Inc.
+LGF.A	30.49	30.23	323400	Lions Gate Entertainment Corporation
+AGU	108.25	106.63	204800	Agrium Inc.
+LGF.B	29.66	29.35	314400	Lions Gate Entertainment Corporation
+AGX	67.15	65.8	139000	Argan, Inc.
+TSLX	20.78	20.62	88800	TPG Specialty Lending, Inc.
+NSA	24.82	24.65	196300	National Storage Affiliates Trust
+NSC	128.77	128.64	1894300	Norfolk Souther Corporation
+FCB	47.1	46.55	333500	FCB Financial Holdings, Inc.
+PBFX	20.5	20.3	36700	PBF Logistics LP
+NSH	19.3	18.9	189900	Nustar GP Holdings, LLC
+FCF	14.23	13.92	388300	First Commonwealth Financial Corporation
+NSL	6.77	6.76	24200	Nuveen Senior Income Fund
+NSM	19.2	19.11	393900	Nationstar Mortgage Holdings Inc.
+NSP	93.1	92.7	110900	Insperity, Inc.
+FCN	36.5	36.17	140100	FTI Consulting, Inc.
+NSS	25.28	25.18	18500	NuStar Logistics, L.P.
+FCT	13.33	13.31	79500	First Trust Senior Floating Rate Income Fund II
+FCX	15.02	14.66	22915200	Freeport-McMoran, Inc.
+COTV	34.8	34.8	165100	Cotiviti Holdings, Inc.
+COTY	16.71	15.99	8238200	Coty Inc.
+SOI	16.18	15.73	150300	Solaris Oilfield Infrastructure, Inc.
+SOL	2.37	2.33	21300	Renesola Ltd.
+SON	51.39	51.24	880300	Sonoco Products Company
+SOR	40.81	40.75	12800	Source Capital, Inc.
+AHC	4.49	4.45	27000	A.H. Belo Corporation
+ADSW	24.58	24.43	194200	Advanced Disposal Services, Inc.
+NDRO	4.1	4.05	40200	Enduro Royalty Trust
+AHH	14.11	14.11	77400	Armada Hoffler Properties, Inc.
+AHL	41.9	40.8	546100	Aspen Insurance Holdings Limited
+AHP	10.04	9.97	244300	Ashford Hospitality Prime, Inc.
+AHT	7.03	6.94	447800	Ashford Hospitality Trust Inc
+NTB	36.22	35.46	162800	Bank of N.T. Butterfield & Son Limited (The)
+NTC	12.17	12.17	28400	Nuveen Connecticut Quality Municipal Income Fund
+FDC	18.03	17.89	6052100	First Data Corporation
+NTG	17.69	17.51	124300	Tortoise MLP Fund, Inc.
+HIFR	22.77	22.64	48100	InfraREIT, Inc.
+NTL	39.99	39.97	1700	Nortel Inversora SA
+NTP	12.5	12.2	69600	Nam Tai Property Inc.
+FDP	46.91	46.05	143100	Fresh Del Monte Produce, Inc.
+FDS	177.99	177.435	227900	FactSet Research Systems Inc.
+NTX	14.68	14.68	6800	Nuveen Texas Quality Municipal Income Fund
+NTZ	2	2	11900	Natuzzi, S.p.A.
+FDX	221.01	219.81	1034000	FedEx Corporation
+POST	86.97	86.1	362200	Post Holdings, Inc.
+SPA	23.28	23.26	27100	Sparton Corporation
+SPE	15.81	15.81	5500	Special Opportunities Fund Inc.
+SPG	165.19	164.82	1366100	Simon Property Group, Inc.
+SPH	26.58	26.21	212200	Suburban Propane Partners, L.P.
+SPN	9.99	9.65	3099500	Superior Energy Services, Inc.
+SPR	79.56	78.85	723600	Spirit Aerosystems Holdings, Inc.
+AIC	24.5	24.5	2100	Arlington Asset Investment Corp
+LCII	122.2	120.15	103400	LCI Industries
+AIF	16.37	16.26	26900	Apollo Tactical Income Fund Inc.
+AIG	63.85	63.47	5381700	American International Group, Inc.
+ASGN	55.28	54.98	228000	On Assignment, Inc.
+AIN	57.9	56.95	63100	Albany International Corporation
+FCAU	17.49	17.29	2324300	Fiat Chrysler Automobiles N.V.
+AIR	38.27	38.11	73300	AAR Corp.
+AIT	64.15	63.7	130700	Applied Industrial Technologies, Inc.
+AIV	44.17	44.05	802400	Apartment Investment and Management Company
+AIY	25.9	25.83	33400	Apollo Investment Corporation
+AIZ	96.32	95.85	506500	Assurant, Inc.
+NUE	56.97	56.91	2107600	Nucor Corporation
+NUM	13.67	13.66	27800	Nuveen Michigan Quality Municipal Income Fund
+NUO	15.07	15.04	18300	Nuveen Ohio Quality Municipal Income Fund
+FEO	16.93	16.92	12400	First Trust/Aberdeen Emerging Opportunity Fund
+NUS	63.99	63.38	395800	Nu Skin Enterprises, Inc.
+SPLP	18.3	18.2	7400	Steel Partners Holdings LP
+NUV	10.3	10.27	224000	Nuveen AMT-Free Municipal Value Fund
+NUW	17.43	17.32	37500	Nuveen AMT-Free Municipal Value Fund
+FET	14	13.8	506300	Forum Energy Technologies, Inc.
+SFUN	4.43	4.38	2382100	Fang Holdings Limited
+KAI	100.3	98.55	43800	Kadant Inc
+SQM	59.32	58.61	1936700	Sociedad Quimica y Minera S.A.
+KAP	25.28	25.18	800	KCAP Financial, Inc.
+KAR	47.98	47.7	679300	KAR Auction Services, Inc
+AJG	62.22	61.71	603800	Arthur J. Gallagher & Co.
+AJX	14.53	14.5	19200	Great Ajax Corp.
+FFA	15.2	15.17	75400	First Trust
+FFC	21.45	21.32	56500	Flaherty & Crumrine Preferred Securities Income Fund Inc
+NVG	15.5	15.45	249300	Nuveen AMT-Free Municipal Credit Income Fund
+TAHO	5.03	4.97	1425900	Tahoe Resources, Inc.
+FFG	78.25	76.25	24500	FBL Financial Group, Inc.
+NVO	48.91	48.797	1966500	Novo Nordisk A/S
+NVR	2951.6	2898.19	20600	NVR, Inc.
+NVS	85.85	85.76	1294500	Novartis AG
+PGEM	16.95	16.65	75300	Ply Gem Holdings, Inc.
+SRC	8.53	8.485	3981000	Spirit Realty Capital, Inc.
+SRE	114.28	113.57	1121400	Sempra Energy
+SRF	8.59	8.52	6000	Cushing Energy Income Fund (The)
+SRG	44.15	43.24	592200	Seritage Growth Properties
+SRI	22.17	22.08	133200	Stoneridge, Inc.
+KBH	27.23	27.005	1617900	KB Home
+SRT	11.93	11.7	24300	StarTek, Inc.
+KBR	18.47	18.15	2262600	KBR, Inc.
+SRV	12.02	11.82	22800	The Cushing MLP Total Return Fund
+AKP	13.8	13.77	26800	Alliance California Municipal Income Fund Inc
+AKR	30.22	30.22	349500	Acadia Realty Trust
+ASIX	44.5	43.86	246000	AdvanSix Inc.
+AKS	5.67	5.65	12515100	AK Steel Holding Corporation
+FGB	7	6.88	62800	First Trust Specialty Finance and Financial Opportunities Fund
+NWE	58.55	58.31	159100	NorthWestern Corporation
+XNY	1.31	1.28	37400	China Xiniya Fashion Limited
+NWL	42.49	41.83	4029700	Newell Brands Inc.
+JONE	1.39	1.23	721600	Jones Energy, Inc.
+NWN	65.5	65.3	75000	Northwest Natural Gas Company
+FGL	31.2	31.1	201400	Fidelity and Guaranty Life
+FGP	4.92	4.83	357300	Ferrellgas Partners, L.P.
+NWY	2.02	1.99	243600	New York & Company, Inc.
+SSD	49.7	49.435	249100	Simpson Manufacturing Company, Inc.
+SSI	1.78	1.76	134700	Stage Stores, Inc.
+GRP.U	40.64	40.31	3300	Granite Real Estate Inc.
+SSL	29.14	28.9	214100	Sasol Ltd.
+SSP	18.03	17.89	270600	E.W. Scripps Company (The)
+ALB	140.5	138.89	1049200	Albemarle Corporation
+ALE	78.16	77.58	167400	Allete, Inc.
+SSW	7.32	7.28	1607300	Seaspan Corporation
+ALG	109.67	107.52	46500	Alamo Group, Inc.
+CLDR	15.3	15.17	1124800	Cloudera, Inc.
+ALK	80.75	80.04	1150800	Alaska Air Group, Inc.
+CLDT	22.15	22.03	139200	Chatham Lodging Trust (REIT)
+ALL	92.46	91.12	3196800	Allstate Corporation (The)
+WBAI	11.13	10.97	75200	500.com Limited
+SCCO	43.5	42.71	711300	Southern Copper Corporation
+ALV	125.42	124.75	410300	Autoliv, Inc.
+XOM	82.63	82.54	6444100	Exxon Mobil Corporation
+ALX	429.68	429.68	4200	Alexander's, Inc.
+XON	17.81	17.77	735200	Intrexon Corporation
+NXC	15.72	15.6	5500	Nuveen Insured California Select Tax-Free Income Portfolio
+NXJ	13.86	13.82	80000	Nuveen New Jersey Quality Municipal Income Fund
+NXN	14.12	14.02	3900	Nuveen Insured New York Select Tax-Free Income Portfolio
+MATX	27.25	26.82	111400	Matson, Inc.
+NXP	14.99	14.94	30400	Nuveen Select Tax Free Income Portfolio
+FHN	19.35	18.9	3613500	First Horizon National Corporation
+NXQ	14.21	14.12	13700	Nuveen Select Tax Free Income Portfolio II
+NXR	15.12	15.09	14100	Nuveen Select Tax Free Income Portfolio III
+BF.A	56.24	56.24	10100	Brown Forman Corporation
+BF.B	55.24	55.24	506700	Brown Forman Corporation
+FHY	13.54	13.52	36300	First Trust Strategic High Income Fund II
+STC	37.8	37.5	44000	Stewart Information Services Corporation
+STE	90.35	90.35	233500	STERIS plc
+STI	60.01	59.11	2508900	SunTrust Banks, Inc.
+STK	22.64	22.59	29300	Columbia Seligman Premium Technology Growth Fund, Inc
+STL	24.6	24.1	1436600	Sterling Bancorp
+STM	20.18	20.06	2919500	STMicroelectronics N.V.
+STN	28.35	28.2	12800	Stantec Inc
+STO	20.37	20.324	1837500	Statoil ASA
+STT	98.64	97.065	1458000	State Street Corporation
+AMC	13.85	13.6	1322700	AMC Entertainment Holdings, Inc.
+AME	67.75	67.75	885200	AMTEK, Inc.
+HSBC	49.19	48.95	1356900	HSBC Holdings plc
+AMG	195.57	193.39	243000	Affiliated Managers Group, Inc.
+STZ	210.11	209.87	2758600	Constellation Brands Inc
+AMH	21.48	21.47	1495400	American Homes 4 Rent
+AMN	42	41.74	258500	AMN Healthcare Services Inc
+AMP	153.54	152.17	592800	AMERIPRISE FINANCIAL SERVICES, INC.
+AMT	139.65	138.07	1393100	American Tower Corporation (REIT)
+AMX	18.04	17.9	5991400	America Movil, S.A.B. de C.V.
+XPO	66.67	64.58	1178500	XPO Logistics, Inc.
+FIF	18.95	18.66	58700	First Trust Energy Infrastructure Fund
+FIG	7.99	7.97	185800	Fortress Investment Group LLC
+FII	31.69	30.96	815100	Federated Investors, Inc.
+NYT	19.2	18.85	1614600	New York Times Company (The)
+NYV	14.79	14.77	800	Nuveen New York Municipal Value Fund 2
+FIS	95.24	94.13	963900	Fidelity National Information Services, Inc.
+FIT	6.54	6.35	5191500	Fitbit, Inc.
+FIV	9.61	9.57	123000	First Trust Senior Floating Rate 2022 Target Term Fund
+FIX	36.85	36.1	134600	Comfort Systems USA, Inc.
+KED	17.07	16.7	30100	Kayne Anderson Energy Development Company
+SUI	88	87.9	272900	Sun Communities, Inc.
+KEG	12.06	11.75	70400	Key Energy Services, Inc.
+SUM	31.58	30.99	816000	Summit Materials, Inc.
+SUN	31.5	31.05	208400	Sunoco LP
+KEM	26.36	26.02	1549100	Kemet Corporation
+SUP	16.85	16.8	127300	Superior Industries International, Inc.
+KEP	17.47	17.434	406700	Korea Electric Power Corporation
+ANF	13.03	12.92	1559800	Abercrombie & Fitch Company
+USAC	17.04	16.81	41900	USA Compression Partners, LP
+ANH	6.08	6.05	142500	Anworth Mortgage Asset  Corporation
+KEX	65.25	64.95	340300	Kirby Corporation
+KEY	18.46	18.15	8031900	KeyCorp
+PAA	20.57	20.55	2368800	Plains All American Pipeline, L.P.
+FCFS	60.35	60.15	215600	First Cash, Inc.
+PAC	95.92	95.36	87100	Grupo Aeroportuario Del Pacifico, S.A. de C.V.
+PAG	45.29	45.18	178300	Penske Automotive Group, Inc.
+PAH	11.28	10.83	2704600	Platform Specialty Products Corporation
+PAI	16.31	16.24	22200	Pacific American Income Shares, Inc.
+ANW	4.55	4.5	463100	Aegean Marine Petroleum Network Inc.
+PAM	66.43	64	254700	Pampa Energia S.A.
+NZF	15.17	15.15	151700	Nuveen Municipal Credit Income Fund
+PAR	10.9	10.56	16300	PAR Technology Corporation
+PAY	20.26	20.07	636100	Verifone Systems, Inc.
+SHAK	33.55	33.55	340100	Shake Shack, Inc.
+SVU	18.8	18.5	1569800	SuperValu Inc.
+AOD	9.15	9.12	186400	Alpine Total Dynamic Dividend Fund
+KFS	6	5.9	11200	Kingsway Financial Services, Inc.
+AOI	11.05	10.9	21900	Alliance One International, Inc.
+KFY	40.32	39.82	200800	Korn/Ferry International
+AON	150.04	148.5	852000	Aon plc
+PBA	34.18	33.49	484400	Pembina Pipeline Corp.
+CLGX	48.88	48.74	1266900	CoreLogic, Inc.
+PBB	26.07	25.945	3200	Prospect Capital Corporation
+XRF	11.08	11.06	1428800	China Rapid Finance Limited
+AOS	61.15	60.57	592200	Smith (A.O.) Corporation
+PBF	27.48	27.4	2135700	PBF Energy Inc.
+PBH	47.64	47.29	274300	Prestige Brand Holdings, Inc.
+PBI	13.79	13.47	1925500	Pitney Bowes Inc.
+XRM	4.9	4.89	24800	Xerium Technologies, Inc.
+CBPX	26.5	26.45	226300	Continental Building Products, Inc.
+PBR	10.47	10.35	12146900	Petroleo Brasileiro S.A.- Petrobras
+PBT	9.25	9.11	68000	Permian Basin Royalty Trust
+XRX	33.02	32.64	1194700	Xerox Corporation
+KGC	4.25	4.21	6274300	Kinross Gold Corporation
+SWJ	25.325	25.26	16400	Stanley Black & Decker, Inc.
+SWK	158.59	156.55	655300	Stanley Black & Decker, Inc.
+DESP	32.76	30.06	510600	Despegar.com, Corp.
+SWM	42	41.35	91400	Schweitzer-Mauduit International, Inc.
+SWN	5.57	5.57	11653100	Southwestern Energy Company
+SWP	117.26	117.03	1300	Stanley Black & Decker, Inc.
+APA	42.57	42.19	3392700	Apache Corporation
+APB	14.39	14.39	1300	Asia Pacific Fund, Inc. (The)
+APC	48.34	47.95	4374800	Anadarko Petroleum Corporation
+APD	153.68	152.8	585600	Air Products and Chemicals, Inc.
+HSEA	27.19	27.19	43000	HSBC Holdings plc
+HSEB	26.97	26.95	79600	HSBC Holdings plc
+APF	18.02	17.95	10300	Morgan Stanley Asia-Pacific Fund, Inc.
+SWX	79.06	78.91	173200	Southwest Gas Holdings, Inc.
+APH	86.98	86.47	993800	Amphenol Corporation
+SWZ	12.8	12.75	10900	Swiss Helvetia Fund, Inc. (The)
+APO	31.46	31.23	1097200	Apollo Global Management, LLC
+PCF	9.01	8.98	12300	Putnam High Income Bond Fund
+PCG	55.4	54.46	27735300	Pacific Gas & Electric Co.
+APU	44.74	44.6	96900	AmeriGas Partners, L.P.
+PCI	22.72	22.45	1926400	PIMCO Dynamic Credit and Mortgage Income Fund
+PCK	10.11	10.11	29900	Pimco California Municipal Income Fund II
+PCM	11.67	11.37	72000	PIMCO Commercial Mortgage Securities Trust, Inc.
+JBGS	32.49	32.43	625000	JBG SMITH Properties
+PCN	17.17	16.85	180700	Pimco Corporate & Income Stategy Fund
+PCQ	17.17	17.17	46900	PIMCO California Municipal Income Fund
+FLC	21.5	21.45	22500	Flaherty & Crumrine Total Return Fund Inc
+FCE.A	25.21	24.94	1038200	Forest City Realty Trust, Inc.
+MAXR	60.88	60.88	409800	Maxar Technologies Ltd.
+FLO	18.93	18.74	1568500	Flowers Foods, Inc.
+FLR	42.67	42.415	1341600	Fluor Corporation
+FLS	44.51	44.37	923700	Flowserve Corporation
+FLT	160.72	160.36	503400	FleetCor Technologies, Inc.
+LMHA	26.88	26.78	23700	Legg Mason, Inc.
+FLY	14.29	14.23	24300	Fly Leasing Limited
+LMHB	25.08	25.08	81500	Legg Mason, Inc.
+SXC	9.85	9.72	269300	SunCoke Energy, Inc.
+SXE	2.17	2.05	75600	Southcross Energy Partners, L.P.
+SXI	103.6	102.75	27100	Standex International Corporation
+SXT	78.49	77.42	196000	Sensient Technologies Corporation
+AQN	10.88	10.88	73200	Algonquin Power & Utilities Corp.
+USDP	11.3	11.05	40300	USD Partners LP
+PDI	30.68	30.11	561100	PIMCO Dynamic Income Fund
+PDM	20.34	20.11	829500	Piedmont Office Realty Trust, Inc.
+SCHW	44.78	43.34	7189300	The Charles Schwab Corporation
+FMC	94.6	94.08	962400	FMC Corporation
+PDS	2.6	2.58	1354000	Precision Drilling Corporation
+PDT	16.76	16.7	85300	John Hancock Premium Dividend Fund
+FMN	14.65	14.61	4100	Federated Premier Municipal Income Fund
+FMO	12.68	12.51	105600	Fiduciary/Claymore MLP Opportunity Fund
+FMS	47.55	47.54	132800	Fresenius Medical Care Corporation
+ANTM	184.16	183.69	2025700	Anthem, Inc.
+FMX	93.12	92.35	896000	Fomento Economico Mexicano S.A.B. de C.V.
+FMY	14.28	14.16	3400	First Trust
+MPLX	34.51	34.44	583300	MPLX LP
+SYF	31.59	30.85	4723500	Synchrony Financial
+ANTX	51.23	51	84500	Anthem, Inc.
+SYK	147	146.65	1249000	Stryker Corporation
+KIM	19.25	19.16	3290800	Kimco Realty Corporation
+KIO	18.03	17.75	338000	KKR Income Opportunities Fund
+ARA	12.73	12.54	216200	American Renal Associates Holdings, Inc
+SYT	92.11	92	8800	Syngenta AG
+ARC	4.21	4.1	238000	ARC Document Solutions, Inc.
+ARD	21	20.805	109000	Ardagh Group S.A.
+ARE	123.12	123.01	666300	Alexandria Real Estate Equities, Inc.
+SYX	28.22	27.84	70700	Systemax Inc.
+SYY	54.59	54.22	1329600	Sysco Corporation
+ASPN	4.29	4.21	21100	Aspen Aerogels, Inc.
+SUPV	25.05	24.98	921500	Grupo Supervielle S.A.
+ARI	18.42	18.41	618700	Apollo Commercial Real Estate Finance
+ARL	8.75	8.75	700	American Realty Investors, Inc.
+PEB	37.22	36.9	294100	Pebblebrook Hotel Trust
+ARR	27.15	27.04	635600	ARMOUR Residential REIT, Inc.
+PEG	48.54	48.205	3620300	Public Service Enterprise Group Incorporated
+PEI	10.45	10.42	1319000	Pennsylvania Real Estate Investment Trust
+ARW	83.06	82.85	231300	Arrow Electronics, Inc.
+EROS	14.5	13.15	531200	Eros International PLC
+PEN	92.05	92.05	54400	Penumbra, Inc.
+PEO	19.65	19.52	29400	Adams Natural Resources Fund, Inc.
+PEP	113.22	111.66	3825100	Pepsico, Inc.
+FNB	14.1	13.91	1623700	F.N.B. Corporation
+PER	2.8	2.8	46700	SandRidge Permian Trust
+PES	2.05	1.95	540000	Pioneer Energy Services Corp.
+FND	37.91	37.06	257100	Floor & Decor Holdings, Inc.
+FNF	34.4	34.37	1499500	Fidelity National Financial, Inc.
+UAA	16.23	16.13	2892600	Under Armour, Inc.
+FNV	79.21	79	365100	Franco-Nevada Corporation
+UAL	67.08	66.8	4806900	United Continental Holdings, Inc.
+UAN	3	2.98	141400	CVR Partners, LP
+SZC	19.21	18.75	31000	Cushing Renaissance Fund (The)
+ASA	11.89	11.8	66400	ASA Gold and Precious Metals Limited
+ASB	24.55	24.05	612100	Associated Banc-Corp
+ASC	8.9	8.5	206600	Ardmore Shipping Corporation
+ASG	5.45	5.39	87200	Liberty All-Star Growth Fund, Inc.
+ASH	66.84	66.56	301600	Ashland Global Holdings Inc.
+USFD	27.33	27.13	2364100	US Foods Holding Corp.
+PFD	15.23	15.06	18800	Flaherty & Crumrine Preferred Income Fund Incorporated
+ASR	179.31	177.37	117400	Grupo Aeroportuario del Sureste, S.A. de C.V.
+PFE	35.89	35.75	14019600	Pfizer, Inc.
+PFG	67.43	67.08	905700	Principal Financial Group Inc
+PFH	14.54	14.29	7300	CABCO Series 2004-101 Trust
+ASX	6.32	6.27	680300	Advanced Semiconductor Engineering, Inc.
+PFL	12.17	11.88	250000	PIMCO Income Strategy Fund
+PFN	10.7	10.54	367100	PIMCO Income Strategy Fund II
+PFO	12.17	12.16	29400	Flaherty & Crumrine Preferred Income Opportunity Fund Inc
+PFS	27.73	27.26	117300	Provident Financial Services, Inc
+ZAYO	34.75	34.59	2352700	Zayo Group Holdings, Inc.
+FOE	23.43	23.38	471700	Ferro Corporation
+FOF	13.35	13.21	75900	Cohen & Steers Closed-End Opportunity Fund, Inc.
+UBA	22.56	22.47	51800	Urstadt Biddle Properties Inc.
+FOR	17.55	17.5	337600	Forestar Group Inc
+KODK	6.5	6.4	117700	Eastman Kodak Company
+BNED	6.18	6.18	225900	Barnes & Noble Education, Inc
+UBP	18	18	1400	Urstadt Biddle Properties Inc.
+UBS	17.33	17.2	1445100	UBS AG
+KKR	20.24	20.05	774400	KKR & Co. L.P.
+BSAC	31.54	30.93	357100	Banco Santander Chile
+ATH	54.8	54.09	438500	Athene Holding Ltd.
+ATI	24.9	24.455	1695000	Allegheny Technologies Incorporated
+VLRS	11.01	10.67	385400	Controladora Vuela Compania de Aviacion, S.A.B. de C.V.
+ATO	86.19	86.08	317000	Atmos Energy Corporation
+ATR	89.3	88.71	175300	AptarGroup, Inc.
+ATU	26.25	25.9	420400	Actuant Corporation
+PGH	1.02	0.98	791300	Pengrowth Energy Corporation
+ATV	14.13	13.865	7900	Acorn International, Inc.
+PGP	16.7	16.6	34800	Pimco Global Stocksplus & Income Fund
+PGR	49	48.08	5517400	Progressive Corporation (The)
+FPF	24.91	24.79	104900	First Trust Intermediate Duration Preferred & Income Fund
+TARO	107.62	107	63400	Taro Pharmaceutical Industries Ltd.
+FPH	13.38	13.2	40400	Five Point Holdings, LLC
+FPI	8.98	8.98	128300	Farmland Partners Inc.
+PGZ	18	17.75	33300	Principal Real Estate Income Fund
+FPL	12.62	12.41	65700	First Trust New Opportunities MLP & Energy Fund
+GATX	64.01	63.53	205400	GATX Corporation
+AFGE	26.7	26.62	6200	American Financial Group, Inc.
+FPT	13.75	13.71	800	Federated Premier Intermediate Municipal Income Fund
+AFGH	26.75	26.75	5100	American Financial Group, Inc.
+DOOR	67.55	66.55	150500	Masonite International Corporation
+ONDK	5.06	4.97	355700	On Deck Capital, Inc.
+AUO	4.09	4.05	822500	AU Optronics Corp
+PHD	12.13	12.05	53800	Pioneer Floating Rate Trust
+PHG	40.17	40.15	1560700	Koninklijke Philips N.V.
+PHH	13.75	13.69	98500	PHH Corp
+PHI	32.66	32.42	166500	PLDT Inc.
+BSBR	9.73	9.53	1532000	Banco Santander Brasil SA
+PHK	8.14	8.06	800300	Pimco High Income Fund
+AUY	2.61	2.6	8582800	Yamana Gold Inc.
+PHM	27.15	27.01	3758400	PulteGroup, Inc.
+SPXC	29.66	29.49	181500	SPX Corporation
+PHT	10.07	9.99	83100	Pioneer High Income Trust
+PHX	24.65	24	24200	Panhandle Royalty Company
+SPXX	16	15.99	44300	Nuveen S&P 500 Dynamic Overwrite Fund
+KMB	118.08	116.79	1579500	Kimberly-Clark Corporation
+UDR	38.67	38.55	934800	United Dominion Realty Trust, Inc.
+KMF	14.26	14	124700	Kayne Anderson Midstream Energy Fund, Inc
+CVEO	2.52	2.49	424300	Civeo Corporation
+KMG	56.8	56.72	390700	KMG Chemicals, Inc.
+MULE	22.42	22.04	851800	MuleSoft, Inc.
+KMI	18.64	18.53	13074700	Kinder Morgan, Inc.
+KMM	8.92	8.89	16000	Scudder Multi-Market Income Trust
+GTN.A	13.23	13.23	100	Gray Television, Inc.
+AVA	52	51.94	568200	Avista Corporation
+AVB	178.9	178.87	574900	AvalonBay Communities, Inc.
+AVD	23.4	22.95	51200	American Vanguard Corporation
+KMT	42.79	42.24	526900	Kennametal Inc.
+AVH	7.34	7.33	114500	Avianca Holdings S.A.
+KMX	75.25	75.19	1191600	CarMax Inc
+CLNS	12.54	12.54	1826400	Colony NorthStar, Inc.
+AVK	16.34	16.225	45600	Advent Claymore Convertible Securities and Income Fund
+FRAC	15.86	15.7	393100	Keane Group, Inc.
+AVP	2.4	2.31	2664500	Avon Products, Inc.
+AVT	40.62	40.56	854300	Avnet, Inc.
+PII	102.71	102.61	454100	Polaris Industries Inc.
+XYL	65.43	62.24	3114500	Xylem Inc.
+AVX	19.52	19.37	119700	AVX Corporation
+AVY	102.44	100.93	551400	Avery Dennison Corporation
+PIM	4.8	4.8	72400	Putnam Master Intermediate Income Trust
+FRA	14.19	14.17	93300	Blackrock Floating Rate Income Strategies Fund Inc
+PIR	4.18	4.12	1599400	Pier 1 Imports, Inc.
+FRC	97.1	95.83	1620100	FIRST REPUBLIC BANK
+TPGE	9.8	9.8	100000	TPG Pace Energy Holdings Corp.
+PIY	25.15	25.055	6400	Merrill Lynch Depositor, Inc.
+RDS.A	60.98	60.49	2841600	Royal Dutch Shell PLC
+RDS.B	62.61	62.045	874100	Royal Dutch Shell PLC
+FRO	6.34	6.23	331500	Frontline Ltd.
+FRT	128.61	128.32	319600	Federal Realty Investment Trust
+KND	6.15	6.05	1188100	Kindred Healthcare, Inc.
+KNL	19.74	19.64	211600	Knoll, Inc.
+AWF	13.02	12.92	190600	Alliance World Dollar Government Fund II
+AWI	53.4	53	189100	Armstrong World Industries Inc
+KNX	38.79	38.19	2117300	Knight Transportation, Inc.
+AWK	85.12	85.03	1110700	American Water Works
+AWP	6.86	6.81	297000	Alpine Global Premier Properties Fund
+PJC	60.8	59.95	71200	Piper Jaffray Companies
+AWR	53.64	53.64	126700	American States Water Company
+PJH	25.55	25.45	88100	Prudential Financial, Inc.
+FSB	34.45	34.3	52500	Franklin Financial Network, Inc.
+GPJA	25	24.93	104900	Georgia Power Company
+FSD	17.13	17.05	111300	First Trust High Income Long Short Fund
+PJT	36.85	36.51	53600	PJT Partners Inc.
+APAM	35	34.55	252400	Artisan Partners Asset Management Inc.
+PGRE	16.4	16.4	2580700	Paramount Group, Inc.
+FSM	4.41	4.395	764800	Fortuna Silver Mines Inc.
+FSS	21.6	21.36	127600	Federal Signal Corporation
+UFI	36.76	36.01	34600	Unifi, Inc.
+UFS	44.04	43.715	938500	Domtar Corporation
+KOF	70.92	69.98	171700	Coca Cola Femsa S.A.B. de C.V.
+SMFG	7.87	7.8	1562200	Sumitomo Mitsui Financial Group Inc
+KOP	48.8	48.05	64200	Koppers Holdings Inc.
+KOS	7.55	7.49	1588200	Kosmos Energy Ltd.
+AXE	86.05	84.8	112900	Anixter International Inc.
+ZBH	119.67	118.8	845500	Zimmer Biomet Holdings, Inc.
+ZBK	30.45	29.76	1100	Zions Bancorporation
+CLPR	11.58	11.2	61000	Clipper Realty Inc.
+WTTR	16.08	15.72	331900	Select Energy Services, Inc.
+AXL	17.86	17.82	1221200	American Axle & Manufacturing Holdings, Inc.
+PLNT	25.95	25.84	502400	Planet Fitness, Inc.
+AXP	91.85	91.58	2939500	American Express Company
+FCPT	25.53	25.34	141000	Four Corners Property Trust, Inc.
+PKD	1	0.95	1131300	Parker Drilling Company
+AXR	6.95	6.79	900	AMREP Corporation
+PKE	19.04	18.74	52200	Park Electrochemical Corporation
+AXS	57.3	56.73	587000	Axis Capital Holdings Limited
+PKG	117.07	116.52	711500	Packaging Corporation of America
+GKOS	32.97	32.58	256500	Glaukos Corporation
+PKI	71.13	69.74	540400	PerkinElmer, Inc.
+HIVE	4.2	3.96	341300	Aerohive Networks, Inc.
+PKO	26.4	25.91	128200	Pimco Income Opportunity Fund
+RRTS	9.08	8.46	89700	Roadrunner Transportation Systems, Inc
+FTI	26.21	25.995	3242900	TechnipFMC plc
+PKX	74.02	72.9	182000	POSCO
+FTK	4.76	4.66	828500	Flotek Industries, Inc.
+FTS	36.88	36.8	173400	Fortis Inc.
+FTV	72.08	71.48	1318200	Fortive Corporation
+UGI	47.29	47.2	651500	UGI Corporation
+UGP	24.64	24.59	402600	Ultrapar Participacoes S.A.
+AYI	164.22	162.34	499700	Acuity Brands Inc
+PLOW	40.1	39.8	45800	Douglas Dynamics, Inc.
+PLD	64.97	63.74	2389300	Prologis, Inc.
+AYR	24.02	23.5	400200	Aircastle Limited
+BIOA	0.59	0.563	1679800	BioAmber Inc.
+AYX	21.29	20.87	132300	Alteryx, Inc.
+PLT	44.86	44.54	108000	Plantronics, Inc.
+FUL	57.31	56.96	294800	H. B. Fuller Company
+FUN	63.26	63.11	97500	Cedar Fair, L.P.
+PGTI	14.6	14.375	205900	PGT Innovations, Inc.
+NXRT	24.45	24.375	79400	NexPoint Residential Trust, Inc.
+SHLX	27.04	26.97	147000	Shell Midstream Partners, L.P.
+UHS	106.13	105.51	1400000	Universal Health Services, Inc.
+CAA	37.9	37.74	634900	CalAtlantic Group, Inc.
+UHT	76.35	76.015	23400	Universal Health Realty Income Trust
+CAE	17.54	17.35	252800	CAE Inc
+CAF	24.16	23.99	74400	Morgan Stanley China A Share Fund Inc.
+CAG	34.35	34.12	3497000	ConAgra Brands, Inc.
+CAH	64.49	64.1	2278700	Cardinal Health, Inc.
+CAI	30.42	30.21	116800	CAI International, Inc.
+SMHI	13.4	13.24	42900	SEACOR Marine Holdings Inc.
+CAJ	35.7	35.61	105600	Canon, Inc.
+CAL	27.48	27.4	231600	Caleres, Inc.
+CAT	131.14	130.32	2380300	Caterpillar, Inc.
+AZN	34.58	34.49	6444700	Astrazeneca PLC
+AZO	600	598.65	389000	AutoZone, Inc.
+PMC	29.2	29.15	290600	Pharmerica Corporation
+PMF	13.59	13.55	26500	PIMCO Municipal Income Fund
+GCAP	6.32	6.16	74400	GAIN Capital Holdings, Inc.
+AXTA	28.38	28.29	2422600	Axalta Coating Systems Ltd.
+PML	13.31	13.3	126400	Pimco Municipal Income Fund II
+PMM	7.58	7.53	66800	Putnam Managed Municipal Income Trust
+AZZ	47.2	47.2	107800	AZZ Inc.
+PMO	12.7	12.67	24300	Putnam Municipal Opportunities Trust
+PMT	16.91	16.83	365500	PennyMac Mortgage Investment Trust
+PMX	11.83	11.83	37300	PIMCO Municipal Income Fund III
+EOCC	26.87	26.68	163000	Enel Generacion Chile S.A.
+GPMT	18.99	18.91	68300	Granite Point Mortgage Trust Inc.
+KRA	41.95	41.31	163800	Kraton Corporation
+KRC	72.63	72.53	666000	Kilroy Realty Corporation
+UIS	8.75	8.6	294900	Unisys Corporation
+CBB	20.15	19.8	223700	Cincinnati Bell Inc
+CBD	24.38	23.85	415300	Companhia Brasileira de Distribuicao
+KRG	20.2	20.15	718900	Kite Realty Group Trust
+CBG	39.53	39.47	1664500	CBRE Group, Inc.
+CBH	9.87	9.83	13700	AllianzGI Convertible & Income 2024 Target Term Fund
+CBI	16.2	15.83	1597800	Chicago Bridge & Iron Company N.V.
+CBK	1.35	1.32	32300	Christopher & Banks Corporation
+CBL	8.53	8.47	1693000	CBL & Associates Properties, Inc.
+KRO	25.78	25.71	430600	Kronos Worldwide Inc
+CBM	53.35	51.375	343200	Cambrex Corporation
+KRP	16.61	16.6	20000	Kimbell Royalty Partners
+USNA	61.65	60.7	83400	USANA Health Sciences, Inc.
+CBS	56.74	56.35	2288500	CBS Corporation
+CBT	58.32	58	203500	Cabot Corporation
+CBU	55.91	54.61	134600	Community Bank System, Inc.
+ZEN	29.8	29.45	485200	Zendesk, Inc.
+CBZ	16.95	16.725	124500	CBIZ, Inc.
+PNC	135.53	134.18	2055700	PNC Financial Services Group, Inc. (The)
+PNF	13.12	13.12	8200	PIMCO New York Municipal Income Fund
+PNI	12.34	12.34	11400	Pimco New York Municipal Income Fund II
+PNM	40.85	40.85	624600	PNM Resources, Inc. (Holding Co.)
+PNR	70.89	70.23	841600	Pentair plc.
+PNW	87.02	87.02	649900	Pinnacle West Capital Corporation
+CCC	21.45	21.45	1639000	Calgon Carbon Corporation
+CCE	41.97	41.73	978600	Coca-Cola European Partners plc
+CCI	101.95	100.87	2503300	Crown Castle International Corporation
+CCJ	9.11	9.065	1111100	Cameco Corporation
+KSM	12.18	12.13	9400	Scudder Strategic Municiple Income Trust
+CCK	60.23	59.81	593000	Crown Holdings, Inc.
+CCL	67.83	67.82	1877900	Carnival Corporation
+CCM	3.55	3.55	27100	Concord Medical Services Holdings Limited
+CCO	4.45	4.35	360400	Clear Channel Outdoor Holdings, Inc.
+KSS	42.76	42.67	3075700	Kohl's Corporation
+KST	12.44	12.44	5000	Scudder Strategic Income Trust
+KSU	101.25	99.7	2083500	Kansas City Southern
+CCS	25.8	25.5	140500	Century Communities, Inc.
+CCU	27.85	27.66	40800	Compania Cervecerias Unidas, S.A.
+CCV	25.4	25.25	11500	Comcast Corporation
+RELX	22.59	22.55	87200	RELX PLC
+CCZ	57.8	57.8	100	Comcast Corporation
+DYNC	66.3	65.85	6700	Dynegy Inc.
+TCAP	13.32	12.47	1468900	Triangle Capital Corporation
+BABA	179.58	175.3	20132200	Alibaba Group Holding Limited
+POL	41.58	40.97	323700	PolyOne Corporation
+POR	44.85	44.85	1234100	Portland General Electric Company
+POT	19.32	19.04	2318900	Potash Corporation of Saskatchewan Inc.
+SHOP	97	95.4	2475400	Shopify Inc.
+MUSA	73.09	73.09	171200	Murphy USA Inc.
+KTF	12.31	12.3	134300	Scudder Municiple Income Trust
+KTH	33.54	33.54	600	Lehman ABS Corporation
+CDE	8.78	8.53	1996700	Coeur Mining, Inc.
+KTN	33.3	33.3	2900	Lehman ABS Corporation
+KTP	14.5	14.5	12600	Lehman ABS Corporation
+CDR	5.72	5.63	535800	Cedar Realty Trust, Inc.
+USPH	63.55	62.95	62400	U.S. Physical Therapy, Inc.
+PPG	113.12	112.76	1581500	PPG Industries, Inc.
+PPL	37.41	37.26	3152500	PPL Corporation
+PPR	5.17	5.16	359000	Voya Prime Rate Trust
+PPT	5.32	5.32	492600	Putnam Premier Income Trust
+PPX	25.52	25.52	9400	PPL Capital Funding, Inc.
+SWCH	19.95	19.51	1065800	Switch, Inc.
+VNCE	0.51	0.47	132100	Vince Holding Corp.
+CEA	25.04	24.92	12900	China Eastern Airlines Corporation Ltd.
+BDXA	55.26	55.25	20800	Becton, Dickinson and Company
+CEE	24.99	24.8	11500	The Central and Eastern Europe Fund, Inc.
+CEL	9.79	9.76	7700	Cellcom Israel, Ltd.
+CEM	14.43	14.19	228600	ClearBridge Energy MLP Fund Inc.
+CEN	10.34	10.17	107500	Center Coast MLP & Infrastructure Fund
+CEO	130.35	129.565	65200	CNOOC Limited
+RENN	9.29	9.17	206200	Renren Inc.
+SMLP	21.3	20.85	80000	Summit Midstream Partners, LP
+TCCA	25.47	25.4	7400	Triangle Capital Corporation
+TCCB	25.55	25.52	1200	Triangle Capital Corporation
+RENX	21.7	21.7	44900	RELX N.V.
+BITA	53.8	50	1199700	Bitauto Holdings Limited
+PQG	17.11	17.08	297500	PQ Group Holdings Inc.
+HAE	45.29	44.93	292300	Haemonetics Corporation
+HAL	44.6	44.145	7556500	Halliburton Company
+UMC	2.65	2.61	844700	United Microelectronics Corporation
+CVNA	13.9	13.801	271500	Carvana Co.
+UMH	15.78	15.61	86300	UMH Properties, Inc.
+UNVR	30.08	29.46	452700	Univar Inc.
+CFG	37.24	36.6	3307700	Citizens Financial Group, Inc.
+INFY	14.62	14.4	7557000	Infosys Limited
+CFR	97.68	95.65	317700	Cullen/Frost Bankers, Inc.
+WLKP	22.85	22.65	16400	Westlake Chemical Partners LP
+CFX	42.67	42.32	542700	Colfax Corporation
+PRA	56.05	55.35	70800	ProAssurance Corporation
+HBB	38.96	38.53	32400	Hamilton Beach Brands Holding Company
+PRH	25.67	25.65	11600	Prudential Financial, Inc.
+PRI	89.35	87.3	274600	Primerica, Inc.
+HBI	23.39	23.07	4062100	Hanesbrands Inc.
+PRO	25.05	24.81	71900	PROS Holdings, Inc.
+HBM	8.3	7.905	1093600	Hudbay Minerals Inc.
+PRU	109.7	108.34	1605600	Prudential Financial, Inc.
+GPRK	9.28	8.93	45500	Geopark Ltd
+UNF	157.3	154.35	62600	Unifirst Corporation
+UNH	196.58	196.37	8949700	UnitedHealth Group Incorporated
+UNM	52.61	51.88	835600	Unum Group
+UNP	109.34	108.71	3975200	Union Pacific Corporation
+CGA	1.28	1.27	30200	China Green Agriculture, Inc.
+UNT	19.26	18.14	619600	Unit Corporation
+BFAM	85.1	84.91	235000	Bright Horizons Family Solutions Inc.
+CGG	4.57	4.3	12700	CGG
+INGR	124.17	123.08	316600	Ingredion Incorporated
+CGI	5.25	5.1	292100	Celadon Group, Inc.
+KEYS	42.48	42.28	841700	Keysight Technologies Inc.
+KWR	150.74	149.39	48400	Quaker Chemical Corporation
+PSA	216.74	214.305	723300	Public Storage
+PSB	135.87	134.75	76700	PS Business Parks, Inc.
+HCA	75.62	75.3	3771200	HCA Healthcare, Inc.
+HCC	23.57	23.57	1279200	Warrior Met Coal, Inc.
+PSF	28.49	28.32	17900	Cohen & Steers Select Preferred and Income Fund, Inc.
+HCI	38.81	38.25	69800	HCI Group, Inc.
+PSO	8.82	8.68	1770000	Pearson, Plc
+BSMX	9.28	8.84	2472000	Grupo Financiero Santander Mexico S.A. B. de C.V.
+HCN	67.84	67.63	1273400	Welltower Inc.
+HCP	26.17	26.11	3285800	HCP, Inc.
+PSX	90.69	90.4	2398400	Phillips 66
+AFSD	25.11	25.11	38900	Aflac Incorporated
+AFSS	25.75	25.72	2300	AmTrust Financial Services, Inc.
+AFST	26.3	26.3	12000	AmTrust Financial Services, Inc.
+CHA	52.35	52.3	79300	China Telecom Corp Ltd
+CHD	47.66	47.38	1119200	Church & Dwight Company, Inc.
+CHE	201.24	201.042	61600	Chemed Corp.
+CHH	67.4	66.4	271400	Choice Hotels International, Inc.
+CHK	3.86	3.73	19314200	Chesapeake Energy Corporation
+CHL	50.86	50.52	1118600	China Mobile (Hong Kong) Ltd.
+CHN	21.11	21.09	65500	China Fund, Inc. (The)
+CHS	7.12	7.07	1653400	Chico's FAS, Inc.
+CHT	34.2	34.13	65000	Chunghwa Telecom Co., Ltd.
+CHU	14.5	14.46	116200	China Unicom (Hong Kong) Ltd
+HDB	96.26	94.49	896600	HDFC Bank Limited
+PTR	65.09	64.37	79800	PetroChina Company Limited
+MHLA	25.79	25.73	7400	Maiden Holdings, Ltd.
+CIEN	21.32	21.12	4313600	Ciena Corporation
+TPRE	16.4	16.25	447600	Third Point Reinsurance Ltd.
+PTY	16.82	16.51	493600	Pimco Corporate & Income Opportunity Fund
+KORS	48.41	48.15	2171500	Michael Kors Holdings Limited
+UPS	117.96	117.4	1484400	United Parcel Service, Inc.
+CIA	7.42	7.32	45400	Citizens, Inc.
+KYE	10.9	10.7	124200	Kayne Anderson Energy Total Return Fund, Inc.
+CIB	43.41	43.41	470000	BanColombia S.A.
+CIC	9.78	9.76	5700	Capitol Investment Corp. IV
+CIE	1.02	0.97	523500	Cobalt International Energy, Inc.
+CIF	2.96	2.91	98200	Colonial Intermediate High Income Fund
+CIG	2.52	2.5	6356600	Comp En De Mn Cemig ADS
+CII	15.7	15.68	102800	Blackrock Capital and Income Strategies Fund Inc
+KYN	17.33	17.05	360500	Kayne Anderson MLP Investment Company
+KYO	66.02	65.91	5500	Kyocera Corporation
+CIM	19.18	19.13	496400	Chimera Investment Corporation
+CIO	13.31	13.22	142100	City Office REIT, Inc.
+RTEC	26.75	26.7	212100	Rudolph Technologies, Inc.
+CIR	55	54.12	31600	CIRCOR International, Inc.
+CIT	49.45	48.98	1500300	CIT Group Inc (DEL)
+PUK	48.37	48	101500	Prudential Public Limited Company
+HEI	90.05	88.8	331800	Heico Corporation
+APLE	19.11	19	747700	Apple Hospitality REIT, Inc.
+HEP	33.95	33.66	115900	Holly Energy Partners, L.P.
+SRLP	26.04	25.4	7900	Sprague Resources LP
+HEQ	17.74	17.6	18700	John Hancock Hedged Equity & Income Fund
+HES	46.06	45.49	2882200	Hess Corporation
+RYAM	13.89	13.81	355200	Rayonier Advanced Materials Inc.
+MAA	107.35	106.9	703200	Mid-America Apartment Communities, Inc.
+MAC	57.52	57.38	906700	Macerich Company (The)
+MAN	122.82	120.52	412600	ManpowerGroup
+MAS	38.95	38.83	1547700	Masco Corporation
+CVRR	11.3	11.055	308000	CVR Refining, LP
+MAV	11.58	11.56	62800	Pioneer Municipal High Income Advantage Trust
+RESI	10.84	10.78	169100	Altisource Residential Corporation
+LEJU	1.62	1.57	28000	Leju Holdings Limited
+QTWO	42.35	41.65	75100	Q2 Holdings, Inc.
+SEAS	12.47	12.26	1357200	SeaWorld Entertainment, Inc.
+HFC	36.22	36.06	1551200	HollyFrontier Corporation
+MCRN	18.72	18.51	628300	Milacron Holdings Corp.
+PVG	11.31	11.18	2188400	Pretium Resources, Inc.
+PVH	124.17	123.97	575100	PVH Corp.
+MHNC	26.35	26.06	10800	Maiden Holdings, Ltd.
+URI	145.43	143.01	1525500	United Rentals, Inc.
+MBI	6.84	6.83	5341400	MBIA, Inc.
+FMSA	4.18	4.01	2396500	Fairmount Santrol Holdings Inc.
+MBT	10.55	10.44	2065100	Mobile TeleSystems OJSC
+BRK.A	283000	279900	100	Berkshire Hathaway Inc.
+CKH	45.1	44.17	96700	SEACOR Holdings, Inc.
+BRK.B	187.96	186.5	2273000	Berkshire Hathaway Inc.
+ZNH	35.17	34.82	7600	China Southern Airlines Company Limited
+HGH	29.71	29.68	27900	Hartford Financial Services Group, Inc. (The)
+PWR	37.82	37.33	795800	Quanta Services, Inc.
+HGT	1.75	1.65	146900	Hugoton Royalty Trust
+HGV	39.66	39.63	283300	Hilton Grand Vacations Inc.
+IIPR	19.07	17.94	83000	Innovative Industrial Properties, Inc.
+USA	6.15	6.11	590800	Liberty All-Star Equity Fund
+USB	54.35	53.75	5299500	U.S. Bancorp
+MCA	15.38	15.33	58800	Blackrock MuniYield California Insured Fund, Inc.
+MCC	5.8	5.53	530800	Medley Capital Corporation
+MCD	164.92	164.75	2379700	McDonald's Corporation
+USG	33.14	33.03	1376700	USG Corporation
+BXMT	31.73	31.51	288500	Capital Trust, Inc.
+MCI	16	15.86	11100	Barings Corporate Investors
+USM	36.51	35.66	36900	United States Cellular Corporation
+MCK	146.61	145.615	1614100	McKesson Corporation
+BXMX	14.02	13.99	145300	Nuveen S&P 500 Buy-Write Income Fund
+MCN	7.82	7.82	35200	Madison Covered Call & Equity Strategy Fund
+MCO	144.83	143.35	503200	Moody's Corporation
+CLB	94.03	93.75	272900	Core Laboratories N.V.
+MCR	8.66	8.64	72800	MFS Charter Income Trust
+MCS	27.45	27.2	47600	Marcus Corporation (The)
+CLD	3.74	3.74	3565900	Cloud Peak Energy Inc
+CLF	7.24	7.13	7054600	Cleveland-Cliffs Inc.
+MCV	25.1	25.1	2900	Medley Capital Corporation
+CLH	56.37	56.195	104700	Clean Harbors, Inc.
+MCX	25.72	25.7	1600	Medley Capital Corporation
+CLI	23.39	23.3	378700	Mack-Cali Realty Corporation
+MCY	56.48	55.91	106400	Mercury General Corporation
+CNDT	15.85	15.72	1645800	Conduent Incorporated
+CLR	37.4	36.53	1969300	Continental Resources, Inc.
+CLS	12.54	12.3	143800	Celestica, Inc.
+CLW	43.85	43.3	50800	Clearwater Paper Corporation
+CLX	131.8	130.65	608100	Clorox Company (The)
+ACCO	13	12.6	595400	Acco Brands Corporation
+PXD	143.7	142.36	1525700	Pioneer Natural Resources Company
+HHC	123.6	122.14	127700	Howard Hughes Corporation (The)
+HASI	24.5	24.37	164300	Hannon Armstrong Sustainable Infrastructure Capital, Inc.
+HHS	1.04	1.03	53600	Harte-Hanks, Inc.
+TPVG	13.66	13.63	52300	TriplePoint Venture Growth BDC Corp.
+MDC	35.53	35.45	313800	M.D.C. Holdings, Inc.
+UTF	23.06	22.95	138000	Cohen & Steers Infrastructure Fund, Inc
+UTI	3.45	3.28	9900	Universal Technical Institute Inc
+UTL	51.5	51.5	22000	UNITIL Corporation
+TPVY	25.2	25.17	11500	TriplePoint Venture Growth BDC Corp.
+MDP	54.75	53.6	390700	Meredith Corporation
+CMA	76.03	74.66	2615900	Comerica Incorporated
+MDR	6.79	6.55	2760800	McDermott International, Inc.
+CMC	21.2	20.93	1893300	Commercial Metals Company
+CMD	95.64	95.26	124600	Cantel Medical Corp.
+MDT	77.76	77.39	3809500	Medtronic plc
+HUBB	120.24	118.5	294000	Hubbell Inc
+MDU	26.93	26.88	426800	MDU Resources Group, Inc.
+UTX	118.63	118.18	2026500	United Technologies Corporation
+CMG	320.47	320.47	1055600	Chipotle Mexican Grill, Inc.
+REVG	27.15	26.6	1652800	REV Group, Inc.
+CMI	174.1	173.89	684000	Cummins Inc.
+CMO	9.69	9.66	246000	Capstead Mortgage Corporation
+CMP	65.85	65.15	342100	Compass Minerals International, Inc.
+YELP	43.36	42.92	648000	Yelp Inc.
+CMS	47.27	47.2	1331400	CMS Energy Corporation
+CMU	4.79	4.75	55300	Colonial Municipal Income Trust
+HUBS	81.75	81.45	208700	HubSpot, Inc.
+HIE	13.87	13.75	43200	Miller/Howard High Income Equity Fund
+HIG	56.31	55.75	1550300	Hartford Financial Services Group, Inc. (The)
+HII	236.07	234.77	195500	Huntington Ingalls Industries, Inc.
+PYN	10.08	9.99	12000	PIMCO New York Municipal Income Fund III
+HIL	5.1	4.95	109900	Hill International, Inc.
+HIO	5.14	5.13	182500	Western Asset High Income Opportunity Fund, Inc.
+PYS	21.44	21.21	18900	PPlus Trust
+PYT	20.94	20.94	100	PPlus Trust
+THGA	25.59	25.51	3500	The Hanover Insurance Group, Inc.
+HIW	52.41	52.41	340300	Highwoods Properties, Inc.
+HIX	7.25	7.245	196400	Western Asset High Income Fund II Inc.
+VIPS	8.42	8.31	8437300	Vipshop Holdings Limited
+MED	63.05	62.95	133400	MEDIFAST INC
+MEI	45.1	44.75	137800	Methode Electronics, Inc.
+MEN	11.93	11.9	37100	Blackrock MuniEnhanced Fund, Inc.
+CNA	50.48	49.82	142400	CNA Financial Corporation
+CNC	92.02	91.535	3005300	Centene Corporation
+MET	53.23	52.2	4853600	MetLife, Inc.
+GMED	29.05	29.005	523900	Globus Medical, Inc.
+CNI	80.08	79.8	878300	Canadian National Railway Company
+CNK	35.81	35.39	820400	Cinemark Holdings Inc
+CNO	24.54	24.24	540500	CNO Financial Group, Inc.
+CNP	29.43	29.27	2240800	CenterPoint Energy, Inc.
+CNQ	33.17	32.87	1397600	Canadian Natural Resources Limited
+RAD	1.89	1.81	23981500	Rite Aid Corporation
+CNS	42.07	41.34	92400	Cohen & Steers Inc
+CNX	15.58	15.51	2384500	CONSOL Energy Inc.
+BSTI	11.96	11.7	1656700	BEST Inc.
+PZC	10.85	10.85	57000	PIMCO California Municipal Income Fund III
+PZE	13.15	12.55	17300	Petrobras Argentina S.A.
+RAS	0.56	0.51	1661500	RAIT Financial Trust
+PZN	11.87	11.83	181000	Pzena Investment Management Inc
+MRIN	14.1	13.9	12900	Marin Software Incorporated
+GRAM	4.64	4.59	71800	Grana y Montero S.A.A.
+HJV	13.24	12.67	7400	MS Structured Asset Corp Saturns GE Cap Corp Series 2002-14
+OAKS	4.5	4.46	95900	Five Oaks Investment Corp.
+MFA	8.74	8.71	846300	MFA Financial, Inc.
+UVE	24.6	24.15	208000	UNIVERSAL INSURANCE HOLDINGS INC
+MFC	20.81	20.65	1807200	Manulife Financial Corp
+MFD	13.56	13.48	14000	Macquarie/First Trust Global
+MFG	3.59	3.56	340400	Mizuho Financial Group, Inc.
+MFL	15.05	14.99	51700	Blackrock MuniHoldings Investment Quality Fund
+MFM	7.11	7.1	30100	MFS Municipal Income Trust
+MFO	25.41	25.41	11000	MFA Financial, Inc.
+UVV	58.75	58	193500	Universal Corporation
+COE	13.83	13.56	8400	China Online Education Group
+MFT	14.44	14.4	6800	Blackrock MuniYield Investment QualityFund
+COF	86.98	85.91	1450400	Capital One Financial Corporation
+COG	25.69	25.58	3990100	Cabot Oil & Gas Corporation
+MFV	6.61	6.59	8600	MFS Special Value Trust
+COH	39.35	39.07	1857900	Coach, Inc.
+COL	134.52	134.32	767400	Rockwell Collins, Inc.
+DLNG	13.61	13.29	93300	Dynagas LNG Partners LP
+RBA	28.61	28.03	384100	Ritchie Bros. Auctioneers Incorporated
+COO	237.8	235.52	551500	Cooper Companies, Inc. (The)
+COP	49.7	49.32	3579000	ConocoPhillips
+RBC	79.75	78.8	217600	Regal Beloit Corporation
+COR	111.75	111.74	332000	CoreSite Realty Corporation
+REXR	30.31	30.15	456400	Rexford Industrial Realty, Inc.
+COT	15.16	14.93	2389000	Cott Corporation
+RBS	7.32	7.27	461600	Royal Bank Scotland plc (The)
+BANC	20.55	20.3	279700	Banc of California, Inc.
+BIO.B	222.85	222.85	100	Bio-Rad Laboratories, Inc.
+APRN	5.27	5.2	2381500	Blue Apron Holdings, Inc.
+MGA	53.17	52.94	1113300	Magna International, Inc.
+SWNC	12.95	12.8	24300	Southwestern Energy Company
+MGF	4.91	4.91	24500	MFS Government Markets Income Trust
+MGM	29.69	29.63	8612400	MGM Resorts International
+CNHI	11.96	11.87	1631900	CNH Industrial N.V.
+XOXO	20.02	19.89	43800	XO Group, Inc.
+MGP	29.17	29.07	672800	MGM Growth Properties LLC
+CPA	130.08	125.71	193900	Copa Holdings, S.A.
+CPB	46.63	45.9	2170400	Campbell Soup Company
+CPE	11.11	10.97	1837800	Callon Petroleum Company
+MGU	26.1	25.95	25300	Macquarie Global Infrastructure Total Return Fund Inc.
+CPF	32.59	32.15	79300	CPB Inc.
+CPG	7.6	7.48	1417200	Crescent Point Energy Corporation
+CPK	80.4	80.4	27100	Chesapeake Utilities Corporation
+CPL	17.15	17.13	98900	CPFL Energia S.A.
+CPN	14.8	14.78	12039600	Calpine Corporation
+CPS	110.31	109.92	117100	Cooper-Standard Holdings Inc.
+CPT	93.58	92.88	430400	Camden Property Trust
+RCI	53.63	53.48	347700	Rogers Communication, Inc.
+RCL	127.4	127	1013600	Royal Caribbean Cruises Ltd.
+RCS	9.45	9.3	330400	PIMCO Strategic Income Fund, Inc.
+HLF	78.38	76.81	4044500	Herbalife LTD.
+HLI	40.52	40.24	202000	Houlihan Lokey, Inc.
+HLS	45.25	44.885	625600	HealthSouth Corporation
+HLT	71.04	70.72	1549200	Hilton Worldwide Holdings Inc.
+HLX	7.87	7.74	1518700	Helix Energy Solutions Group, Inc.
+MHD	17.03	16.92	59600	Blackrock MuniHoldings Fund, Inc.
+MHF	7.8	7.79	35900	Western Asset Municipal High Income Fund, Inc.
+MHI	12.07	12.02	77100	Pioneer Municipal High Income Trust
+MHK	257.3	257.13	321100	Mohawk Industries, Inc.
+MHN	14.07	14.06	20500	Blackrock MuniHoldings New York Quality Fund, Inc.
+MHO	28.38	28.27	228700	M/I Homes, Inc.
+DLPH	98	96.79	1590600	Delphi Automotive plc
+RDC	13.89	13.32	3376200	Rowan Companies plc
+ZTO	15.32	14.9	2330100	ZTO Express (Cayman) Inc.
+RDN	19.74	19.49	2043800	Radian Group Inc.
+ZTR	13.24	13.225	82200	Virtus Global Dividend & Income Fund Inc.
+ZTS	65.65	65.43	2251500	Zoetis Inc.
+HMC	30.39	30.33	429300	Honda Motor Company, Ltd.
+RDY	36.35	36.18	143500	Dr. Reddy's Laboratories Ltd
+HMN	40.75	40.3	140100	Horace Mann Educators Corporation
+CINR	25.25	25	13500	Ciner Resources LP
+HMY	1.8	1.76	2990700	Harmony Gold Mining Company Limited
+APTS	20.16	20.07	409700	Preferred Apartment Communities, Inc.
+MIC	72.59	72.25	547100	Macquarie Infrastructure Company
+MIE	10.36	10.15	108700	Cohen & Steers MLP Income and Energy Opportunity Fund, Inc.
+MIN	4.24	4.22	530200	MFS Intermediate Income Trust
+CRC	10.53	10.33	786800	California Resources Corporation
+CRH	35.88	35.83	268900	CRH PLC
+CRI	92.09	91.57	475500	Carter's, Inc.
+MIY	13.99	13.99	25600	Blackrock MuniYield Michigan Quality Fund, Inc.
+CRK	4.73	4.47	210600	Comstock Resources, Inc.
+CRL	114.02	113.81	171800	Charles River Laboratories International, Inc.
+CRM	96.96	95.93	2528300	Salesforce.com Inc
+CRR	6.8	6.49	695700	Carbo Ceramics, Inc.
+CRS	50.2	49.88	529400	Carpenter Technology Corporation
+CRT	14.56	14.5	11800	Cross Timbers Royalty Trust
+REG	64.14	64.03	718100	Regency Centers Corporation
+CRY	20.3	20.25	105300	CryoLife, Inc.
+RES	22.86	22.72	1330200	RPC, Inc.
+REV	22.9	22.4	140000	Revlon, Inc.
+HNI	42.4	41.98	136000	HNI Corporation
+VSLR	3.7	3.65	193500	Vivint Solar, Inc.
+REX	90.55	89.94	20100	REX American Resources Corporation
+WAB	75	74.32	531700	Westinghouse Air Brake Technologies Corporation
+WAC	0.46	0.46	299400	Walter Investment Management Corp.
+HNP	25.66	25.3	89300	Huaneng Power International, Inc.
+TRCO	40.75	40.56	520600	Tribune Media Company
+WAL	53.41	51.87	575900	Western Alliance Bancorporation
+UZA	25.65	25.55	9100	United States Cellular Corporation
+UZB	26.5	26.4	18900	United States Cellular Corporation
+UZC	27.02	26.89	13100	United States Cellular Corporation
+NPTN	4.75	4.74	809500	NeoPhotonics Corporation
+WAT	183.94	180.44	712300	Waters Corporation
+PBR.A	10.18	10.085	6773400	Petroleo Brasileiro S.A.- Petrobras
+INSI	19.74	19.7	14900	Insight Select Income Fund
+TMHC	22.69	22.45	717200	Taylor Morrison Home Corporation
+INST	33.95	33.95	115300	Instructure, Inc.
+CSL	99.31	99.31	224800	Carlisle Companies Incorporated
+INSW	20.53	20.4	118900	International Seaways, Inc.
+CSS	29.73	29.62	30800	CSS Industries, Inc.
+CSU	12.22	12.22	121300	Capital Senior Living Corporation
+CSV	25.48	24.99	98000	Carriage Services, Inc.
+RFI	12.72	12.655	41300	Cohen & Steers Total Return Realty Fund, Inc.
+RFP	6.35	6.1	172000	Resolute Forest Products Inc.
+RFT	17.25	16.61	47800	RAIT Financial Trust
+HOG	45.75	45.25	13981300	Harley-Davidson, Inc.
+HON	143.5	142.51	2435600	Honeywell International Inc.
+WBC	149.45	147.72	317800	Wabco Holdings Inc.
+HOS	3.92	3.83	207300	Hornbeck Offshore Services
+HOV	2.29	2.205	1163600	Hovnanian Enterprises Inc
+WBK	26.13	26.03	106300	Westpac Banking Corporation
+MKC	99.04	98.36	669400	McCormick & Company, Incorporated
+WBS	53.29	52.27	401200	Webster Financial Corporation
+WBT	21.92	21.92	711200	Welbilt, Inc.
+MKL	1073.42	1064.41	15000	Markel Corporation
+CTB	36.7	36.5	302600	Cooper Tire & Rubber Company
+FELP	4.115	4.115	26000	Foresight Energy LP
+CTL	19.72	18.93	18804100	CenturyLink, Inc.
+RGA	143.62	142.74	269200	Reinsurance Group of America, Incorporated
+AMBR	8.48	8.27	17300	Amber Road, Inc.
+RGC	16.06	15.79	2617200	Regal Entertainment Group
+CTR	12.12	12.06	120500	ClearBridge Energy MLP Total Return Fund Inc.
+CTS	25.7	25.4	41700	CTS Corporation
+CTU	25.31	25.31	27600	Qwest Corporation
+CTV	26.05	26.01	30700	Qwest Corporation
+CTW	25.52	25.5	11000	Qwest Corporation
+CTX	25.46	25.4	24300	Qwest Corporation
+CTY	25.27	25.26	27900	Qwest Corporation
+CTZ	25.42	25.37	17500	Qwest Corporation
+RGR	50.45	49.95	129700	Sturm, Ruger & Company, Inc.
+RGS	14.95	14.95	202900	Regis Corporation
+HPE	14.84	14.545	12841000	Hewlett Packard Enterprise Company
+RGT	10.61	10.6	32500	Royce Global Value Trust, Inc.
+HPF	21.76	21.72	26700	John Hancock Pfd Income Fund II
+TREC	12.55	12.15	31900	Trecora Resources
+HPI	21.77	21.77	59900	John Hancock Preferred Income Fund
+TCRX	25.23	25.22	1700	THL Credit, Inc.
+HPP	33.98	33.86	1142100	Hudson Pacific Properties, Inc.
+WCC	59.65	59.5	606600	WESCO International, Inc.
+HPQ	21.77	21.46	7137000	HP Inc.
+TCRZ	25.835	25.8	2800	THL Credit, Inc.
+HPS	18.75	18.69	29200	John Hancock Preferred Income Fund III
+WCG	169.47	167.52	482300	WellCare Health Plans, Inc.
+WCN	69.53	69.46	563400	Waste Connections, Inc.
+TREX	87	86.64	179000	Trex Company, Inc.
+MLI	34.75	34.26	99900	Mueller Industries, Inc.
+MLM	204.51	203.18	452400	Martin Marietta Materials, Inc.
+MLP	16.55	15.55	59700	Maui Land & Pineapple Company, Inc.
+CUB	52.15	51.35	119900	Cubic Corporation
+MLR	28.25	28.25	18600	Miller Industries, Inc.
+CUK	67.41	67.41	332800	Carnival Corporation
+RHI	49.09	48.73	363500	Robert Half International Inc.
+CUZ	9.47	9.37	5095000	Cousins Properties Incorporated
+RHP	64.66	64.23	136900	Ryman Hospitality Properties, Inc.
+RHT	120.36	120.08	1198200	Red Hat, Inc.
+HQH	25.35	25.3	79100	Tekla Healthcare Investors
+HQL	21.84	21.84	52600	Tekla Life Sciences Investors
+CABO	756.97	734.15	34000	Cable One, Inc.
+WDR	20.43	19.92	525700	Waddell & Reed Financial, Inc.
+MMC	84.1	83.29	1437700	Marsh & McLennan Companies, Inc.
+MMD	19.93	19.9	49200	MainStay DefinedTerm Municipal Opportunities Fund
+MMI	27.4	27.2	73700	Marcus & Millichap, Inc.
+INVH	22.56	22.5	1606900	Invitation Homes Inc.
+MMM	218.19	216.47	2150800	3M Company
+CVA	15.25	15.15	1125500	Covanta Holding Corporation
+MMP	69.16	68.55	618200	Magellan Midstream Partners L.P.
+FENG	6.19	5.94	775600	Phoenix New Media Limited
+MMS	65.1	64.68	151400	Maximus, Inc.
+CVE	9.72	9.65	2420200	Cenovus Energy Inc
+MMT	6.22	6.2	120700	MFS Multimarket Income Trust
+MMU	14.16	14.09	47600	Western Asset Managed Municipals Fund, Inc.
+CVG	25.79	25.44	292500	Convergys Corporation
+CVI	27.85	27.3	359300	CVR Energy Inc.
+VNTR	24.61	24.51	637500	Venator Materials PLC
+SEMG	27.7	26.8	781900	Semgroup Corporation
+VNTV	69.5	68.75	4185700	Vantiv, Inc.
+CNNX	16.4	16.02	240400	Cone Midstream Partners LP
+RIC	9.55	9.4	167100	Richmont Mines, Inc.
+FTAI	18.5	18.2	299800	Fortress Transportation and Infrastructure Investors LLC
+CVS	72.41	72.12	6068700	CVS Health Corporation
+RIG	11.03	10.71	13703700	Transocean Ltd.
+CVX	120.23	119.83	4844200	Chevron Corporation
+RIO	49.9	49.554	1937100	Rio Tinto Plc
+HRB	25.39	24.755	2603900	H&R Block, Inc.
+HRC	78.11	77.68	456800	Hill-Rom Holdings Inc
+HRG	16.19	16.17	1529700	HRG Group, Inc.
+RIV	20.05	19.7	70600	RiverNorth Opportunities Fund, Inc.
+HRI	49.17	48.8	170100	Herc Holdings Inc.
+HRL	31.38	31.36	1731800	Hormel Foods Corporation
+WEA	13.84	13.84	45200	Western Asset Bond Fund
+WEC	64.96	64.8	1290100	WEC Energy Group, Inc.
+CACI	142.5	140.3	72400	CACI International, Inc.
+HRS	135.95	135.95	468400	Harris Corporation
+CISN	13.2	13.07	64900	Cision Ltd.
+TRGP	44.98	44.5	2131000	Targa Resources, Inc.
+WES	51.07	50.45	611600	Western Gas Partners, LP
+MNE	14.13	14.08	6500	Blackrock Muni New York Intermediate Duration Fund Inc
+DIAX	17.15	17.15	109700	Nuveen Dow 30SM Dynamic Overwrite Fund
+WEX	122	120.615	629000	WEX Inc.
+MNK	32.13	31.51	1966900	Mallinckrodt plc
+MNP	15.45	15.44	14800	Western Asset Municipal Partners Fund, Inc.
+MNR	16.73	16.66	335200	Monmouth Real Estate Investment Corporation
+CWH	42.41	42.36	489900	Camping World Holdings, Inc.
+DVMT	81.15	80.81	924900	Dell Technologies Inc.
+RJF	85.82	84.05	548900	Raymond James Financial, Inc.
+CWT	41.75	41.75	71900	California Water  Service Group Holding
+STAG	28.02	27.88	249100	Stag Industrial, Inc.
+HSC	21.75	21.1	349400	Harsco Corporation
+STAY	20.85	20.63	1350200	Extended Stay America, Inc.
+CADE	22.73	22.44	56200	Cadence Bancorporation
+WFC	54	53.12	18614700	Wells Fargo & Company
+HST	19.39	19.26	3869000	Host Hotels & Resorts, Inc.
+HSY	110.77	110	559400	Hershey Company (The)
+EGIF	16.91	16.85	12500	Eagle Growth and Income Opportunities Fund
+MOD	20.6	20.05	301800	Modine Manufacturing Company
+WFT	3.9	3.82	15373900	Weatherford International plc
+MOH	60.49	60.3	1583200	Molina Healthcare Inc
+MON	122.25	121.995	2635600	Monsanto Company
+INXN	51.96	51.35	255600	InterXion Holding N.V.
+MOS	21.77	20.89	4800000	Mosaic Company (The)
+CXE	5.21	5.19	103200	Colonial High Income Municipal Trust
+MOV	27.7	27.55	135800	Movado Group Inc.
+CXH	9.96	9.925	6900	Colonial Investment Grade Municipal Trust
+CXO	133.29	131.84	854400	Concho Resources Inc.
+CXP	21.71	21.69	297500	Columbia Property Trust, Inc.
+CXW	25.7	25.55	1878700	CoreCivic, Inc.
+AZRE	14.69	14.69	7300	Azure Power Global Limited
+HTA	29.62	29.62	875700	Healthcare Trust of America, Inc.
+HTD	25.8	25.76	110000	John Hancock Tax Advantaged Dividend Income Fund
+HTH	26.4	25.53	230200	Hilltop Holdings Inc.
+CSLT	4.25	4.2	205800	Castlight Health, inc.
+HTY	9.23	9.1	65500	John Hancock Tax-Advantaged Global Shareholder Yield Fund
+WGL	85.46	85.45	146900	WGL Holdings Inc
+HTZ	25.55	25.33	2158900	Hertz Global Holdings, Inc
+WGO	44.1	43.275	497000	Winnebago Industries, Inc.
+MPA	14.33	14.33	25900	Blackrock MuniYield Pennsylvania Quality Fund
+WGP	39.46	39.13	219000	Western Gas Equity Partners, LP
+MPC	55.74	55.73	3017900	Marathon Petroleum Corporation
+MPO	14.55	14.55	76400	MIDSTATES PETROLEUM COMPANY, INC.
+CYD	23.8	23.27	47000	China Yuchai International Limited
+ROYT	1.54	1.48	95300	Pacific Coast Oil Trust
+MPV	15.05	14.7	24200	Barings Participation Investors
+NMFC	14.4	14.15	265900	New Mountain Finance Corporation
+MPW	13.1	13.08	1961900	Medical Properties Trust, Inc.
+CYH	5.94	5.81	6782800	Community Health Systems, Inc.
+MPX	14.75	14.75	41700	Marine Products Corporation
+CIG.C	2.46	2.46	100	Comp En De Mn Cemig ADS
+AMGP	19.69	19.6	163300	Antero Midstream GP LP
+CYS	8.72	8.68	480300	CYS Investments, Inc.
+RLH	8.75	8.525	53900	Red Lion Hotels Corporation
+RLI	57.94	57.305	173000	RLI Corp.
+YEXT	12.38	12.05	259200	Yext, Inc.
+RLJ	22.31	22.12	868200	RLJ Lodging Trust
+ARCH	71.12	71.12	408000	Arch Coal, Inc.
+ARCO	10	9.85	237700	Arcos Dorados Holdings Inc.
+HUM	239.4	237.67	1691900	Humana Inc.
+VALE	10.41	10.22	24116400	VALE S.A.
+HUN	28.96	28.875	3767200	Huntsman Corporation
+CIVI	18.35	18.1	42800	Civitas Solutions, Inc.
+WHG	67.5	67.5	20100	Westwood Holdings Group Inc
+JILL	4.9	4.79	779100	J. Jill, Inc.
+ARCX	16.65	16.64	38400	Arc Logistic Partners LP
+WHR	176.67	174.73	798900	Whirlpool Corporation
+EAB	24.96	24.96	1200	Entergy Arkansas, Inc.
+EAE	24.95	24.95	400	Entergy Arkansas, Inc.
+EAI	24.79	24.75	65800	Entergy Arkansas, Inc.
+MQT	13.23	13.21	20600	Blackrock MuniYield Quality Fund II, Inc.
+EAT	31	30.85	2894700	Brinker International, Inc.
+MQY	15.59	15.55	28400	Blackrock MuniYield Quality Fund, Inc.
+RMD	77.75	77.51	280700	ResMed Inc.
+HCHC	5.3	5.17	148300	HC2 Holdings, Inc.
+CZZ	9.11	9.015	893800	Cosan Limited
+ARDC	16.47	16.3	91900	Ares Dynamic Credit Allocation Fund, Inc.
+RMP	21.4	21.19	125000	Rice Midstream Partners LP
+RMT	9.42	9.36	104700	Royce Micro-Cap Trust, Inc.
+VSTO	20.77	20.63	425600	Vista Outdoor Inc.
+WIA	11.53	11.51	46000	Western Asset/Claymore U.S. Treasury Inflation Prot Secs Fd
+HVT	23.6	23.6	66200	Haverty Furniture Companies, Inc.
+EQCO	25.02	25.01	16300	Equity Commonwealth
+MRC	18.29	18	364900	MRC Global Inc.
+WIT	5.5	5.28	3162000	Wipro Limited
+WIW	11.24	11.22	59500	Western Asset/Claymore U.S Treasury Inflation Prot Secs Fd 2
+EBF	19.85	19.575	74100	Ennis, Inc.
+MRK	63.21	62.88	7028400	Merck & Company, Inc.
+MRO	13.85	13.65	9219100	Marathon Oil Corporation
+AMID	13.8	13.3	162400	American Midstream Partners, LP
+MRT	11.67	11.49	203600	MedEquities Realty Trust, Inc.
+EBR	6.49	6.31	198600	Centrais Electricas Brasileiras S.A.- Eletrobras
+EBS	40.5	39.99	171500	Emergent Biosolutions, Inc.
+GMRE	9.13	9.03	62500	Global Medical REIT Inc.
+ACRE	13.59	13.42	109500	Ares Commercial Real Estate Corporation
+RNG	42.75	42.4	324500	Ringcentral, Inc.
+SERV	46.55	46.23	628000	ServiceMaster Global Holdings, Inc.
+RNP	21.87	21.62	79500	Cohen & Steers Reit and Preferred Income Fund Inc
+RNR	138.01	137.6	332400	RenaissanceRe Holdings Ltd.
+AZUL	26.85	26.47	135300	Azul S.A.
+RLGY	32	31.98	1341600	Realogy Holdings Corp.
+ARES	18.65	18.25	69600	Ares Management L.P.
+MSA	78.89	78.89	150900	MSA Safety Incorporporated
+MSB	22.9	22.32	96800	Mesabi Trust
+ECA	11.3	11.25	10510800	Encana Corporation
+MSD	10.14	10.12	16400	Morgan Stanley Emerging Markets Debt Fund, Inc.
+SOJA	27.3	26.87	126200	Southern Company (The)
+MSF	17.87	17.81	5900	Morgan Stanley Emerging Markets Fund, Inc.
+SOJB	25.39	25.39	78100	Southern Company (The)
+MSG	217.88	213.77	141400	MSG Networks Inc.
+MSI	89.09	88.53	589000	Motorola Solutions, Inc.
+MSL	12.6	12.6	74400	MidSouth Bancorp
+MSM	76.1	75.96	1289300	MSC Industrial Direct Company, Inc.
+ECL	134.14	132.34	1266600	Ecolab Inc.
+MSP	11.89	11.89	8600	Madison Strategic Sector Premium Fund
+ECR	2.35	2.28	566900	Eclipse Resources Corporation
+ECT	2.45	2.41	47000	ECA Marcellus Trust I
+ROG	139	137.62	129700	Rogers Corporation
+ROK	186.4	185.97	432400	Rockwell Automation, Inc.
+ROL	47.7	47.61	518500	Rollins, Inc.
+ROP	251.4	250.37	511900	Roper Technologies, Inc.
+HXL	59.35	58.43	570200	Hexcel Corporation
+PAGP	21.14	21.11	1780500	Plains Group Holdings, L.P.
+MTB	164.53	163.21	573800	M&T Bank Corporation
+MTD	668.55	659.83	97400	Mettler-Toledo International, Inc.
+MTG	13.11	12.99	4175200	MGIC Investment Corporation
+EDD	8.07	8.07	134500	Morgan Stanley Emerging Markets Domestic Debt Fund, Inc.
+MTH	47.75	47.4	162000	Meritage Corporation
+EDF	16.77	16.77	60200	Stone Harbor Emerging Markets Income Fund
+MTL	5.01	4.94	1972800	Mechel PAO
+EDI	16.15	16.1	56300	Stone Harbor Emerging Markets Total Income Fund
+MTN	216.59	216.21	272600	Vail Resorts, Inc.
+EDN	42.98	41.91	127100	Empresa Distribuidora Y Comercializadora Norte S.A. (Edenor)
+MTR	15.65	15.33	3900	Mesa Royalty Trust
+GMTA	26.44	26.35	6900	GATX Corporation
+MTT	22.82	22.77	17000	Western Asset Municipal Defined Opportunity Trust Inc
+MTU	6.5	6.47	1871000	Mitsubishi UFJ Financial Group Inc
+EDR	36.99	36.51	603300	Education Realty Trust Inc.
+MTW	9.26	8.98	882100	Manitowoc Company, Inc. (The)
+MTX	72.55	72.1	138000	Minerals Technologies Inc.
+EDU	93.55	90.79	1263100	New Oriental Education & Technology Group, Inc.
+MTZ	43.65	42.9	872700	MasTec, Inc.
+RPM	51.7	51.585	455700	RPM International Inc.
+HYB	9.89	9.84	34700	New America High Income Fund, Inc. (The)
+RPT	13.34	13.34	235900	Ramco-Gershenson Properties Trust
+HYH	43.47	43.24	229400	Halyard Health, Inc.
+HYI	15.72	15.59	43300	Western Asset High Yield Defined Opportunity Fund Inc.
+TRNO	36.84	36.61	181200	Terreno Realty Corporation
+HYT	11.39	11.33	235600	Blackrock Corporate High Yield Fund, Inc.
+WLH	23.37	23.11	201900	Lyon William Homes
+WLK	84.42	83.62	471700	Westlake Chemical Corporation
+WLL	5.26	5.03	20185200	Whiting Petroleum Corporation
+MUA	15.7	15.53	52700	Blackrock MuniAssets Fund, Inc.
+MUC	14.79	14.79	30900	Blackrock MuniHoldings California Quality Fund,  Inc.
+EEA	9.7	9.7	7000	European Equity Fund, Inc. (The)
+MUE	14	14	53500	Blackrock MuniHoldings Quality Fund II, Inc.
+MUH	15.41	15.33	8500	Blackrock MuniHoldings Fund II, Inc.
+MUI	14.19	14.17	60500	Blackrock Muni Intermediate Duration Fund Inc
+MUJ	14.62	14.58	24800	Blackrock MuniHoldings New Jersey Insured Fund, Inc.
+MUR	25.99	25.51	1592100	Murphy Oil Corporation
+MODN	14.45	14.1	39700	Model N, Inc.
+EEP	15.37	15.24	598700	Enbridge Energy, L.P.
+MUS	13.69	13.61	15000	Blackrock MuniHoldings Quality Fund, Inc.
+EEQ	15.02	14.83	203300	Enbridge Energy Management LLC
+MUX	2.03	2	1637200	McEwen Mining Inc.
+EEX	22.74	22.25	62500	Emerald Expositions Events, Inc.
+TECK	22.84	22.38	3626400	Teck Resources Ltd
+CSRA	31.17	31.04	648200	CSRA Inc.
+RQI	12.8	12.73	119900	Cohen & Steers Quality Income Realty Fund Inc
+JAG	14	13.71	538300	Jagged Peak Energy Inc.
+TMST	17.47	17.095	490800	Timken Steel Corporation
+HCLP	8.8	8.6	1288800	Hi-Crush Partners LP
+JAX	10.5	10.5	36000	J. Alexander's Holdings, Inc.
+HZN	17.2	16.81	142600	Horizon Global Corporation
+WMB	29.85	29.755	2661000	Williams Companies, Inc. (The)
+HZO	16.3	16.25	163900	MarineMax, Inc.
+WMC	10.63	10.58	149500	Western Asset Mortgage Capital Corporation
+WMK	41.99	41.81	97100	Weis Markets, Inc.
+EQGP	29.7	28.56	110300	EQT GP Holdings, LP
+TROX	26.76	26.67	804500	Tronox Limited
+MVC	10.25	10.17	49300	MVC Capital, Inc.
+WMS	19.75	18.65	403500	Advanced Drainage Systems, Inc.
+WMT	85.46	85.321	5851500	Wal-Mart Stores, Inc.
+EFC	15.65	15.56	54900	Ellington Financial LLC
+EFF	16.68	16.6	24200	Eaton vance Floating-Rate Income Plus Fund
+EFL	9.91	9.9	32600	Eaton Vance Floating-Rate 2022 Target Term Trust
+MVO	5.49	5.315	32800	MV Oil Trust
+MVT	15.52	15.48	13800	Blackrock MuniVest Fund II, Inc.
+EFR	14.8	14.76	57100	Eaton Vance Senior Floating-Rate Fund
+EFT	14.67	14.61	43400	Eaton Vance Floating Rate Income Trust
+EFX	109	108.48	1532000	Equifax, Inc.
+RRC	19.51	19.4	4404500	Range Resources Corporation
+RRD	9.72	9.64	912400	R.R. Donnelley & Sons Company
+ELLI	86.65	86.325	432100	Ellie Mae, Inc.
+JBL	28.47	28.47	2455400	Jabil Inc.
+JBN	13.45	13.33	3000	Select Asset Inc.
+BCEI	34.13	33.6	78500	Bonanza Creek Energy, Inc.
+JBR	13.31	12.91	5000	Select Asset Inc.
+JBT	103.65	102.905	120000	John Bean Technologies Corporation
+SBBC	25.5	25.5	5900	Scorpio Tankers Inc.
+WNC	22.49	21.98	462000	Wabash National Corporation
+MWA	12.51	12.13	1114900	MUELLER WATER PRODUCTS
+WNS	37.4	37.21	179400	WNS (Holdings) Limited
+CALX	5.65	5.6	176600	Calix, Inc
+EGF	13.6	13.53	2500	Blackrock Enhanced Government Fund, Inc
+CNXC	14.9	14.9	17100	CNX Coal Resources LP
+EGL	34.17	33.55	147200	Engility Holdings, Inc.
+EGN	52.95	52.615	829900	Energen Corporation
+EGO	2.15	2.14	2858800	Eldorado Gold Corporation
+EGP	91.54	90.67	112500	EastGroup Properties, Inc.
+TWLO	31.87	31.63	620800	Twilio Inc.
+EGY	0.78	0.74	88800	Vaalco Energy Inc
+RSG	62.75	62.675	1250400	Republic Services, Inc.
+JCE	15.74	15.67	23600	Nuveen Core Equity Alpha Fund
+JCI	41.62	41.095	3429200	Johnson Controls International plc
+RSO	10.49	10.43	65300	Resource Capital Corp.
+JCO	10.01	10	58400	Nuveen Credit Opportunities 2022 Target Term Fund
+JCP	3.35	3.35	11073300	J.C. Penney Company, Inc. Holding Company
+CSTM	11.05	10.975	545900	Constellium N.V.
+RST	9.93	9.71	18800	Rosetta Stone
+IPHI	35.75	35.58	931400	Inphi Corporation
+WAAS	13.29	12.74	87900	AquaVenture Holdings Limited
+WOR	44.31	44.06	369200	Worthington Industries, Inc.
+MXE	10.85	10.71	15800	Mexico Equity and Income Fund, Inc. (The)
+MXF	16.19	16.09	72100	Mexico Fund, Inc. (The)
+WOW	14.18	14	354100	WideOpenWest, Inc.
+MXL	23.14	23	574600	MaxLinear, Inc
+EHI	10.37	10.33	51900	Western Asset Global High Income Fund Inc
+PFGC	28.3	28.075	558600	Performance Food Group Company
+EHT	10.15	10.11	28800	Eaton Vance High Income 2021 Target Term Trust
+ZOES	11.87	11.87	363000	Zoe's Kitchen, Inc.
+AMOV	17.78	17.62	8500	America Movil, S.A.B. de C.V.
+JDD	12.87	12.83	25500	Nuveen Diversified Dividend and Income Fund
+RTN	188.36	188.23	810300	Raytheon Company
+WPC	69.6	69.05	185900	W.P. Carey Inc.
+WPG	8.6	8.53	1520400	Washington Prime Group Inc.
+CPAC	12.99	12.92	5600	Cementos Pacasmayo S.A.A.
+WPM	19.88	19.75	1413000	Wheaton Precious Metals Corp.
+MYC	15.53	15.45	13400	Blackrock MuniYield California Fund, Inc.
+MYD	14.82	14.8	43300	Blackrock MuniYield Fund, Inc.
+MYE	22.15	22.05	58900	Myers Industries, Inc.
+MYF	15.52	15.51	25800	Blackrock MuniYield Investment Fund
+WPX	10.97	10.78	4565800	WPX Energy, Inc.
+MYI	14.36	14.35	75300	Blackrock MuniYield Quality Fund III, Inc.
+EIG	47.2	46.15	56700	Employers Holdings Inc
+MYJ	16.27	16.2	12600	Blackrock MuniYield New Jersey Fund, Inc.
+WPZ	39.33	39.23	630800	Williams Partners LP
+MYN	13.15	13.06	68600	Blackrock MuniYield New York Quality Fund, Inc.
+JNPR	26	25.93	4045600	Juniper Networks, Inc.
+EIX	77.58	76.93	3760700	Edison International
+JEC	58.91	58.08	588900	Jacobs Engineering Group Inc.
+TEGP	27.85	27.44	118600	Tallgrass Energy GP, LP
+PSTG	16.18	16.16	939200	Pure Storage, Inc.
+AA	48.65	47.42	3960600	Alcoa Corporation
+AB	25	24.8	150700	AllianceBernstein Holding L.P.
+AC	37.4	37.4	10000	Associated Capital Group, Inc.
+GRUB	51.21	50.95	499400	GrubHub Inc.
+JEQ	9.05	9.01	7000	Aberdeen Japan Equity Fund, Inc.
+MTDR	26.68	26.34	1072300	Matador Resources Company
+AG	7.02	6.935	2128700	First Majestic Silver Corp.
+AI	12.71	12.66	294600	Arlington Asset Investment Corp
+AL	44.53	43.66	1004200	Air Lease Corporation
+AM	30.41	29.83	543300	Antero Midstream Partners LP
+AN	44.01	43.88	765800	AutoNation, Inc.
+AP	17.4	17.05	20400	Ampco-Pittsburgh Corporation
+AR	19.62	19.55	2057900	Antero Resources Corporation
+AT	2.5	2.5	126700	Atlantic Power Corporation
+AU	9.36	9.22	2750100	AngloGold Ashanti Limited
+OAK	47	46.725	81400	Oaktree Capital Group, LLC
+MZF	13.67	13.67	8900	Managed Duration Investment Grade Municipal Fund
+OAS	8.63	8.54	7421500	Oasis Petroleum Inc.
+BA	256.49	256.26	2515800	Boeing Company (The)
+BB	11.37	11.14	5184900	BlackBerry Limited
+BC	57.63	57.03	590700	Brunswick Corporation
+RVT	15.9	15.87	215900	Royce Value Trust, Inc.
+JFR	11.68	11.63	137400	Nuveen Floating Rate Income Fund
+ARMK	42.58	42.535	1525400	Aramark
+BG	70.78	70.49	802100	Bunge Limited
+BH	340.6	338.1	2600	Biglari Holdings Inc.
+BK	54.76	53.76	3584400	Bank Of New York Mellon Corporation (The)
+WRB	68.28	67.85	379700	W.R. Berkley Corporation
+BP	39.02	38.64	5393300	BP p.l.c.
+WRD	12.72	12.56	200500	WildHorse Resource Development Corporation
+TRTN	37.37	36.69	317900	Triton International Limited
+WRE	33.67	33.32	169000	Washington Real Estate Investment Trust
+BR	83.1	82.53	256500	Broadridge Financial Solutions, Inc.
+BT	18.1	18.05	615400	BT Group plc
+OBE	1.04	1.01	1517200	Obsidian Energy Ltd.
+CAPL	26	26	46400	CrossAmerica Partners LP
+WRI	32.18	32.08	555800	Weingarten Realty Investors
+BW	4.28	4.15	1388600	Babcock
+WRK	59.08	59.01	1562700	Westrock Company
+BX	33.25	33.08	1914500	The Blackstone Group L.P.
+BY	20.57	20.35	201300	Byline Bancorp, Inc.
+TRTX	19.89	19.68	59500	TPG RE Finance Trust, Inc.
+PANW	148.99	148.18	1069000	Palo Alto Networks, Inc.
+GWRE	77.92	77.08	418500	Guidewire Software, Inc.
+EVHC	41.76	40.95	1719300	Envision Healthcare Corporation
+AMRC	7.75	7.65	46300	Ameresco, Inc.
+NWHM	11.32	11.12	58200	New Home Company Inc. (The)
+JGH	17.31	17.31	61100	Nuveen Global High Income Fund
+STNG	3.65	3.64	3230200	Scorpio Tankers Inc.
+ARNC	27	26.77	2191400	Arconic Inc.
+CB	150.06	149.06	1250600	D/B/A Chubb Limited New
+CC	57.05	56.8	1568600	Chemours Company (The)
+RWT	16.66	16.54	233200	Redwood Trust, Inc.
+CE	107.1	101.88	1749900	Celanese Corporation
+CF	36.9	36.47	4643500	CF Industries Holdings, Inc.
+CI	185.39	185.28	2278900	Cigna Corporation
+CJ	28.91	28.26	573300	C
+CL	75.5	74.62	3217600	Colgate-Palmolive Company
+CM	89.67	89.17	578000	Canadian Imperial Bank of Commerce
+CO	10.77	10.76	200600	China Cord Blood Corporation
+CP	167.83	166.92	805900	Canadian Pacific Railway Limited
+FBHS	66.32	65.92	662800	Fortune Brands Home & Security, Inc.
+CR	82.25	81.85	333600	Crane Company
+SBGL	4.75	4.725	2164100	Sibanye Gold Limited
+CS	15.97	15.91	4602700	Credit Suisse Group
+CW	113.29	112.71	388000	Curtiss-Wright Corporation
+CX	7.85	7.85	33973500	Cemex S.A.B. de C.V.
+WSM	50.15	50.07	1500800	Williams-Sonoma, Inc.
+WSO	159.5	159.19	193000	Watsco, Inc.
+OCN	3.64	3.64	1562700	Ocwen Financial Corporation
+WSR	13.65	13.44	711500	Whitestone REIT
+WST	92.51	89.77	2153900	West Pharmaceutical Services, Inc.
+ELC	24.73	24.73	19000	Entergy Louisiana, Inc.
+ELF	21.22	21.02	350800	e.l.f. Beauty, Inc.
+ELJ	25.24	25.07	2300	Entergy Louisiana, Inc.
+ELP	8.81	8.505	594200	Companhia Paranaense de Energia (COPEL)
+ELS	87	86.58	410300	Equity Lifestyle Properties, Inc.
+ELU	24.87	24.83	1500	Entergy Louisiana, Inc.
+ELY	14.02	14	497100	Callaway Golf Company
+BURL	88.45	87.6	673500	Burlington Stores, Inc.
+JHA	9.97	9.96	80300	Nuveen High Income 2020 Target Term Fund
+JHB	10.11	10.07	58400	Nuveen High Income November 2021 Target Term Fund
+JHD	10.05	10.04	60700	Nuveen High Income December 2019 Target Term Fund
+JHG	35	34.8	448900	Janus Henderson Group plc
+JHI	18.15	18.1	3500	John Hancock Investors Trust
+RXN	25.79	25.59	3015400	Rexnord Corporation
+AROC	12.5	12	302900	Archrock, Inc.
+STON	5.95	5.93	329200	StoneMor Partners L.P.
+DB	16.72	16.69	3342900	Deutsche Bank AG
+DE	127.78	127.78	1777100	Deere & Company
+STOR	25.72	25.64	1626200	STORE Capital Corporation
+JHS	14.76	14.76	15200	John Hancock Income Securities Trust
+DF	10.56	10.43	664700	Dean Foods Company
+DG	82.15	81.74	1367000	Dollar General Corporation
+OCIP	7.1	7	1500	OCI Partners LP
+JHX	14.17	14.17	16700	James Hardie Industries plc.
+DK	26.55	26.06	756000	Delek US Holdings, Inc.
+JHY	10.03	10.03	32200	Nuveen High Income 2020 Target Term Fund
+DL	8	7.53	160000	China Distance Education Holdings Limited
+DM	32.6	32.05	86400	Dominion Energy Midstream Partners, LP
+DO	15.51	15.07	2419300	Diamond Offshore Drilling, Inc.
+DQ	31.45	30.21	236400	DAQO New Energy Corp.
+ODC	42.27	41.805	16400	Oil-Dri Corporation Of America
+DS	3.69	3.685	176900	Drive Shack Inc.
+WTI	3.09	2.99	1743800	W&T Offshore, Inc.
+DX	7.34	7.31	214500	Dynex Capital, Inc.
+WTM	866.78	866.51	25900	White Mountains Insurance Group, Ltd.
+DY	82.52	82.52	228900	Dycom Industries, Inc.
+BHGE	33.64	33.3	4636800	Baker Hughes, a GE company
+CARS	26.84	26.11	1155400	Cars.com Inc.
+WTR	34.85	34.85	264200	Aqua America, Inc.
+WTS	67.65	66.85	107900	Watts Water Technologies, Inc.
+EMD	15.68	15.65	108800	Western Asset Emerging Markets Debt Fund Inc
+WTW	46.6	45.8	837700	Weight Watchers International Inc
+EME	70.31	68.83	196300	EMCOR Group, Inc.
+EMF	17.2	17.11	34900	Templeton Emerging Markets Fund
+EMN	87.6	86.58	2031000	Eastman Chemical Company
+EMO	11.78	11.66	81900	ClearBridge Energy MLP Opportunity Fund Inc.
+EMP	24.76	24.71	25700	Entergy Mississippi, Inc.
+WNRL	24.7	24.65	120800	Western Refining Logistics, LP
+EMR	65.57	65.3	3794400	Emerson Electric Company
+OMAA	24.73	24.68	10000	OM Asset Management plc
+RYB	30.7	28.56	443100	RYB Education, Inc.
+OMAM	15.32	15.07	164700	OM Asset Management plc
+RYI	9.85	9.05	286800	Ryerson Holding Corporation
+RYN	29.8	29.68	341300	Rayonier Inc.
+EC	9.85	9.76	1484600	Ecopetrol S.A.
+ED	83.02	82.66	1144400	Consolidated Edison Inc
+EE	56.85	56.65	363900	El Paso Electric Company
+PSXP	52.69	51	174500	Phillips 66 Partners LP
+EL	111.01	110.04	1238900	Estee Lauder Companies, Inc. (The)
+WAGE	63.95	63.75	238000	WageWorks, Inc.
+OEC	23.75	23.025	323800	Orion Engineered Carbons S.A
+ES	61.25	61.1	1393800	Eversource Energy
+EV	51.5	50.76	501500	Eaton Vance Corporation
+EW	108.41	108.225	951400	Edwards Lifesciences Corporation
+ENB	41.48	41.03	1568800	Enbridge Inc
+ENJ	24.98	24.91	2500	Entergy New Orleans, Inc.
+ENO	25.78	25.78	19000	Entergy New Orleans, Inc.
+TAC	5.85	5.85	15900	TransAlta Corporation
+ENR	47.79	46.06	1163000	Energizer Holdings, Inc.
+ENS	68	67.46	399800	Enersys
+ENV	53.8	53	236400	Envestnet, Inc
+CUBE	26.12	26.04	756100	CubeSmart
+TAL	35.97	34.81	3231300	TAL Education Group
+ENZ	10.3	9.91	355700	Enzo Biochem, Inc.
+RZA	28.13	28.13	34700	Reinsurance Group of America, Incorporated
+RZB	28.71	28.22	34000	Reinsurance Group of America, Incorporated
+CUBI	33.1	32.42	174500	Customers Bancorp, Inc
+TAP	82.67	82.24	1354200	Molson Coors Brewing  Company
+HMLP	19.35	19.175	93600	Hoegh LNG Partners LP
+CUBS	26.1	25.99	1300	Customers Bancorp, Inc
+FC	19.65	19.45	12100	Franklin Covey Company
+FE	32.16	31.98	3881200	FirstEnergy Corporation
+FF	15.45	15.22	43100	FutureFuel Corp.
+FI	7.23	7.12	668600	Frank's International N.V.
+FL	30.97	30.58	2922400	Foot Locker, Inc.
+FN	36.83	36.45	246600	Fabrinet
+FR	30.93	30.82	546400	First Industrial Realty Trust, Inc.
+OFC	33.08	32.535	771600	Corporate Office Properties Trust
+FT	7.28	7.26	37400	Franklin Universal Trust
+IPOA	10.2	10.13	26800	Social Capital Hedosophia Holdings Corp.
+OFG	8.4	8.2	143300	OFG Bancorp
+CATO	13.23	13.08	169900	Cato Corporation (The)
+EOD	6.29	6.2	516800	Wells Fargo Global Dividend Opportunity Fund
+EOG	97.25	96.56	1695300	EOG Resources, Inc.
+EOI	14.31	14.3	73200	Eaton Vance Enhance Equity Income Fund
+EOS	15.26	15.23	63700	Eaton Vance Enhanced Equity Income Fund II
+TWTR	18.31	18.11	8935400	Twitter, Inc.
+EOT	23.43	23.22	40500	Eaton Vance Municipal Income Trust
+TBI	23.4	23.15	132000	TrueBlue, Inc.
+KDMN	3.35	3.31	215900	Kadmon Holdings, Inc.
+GD	212.75	210.95	769900	General Dynamics Corporation
+GE	23.22	23	58639000	General Electric Company
+JKS	23.41	23.04	357900	JinkoSolar Holding Company Limited
+GF	18.69	18.62	14500	New Germany Fund, Inc. (The)
+GG	12.99	12.92	5405700	Goldcorp Inc.
+GM	45.8	44.955	14700400	General Motors Company
+WWE	22.6	22.48	326200	World Wrestling Entertainment, Inc.
+GS	244.44	235.19	7088400	Goldman Sachs Group, Inc. (The)
+OGE	36.71	36.62	585500	OGE Energy Corporation
+WAIR	9.45	9.4	280700	Wesco Aircraft Holdings, Inc.
+EPC	71.33	70.7	393800	Energizer Holdings, Inc.
+OGS	74.42	73.95	145200	ONE Gas, Inc.
+EPD	26.39	25.98	5188900	Enterprise Products Partners L.P.
+WWW	27.91	27.79	487000	Wolverine World Wide, Inc.
+EPE	2.87	2.76	398400	EP Energy Corporation
+EPR	70.8	70.71	323600	EPR Properties
+TCF	17.13	16.96	1777600	TCF Financial Corporation
+CUDA	22.6	22.43	868500	Barracuda Networks, Inc.
+TCI	27.85	27.85	900	Transcontinental Realty Investors, Inc.
+TCO	50.16	50.16	315700	Taubman Centers, Inc.
+DNOW	13.09	13.02	1091400	NOW Inc.
+TCP	53.33	52.22	95300	TC PipeLines, LP
+TCS	4.07	4.03	196200	Container Store (The)
+SLCA	27.86	27.72	1982500	U.S. Silica Holdings, Inc.
+JLL	131.32	130.13	300900	Jones Lang LaSalle Incorporated
+ELVT	7.19	7.12	106600	Elevate Credit, Inc.
+HD	164.22	161.51	4189100	Home Depot, Inc. (The)
+HE	34.71	34.61	340100	Hawaiian Electric Industries, Inc.
+JLS	25.85	25.7	62900	Nuveen Mortgage Opportunity Term Fund
+HF	43	42.85	237400	HFF, Inc.
+HI	39.2	38.675	413200	Hillenbrand Inc
+HK	6.14	6.01	5754300	Halcon Resources Corporation
+HL	5.18	5.04	3281400	Hecla Mining Company
+HP	52.47	52.03	1187700	Helmerich & Payne, Inc.
+HR	32.27	32.17	713600	Healthcare Realty Trust Incorporated
+HT	19.13	18.87	458700	Hersha Hospitality Trust
+OHI	31.68	31.51	1494400	Omega Healthcare Investors, Inc.
+HY	77.89	77.57	78300	Hyster-Yale Materials Handling, Inc.
+EQC	30.2	30.03	524300	Equity Commonwealth
+EQM	74.72	73.51	171300	EQT Midstream Partners, LP
+TDA	24.92	24.82	7600	Telephone and Data Systems, Inc.
+TDC	32.93	32.035	1170000	Teradata Corporation
+TDE	25.54	25.54	5900	Telephone and Data Systems, Inc.
+EQR	67.06	66.51	1293500	Equity Residential
+TDF	21.73	21.66	37100	Templeton Dragon Fund, Inc.
+EQS	2.33	2.29	4100	Equus Total Return, Inc.
+TDG	263.42	262.165	428700	Transdigm Group Incorporated
+EQT	62.52	62.4	2440800	EQT Corporation
+TDI	25.93	25.92	2600	Telephone and Data Systems, Inc.
+TDJ	25.54	25.52	13700	Telephone and Data Systems, Inc.
+TDS	28.61	28.37	289600	Telephone and Data Systems, Inc.
+SLDA	25.9	25.9	500	Sutherland Asset Management Corporation
+JMF	11.54	11.46	209400	Nuveen Energy MLP Total Return Fund
+TDW	26.81	26.51	22300	Tidewater Inc.
+TDY	162	161.11	81300	Teledyne Technologies Incorporated
+JMM	7.55	7.55	5100	Nuveen Multi-Market Income Fund
+JMP	5.55	5.43	21600	JMP Group LLC
+JMT	24.6	24.46	20700	Nuven Mortgage Opportunity Term Fund 2
+IO	8.85	8.55	69900	Ion Geophysical Corporation
+IP	57.7	57.7	1374300	International Paper Company
+OIA	7.92	7.92	44100	Invesco Municipal Income Opportunities Trust
+IR	90.63	90.21	1704900	Ingersoll-Rand plc (Ireland)
+IT	123.74	122.05	681400	Gartner, Inc.
+ORAN	16.29	16.245	242400	Orange
+BHLB	39.15	38.7	111900	Berkshire Hills Bancorp, Inc.
+IX	86.06	85.85	21600	Orix Corp Ads
+OII	25.42	24.96	1208900	Oceaneering International, Inc.
+WYN	109.96	109.39	653700	Wyndham Worldwide Corp
+ERA	10.36	9.98	26300	Era Group, Inc.
+OIS	24.85	23.95	501500	Oil States International, Inc.
+ERF	8.87	8.72	1135100	Enerplus Corporation
+ERJ	20.43	19.87	6343400	Embraer-Empresa Brasileira de Aeronautica
+TEF	10.57	10.5	1131100	Telefonica SA
+TEI	11.62	11.6	56100	Templeton Emerging Markets Income Fund, Inc.
+TEL	88.05	87.38	883400	TE Connectivity Ltd.
+TEN	62.58	61.55	419700	Tenneco Inc.
+TEO	31.22	31.05	171100	Telecom Argentina Stet - France Telecom S.A.
+TEP	48.09	47.15	137000	Tallgrass Energy Partners, LP
+TER	38.7	38.47	1711600	Teradyne, Inc.
+TEX	46.41	45.95	586100	Terex Corporation
+JNJ	137.67	137.06	11717300	Johnson & Johnson
+JE	5.85	5.73	130200	Just Energy Group, Inc.
+SBNA	24.68	24.6	4500	Scorpio Tankers Inc.
+WALA	25.91	25.77	31000	Western Alliance Bancorporation
+JP	24.68	22.07	1324200	Jupai Holdings Limited
+RICE	27.37	27.3	3280800	Rice Energy Inc.
+ESE	60.75	59.95	62100	ESCO Technologies Inc.
+ESL	93.1	92.65	72100	Esterline Technologies Corporation
+ESS	260.49	260.07	158300	Essex Property Trust, Inc.
+ESV	5.71	5.55	10280800	ENSCO plc
+JOE	18.95	18.5	445900	St. Joe Company (The)
+JOF	12.64	12.63	33800	Japan Smaller Capitalization Fund Inc
+TFX	239.42	238.75	171100	Teleflex Incorporated
+BCRH	15.95	15.3	83900	Blue Capital Reinsurance Holdings Ltd.
+KB	50.36	50.1	71300	KB Financial Group Inc
+KF	42.54	42.49	5500	Korea Fund, Inc. (The)
+KL	12.95	12.95	509100	Kirkland Lake Gold Ltd.
+KN	15.41	15.32	726600	Knowles Corporation
+KO	46.53	46.31	7699300	Coca-Cola Company (The)
+KR	20.41	20.25	16759000	Kroger Company (The)
+KS	22.77	22.74	913700	KapStone Paper and Packaging Corporation
+ORCL	48.82	48.71	14191300	Oracle Corporation
+KT	14.77	14.43	1536800	KT Corporation
+OKE	56.25	56.08	1400500	ONEOK, Inc.
+KW	19.65	19.425	1037800	Kennedy-Wilson Holdings Inc.
+SBOW	22.69	22.655	58300	SilverBow Resorces, Inc.
+ETB	16.85	16.74	82900	Eaton Vance Tax-Managed Buy-Write Income Fund
+ETE	17.91	17.68	3276500	Energy Transfer Equity, L.P.
+ETG	17.4	17.32	84300	Eaton Vance Tax-Advantaged Global Dividend Income Fund
+ETH	29.8	29.75	205800	Ethan Allen Interiors Inc.
+ETJ	9.37	9.335	363900	Eaton Vance Risk-Managed Diversified Equity Income Fund
+NOAH	40.05	38.96	401000	Noah Holdings Ltd.
+ETM	11.6	11.4	387400	Entercom Communications Corporation
+ETN	77.85	76.6	3535600	Eaton Corporation, PLC
+ETO	25.07	24.98	29300	Eaton Vance Tax-Advantage Global Dividend Opp
+ETP	18.13	18.05	4775100	Energy Transfer Partners, L.P.
+PFSI	18.2	18.15	90500	PennyMac Financial Services, Inc.
+ETR	83.45	83.39	1559800	Entergy Corporation
+TGH	17.9	17.85	131500	Textainer Group Holdings Limited
+TGI	31.35	31	498400	Triumph Group, Inc.
+ETV	15.3	15.28	170000	Eaton Vance Corporation
+ETW	11.85	11.81	283200	Eaton Vance Corporation
+ETY	11.83	11.79	234600	Eaton Vance Tax-Managed Diversified Equity Income Fund
+TGP	18.4	17.8	150000	Teekay LNG Partners L.P.
+JPC	10.53	10.52	165000	Nuveen Preferred & Income Opportunities Fund
+TGS	21.69	21.01	348700	Transportadora De Gas Sa Ord B
+TGT	60.15	59.86	3285800	Target Corporation
+STWD	21.66	21.64	1462900	STARWOOD PROPERTY TRUST, INC.
+JPI	25.43	25.4	27200	Nuveen Preferred and Income Term Fund
+JPM	98.04	97.32	10335600	J P Morgan Chase & Co
+LB	41.2	40.93	2519100	L Brands, Inc.
+LC	6.34	6.23	7183000	LendingClub Corporation
+JPS	10.37	10.36	245700	Nuveen Preferred & Income Securities Fund
+MTOR	26.29	25.82	1051000	Meritor, Inc.
+JPT	25.26	25.26	21100	Nuveen Preferred and Income 2022 Term Fund
+LH	149.46	148.6	527700	Laboratory Corporation of America Holdings
+LL	34.51	34.26	888200	Lumber Liquidators Holdings, Inc
+LM	37.98	37.46	1274400	Legg Mason, Inc.
+LN	36.83	36.41	136200	LINE Corporation
+LQ	18.17	18.11	920000	La Quinta Holdings Inc.
+LW	50.55	49.91	1048700	Lamb Weston Holdings, Inc.
+BRFS	14.06	13.82	1176500	BRF S.A.
+OLN	35.39	34.76	1947800	Olin Corporation
+OLP	25.05	25.05	18700	One Liberty Properties, Inc.
+GOLF	17.76	17.67	136000	Acushnet Holdings Corp.
+EVRI	7.98	7.88	611400	Everi Holdings Inc.
+THC	12.96	12.77	6386800	Tenet Healthcare Corporation
+THG	97.34	96.85	162400	The Hanover Insurance Group, Inc.
+ENBL	15.65	15.54	53400	Enable Midstream Partners, LP
+THO	130.48	129.34	737000	Thor Industries, Inc.
+THQ	18.41	18.41	99100	Tekla Healthcare Opportunies Fund
+THR	21.01	20.67	173100	Thermon Group Holdings, Inc.
+JQC	8.46	8.43	188100	Nuveen Credit Strategies Income Fund
+THS	68.6	67.85	417300	Treehouse Foods, Inc.
+BAC	26.37	26.11	48644400	Bank of America Corporation
+THW	14.42	14.41	103000	Tekla World Healthcare Fund
+BAF	15.58	15.37	14300	BlackRock Income Investment Quality Trust
+BAH	38.07	37.45	691200	Booz Allen Hamilton Holding Corporation
+BAK	29.67	29.08	787000	Braskem S.A.
+MA	146.33	145.53	3002400	Mastercard Incorporated
+BAM	42.6	42.58	438600	Brookfield Asset Management Inc
+MC	42.25	42.1	324000	Moelis & Company
+IMAX	20.95	20.4	1212800	Imax Corporation
+MD	42.37	41.6	1046600	Mednax, Inc
+BAP	208.4	205.05	294500	Credicorp Ltd.
+MG	20.715	20.335	29100	Mistras Group Inc
+BAS	18.94	18.72	361900	Basic Energy Services, Inc.
+GBAB	22.68	22.61	27000	Guggenheim Taxable Municipal Managed Duration Trst
+PAYC	78.98	78.65	238200	Paycom Software, Inc.
+LEN.B	47.2	47.03	8700	Lennar Corporation
+BAX	63.59	63.33	2484300	Baxter International Inc.
+MN	3.9	3.6	194100	Manning & Napier, Inc.
+MO	65.1	64.81	7507900	Altria Group
+OMC	76.41	74.96	5737400	Omnicom Group Inc.
+MS	49.69	48.97	15535000	Morgan Stanley
+MT	28.86	28.55	3789400	ArcelorMittal
+OME	22.1	22.05	320800	Omega Protein Corporation
+OMF	30.68	30.27	265000	OneMain Holdings, Inc.
+MX	10.8	10.6	203200	MagnaChip Semiconductor Corporation
+OMI	27.89	27.89	762800	Owens & Minor, Inc.
+OMN	11.05	11	134400	OMNOVA Solutions Inc.
+EVA	30.45	30.3	20200	Enviva Partners, LP
+OMP	17.71	17.18	79100	Oasis Midstream Partners LP
+EVC	5.35	5.25	217500	Entravision Communications Corporation
+EVF	6.57	6.57	80300	Eaton Vance Senior Income Trust
+EVG	14.23	14.23	28500	Eaton Vance Short Diversified Income Fund
+EVH	16.1	15.75	1425700	Evolent Health, Inc
+EVN	12.86	12.82	54300	Eaton Vance Municipal Income Trust
+EVR	76.5	75.75	664400	Evercore Inc.
+TIF	94.71	94.175	1664100	Tiffany & Co.
+EVT	22.42	22.405	98700	Eaton Vance Tax Advantaged Dividend Income Fund
+BBD	11.49	11.32	5473100	Banco Bradesco Sa
+BBF	14.82	14.72	42400	BlackRock Municipal Income Investment Trust
+JRI	17.91	17.85	93200	Nuveen Real Asset Income and Growth Fund
+BBG	4.21	4.15	1679200	Bill Barrett Corporation
+BBK	15.47	15.44	20500	Blackrock Municipal Bond Trust
+BBL	37.82	37.33	1108300	BHP Billiton plc
+JRO	11.77	11.75	72900	Nuveen Floating Rate Income Opportuntiy Fund
+NC	37.2	34.96	27600	NACCO Industries, Inc.
+BBN	23.53	23.43	68300	BalckRock Taxable Municipal Bond Trust
+NE	4.05	4.03	5846100	Noble Corporation
+JRS	11.22	11.2	64200	Nuveen Real Estate Fund
+NI	26.33	26.225	1720400	NiSource, Inc
+BBT	47.19	46.49	3007800	BB&T Corporation
+BBU	29.23	29.16	35000	Brookfield Business Partners L.P.
+NL	11.05	10.9	131800	NL Industries, Inc.
+BBW	8.6	8.2	154000	Build-A-Bear Workshop, Inc.
+NM	1.87	1.78	673400	Navios Maritime Holdings Inc.
+BBX	7.36	7.28	68400	BBX Capital Corporation
+BBY	54.72	54.17	3662300	Best Buy Co., Inc.
+NP	87.1	86	39400	Neenah Paper, Inc.
+NQ	3.5	3.42	198100	NQ Mobile Inc.
+NR	9.75	9.55	229900	Newpark Resources, Inc.
+NS	37.19	35.46	872200	Nustar Energy L.P.
+NX	22.6	22.3	120000	Quanex Building Products Corporation
+EVTC	15.1	14.9	460200	Evertec, Inc.
+JSD	17.38	17.35	13700	Nuveen Short Duration Credit Opportunities Fund
+BCC	34.9	34.65	254200	Boise Cascade, L.L.C.
+BCE	47.1	46.95	714100	BCE, Inc.
+TJX	71.12	71.06	2605000	TJX Companies, Inc. (The)
+BCH	93.81	92.65	24300	Banco De Chile
+OA	133.25	132.89	493100	Orbital ATK, Inc.
+MTRN	43	42.35	40500	Materion Corporation
+OC	79.73	79.1	744100	Owens Corning Inc
+BCO	84.75	84.45	359300	Brink's Company (The)
+BCR	323.1	322.73	280400	C.R. Bard, Inc.
+OI	25.66	25.34	647400	Owens-Illinois, Inc.
+BCS	10.11	10.07	1825000	Barclays PLC
+BCX	8.93	8.9	214600	BlackRock Resources
+OR	12.96	12.61	512500	Osisko Gold Royalties Ltd
+EXC	39.56	39.22	4238700	Exelon Corporation
+EXD	11.79	11.69	34700	Eaton Vance Tax-Advantaged Bond
+EXG	9.5	9.47	619800	Eaton Vance Tax-Managed Global Diversified Equity Income Fund
+EXK	2.39	2.32	1577900	Endeavour Silver Corporation
+TKC	9.54	9.465	574200	Turkcell Iletisim Hizmetleri AS
+EXP	108.75	108.67	439300	Eagle Materials Inc
+EXR	81.73	81.4	854400	Extra Space Storage Inc
+TKF	9.51	9.46	14100	Turkish Investment Fund, Inc. (The)
+TEVA	14.75	14.58	14505600	Teva Pharmaceutical Industries Limited
+GOOS	20.7	20.37	436900	Canada Goose Holdings Inc.
+JTA	13.68	13.6	44500	Nuveen Tax-Advantaged Total Return Strategy Fund
+TKR	49.85	49.4	431300	Timken Company (The)
+JTD	16.95	16.871	45200	Nuveen Tax-Advantaged Dividend Growth Fund
+BDC	84.81	84.3	106900	Belden Inc
+CULP	31.65	31	16700	Culp, Inc.
+BDJ	9.05	9.01	477000	Blackrock Enhanced Equity Dividend Trust
+PB	64.42	63.27	538700	Prosperity Bancshares, Inc.
+BDN	17.99	17.9	1056700	Brandywine Realty Trust
+YGE	2.33	2.31	19800	Yingli Green Energy Holding Company Limited
+PE	26.75	26.47	3613900	Parsley Energy, Inc.
+PF	57.22	56.73	527000	Pinnacle Foods, Inc.
+PG	93.04	92.4	5316000	Procter & Gamble Company (The)
+PH	180.9	180.66	606800	Parker-Hannifin Corporation
+PK	28.71	28.47	1054900	Park Hotels & Resorts Inc.
+PM	113.12	112.43	3997600	Philip Morris International Inc
+BDX	200.85	200.08	956400	Becton, Dickinson and Company
+PN	1.5	1.34	500500	Patriot National, Inc.
+CBS.A	58.01	57.06	23500	CBS Corporation
+PQ	1.94	1.78	106500	Petroquest Energy Inc
+ZYME	8.78	8.78	1900	Zymeworks Inc.
+PX	141.58	140.72	632900	Praxair, Inc.
+OPP	19.39	19.15	56600	RiverNorth/DoubleLine Strategic Opportunity Fund, Inc.
+MYOV	14.325	13.53	31900	Myovant Sciences Ltd.
+OPY	18.05	17.7	12000	Oppenheimer Holdings, Inc.
+IHIT	10.06	10.04	38800	Invesco High Income 2023 Target Term Fund
+TLI	10.9	10.84	26800	Western Asset Corporate Loan Fund Inc
+TLK	32.06	32.01	451300	PT Telekomunikasi Indonesia, Tbk
+LVLT	54.56	53.39	7042400	Level 3 Communications, Inc.
+TLP	43.14	42.75	27300	TransMontaigne Partners L.P.
+BEL	13.8	13.7	281200	Belmond Ltd.
+BEN	44.76	44.29	1424900	Franklin Resources, Inc.
+BEP	34.8	34.8	98600	Brookfield Renewable Partners L.P.
+GAB	6.53	6.53	195200	Gabelli Equity Trust, Inc. (The)
+GAM	36.18	36.18	31200	General American Investors, Inc.
+EZT	25.95	25.95	4200	Entergy Texas Inc
+WUBA	68.66	67.53	672100	58.com Inc.
+DFIN	21.53	21.42	118600	Donnelley Financial Solutions, Inc.
+KNOP	23.75	23.55	17800	KNOT Offshore Partners LP
+TMK	82.1	81.59	433700	Torchmark Corporation
+TMO	190.51	186.64	1893900	Thermo Fisher Scientific Inc
+BFK	14.16	14.16	36700	BlackRock Municipal Income Trust
+RA	24.17	24.01	178200	Brookfield Real Assets Income Fund Inc.
+BFO	15.05	15.01	3600	Blackrock Florida Municipal 2020 Term Trust
+RE	239.19	235.16	439700	Everest Re Group, Ltd.
+RF	14.96	14.75	8543500	Regions Financial Corporation
+BFR	21.81	21.6	266700	BBVA Banco Frances S.A.
+RH	79.42	78.5	671900	RH
+BFS	64.73	63.82	27600	Saul Centers, Inc.
+RL	85.88	85.81	887100	Ralph Lauren Corporation
+HRTG	15.48	15.41	361500	Heritage Insurance Holdings, Inc.
+RM	24.29	23.83	39500	Regional Management Corp.
+BFZ	14.52	14.47	71100	BlackRock California Municipal Income Trust
+ORA	63.19	63.09	126400	Ormat Technologies, Inc.
+ORC	10.46	10.38	640600	Orchid Island Capital, Inc.
+RS	74.87	74.79	329000	Reliance Steel & Aluminum Co.
+RT	2.36	2.36	4656400	Ruby Tuesday, Inc.
+ORI	19.81	19.515	1459300	Old Republic International Corporation
+RY	79.32	79.29	941300	Royal Bank Of Canada
+ORN	7.24	7.05	125900	Orion Group Holdings, Inc.
+GBL	29.49	29.42	14700	Gamco Investors, Inc.
+GBX	50.9	49.9	312600	Greenbrier Companies, Inc. (The)
+CHCT	27.39	27.37	115500	Community Healthcare Trust Incorporated
+TNC	69.6	68.65	44000	Tennant Company
+TNH	80.4	79.4	16600	Terra Nitrogen Company, L.P.
+TNK	1.68	1.64	776000	Teekay Tankers Ltd.
+TNP	4.66	4.65	517700	Tsakos Energy Navigation Ltd
+BGB	16.12	16.02	113000	Blackstone / GSO Strategic Credit Fund
+BGC	21.9	21.6	2652300	General Cable Corporation
+RNGR	14.48	13.75	39700	Ranger Energy Services, Inc.
+PUMP	14.53	14.385	930900	ProPetro Holding Corp.
+BGG	22.85	21.85	680400	Briggs & Stratton Corporation
+ATEN	7.63	7.56	306300	A10 Networks, Inc.
+BGH	20.72	20.67	43000	Babson Global Short Duration High Yield Fund
+JWN	40.34	40.1	3992900	Nordstrom, Inc.
+SA	12.6	12.505	474800	Seabridge Gold, Inc.
+SB	3.31	3.1	439700	Safe Bulkers, Inc
+SC	15.45	15.24	1012100	Santander Consumer USA Holdings Inc.
+SD	19.27	18.87	97000	SandRidge Energy, Inc.
+SF	52.6	51.1	569500	Stifel Financial Corporation
+FLOW	42.26	41.54	100600	SPX FLOW, Inc.
+BGR	13.6	13.43	166000	BlackRock Energy and Resources Trust
+BGS	32.4	32.1	568300	B&G Foods, Inc.
+BGT	14.06	13.97	43300	Blackrock Global
+SM	19.26	18.53	4221700	SM Energy Company
+SN	4.35	4.28	1539500	Sanchez Energy Corporation
+BGX	16.42	16.35	30700	Blackstone GSO Long Short Credit Income Fund
+SO	51.07	50.73	3691300	Southern Company (The)
+BGY	6.64	6.595	272100	BLACKROCK INTERNATIONAL, LTD.
+SQ	33.25	32.13	10864400	Square, Inc.
+OSB	38.5	38.23	68700	Norbord Inc.
+SR	75.85	75.8	96800	Spire Inc.
+ST	49.27	48.97	472600	Sensata Technologies Holding N.V.
+SU	33.63	33.5	4324700	Suncor Energy  Inc.
+OSG	2.56	2.51	544000	Overseas Shipholding Group, Inc.
+OSK	87.55	86.755	488400	Oshkosh Corporation
+GCH	12.26	12.21	10300	Aberdeen Greater China Fund, Inc.
+GCI	9.53	9.37	440300	TEGNA Inc.
+GCO	23.05	22.55	292900	Genesco Inc.
+GCP	29.85	29.15	502100	GCP Applied Technologies Inc.
+BHVN	31.77	31.42	120600	Biohaven Pharmaceutical Holding Company Ltd.
+ENIA	10.87	10.79	682400	Enel Americas S.A.
+GCV	5.75	5.6	25100	Gabelli Convertible and Income Securities Fund, Inc. (The)
+ENIC	6.13	5.99	147900	Enel Chile S.A.
+TOL	42.79	42.62	1002800	Toll Brothers Inc.
+TOO	2.72	2.615	362200	Teekay Offshore Partners L.P.
+TOT	54.32	53.96	681100	Total S.A.
+BHE	35.55	35.15	246000	Benchmark Electronics, Inc.
+BHK	14.07	14.05	134900	Blackrock Core Bond Trust
+TD	56.76	56.68	1990100	Toronto Dominion Bank (The)
+BHP	42.61	42.23	2326400	BHP Billiton Limited
+TG	19.15	18.9	48700	Tredegar Corporation
+TI	9.05	8.96	23500	Telecom Italia S.P.A.
+TK	8.89	8.87	351700	Teekay Corporation
+TM	123.32	123.18	107300	Toyota Motor Corp Ltd Ord
+TR	37.2	36.75	74700	Tootsie Roll Industries, Inc.
+TS	27.13	26.94	1436400	Tenaris S.A.
+TU	35.93	35.86	297600	TELUS Corporation
+TV	23.25	23.1	1201800	Grupo Televisa S.A.
+TX	31.7	30.66	382300	Ternium S.A.
+TY	26	25.9	36800	Tri Continental Corporation
+GDI	26.9	26.78	545300	Gardner Denver Holdings, Inc.
+GDL	10.29	10.23	15800	The GDL Fund
+GDO	18.5	18.39	37500	Western Asset Global Corporate Defined Opportunity Fund Inc.
+JW.A	53.15	52.55	252500	John Wiley & Sons, Inc.
+GDV	22.67	22.61	134300	Gabelli Dividend
+JW.B	52.74	52.74	100	John Wiley & Sons, Inc.
+TPB	18.72	18.56	14400	Turning Point Brands, Inc.
+TPC	27.95	27.45	214200	Tutor Perini Corporation
+TPH	14.72	14.65	1204200	TRI Pointe Group, Inc.
+TPL	425	411.27	13100	Texas Pacific Land Trust
+ATGE	35.95	35.4	513300	Adtalem Global Education Inc.
+BID	50.49	49.77	322300	Sotheby's
+TPX	65.57	64.73	685400	Tempur Sealy International, Inc.
+BIF	10.55	10.5	228200	USLIFE Income Fund, Inc.
+BIG	51.47	51.27	431700	Big Lots, Inc.
+TPZ	21.49	21.01	17800	Tortoise Power and Energy Infrastructure Fund, Inc
+UA	14.97	14.85	2169100	Under Armour, Inc.
+BIO	221.79	216.31	308900	Bio-Rad Laboratories, Inc.
+UE	25.08	24.98	407800	Urban Edge Properties
+BIP	43.68	43.5	287100	Brookfield Infrastructure Partners LP
+DSXN	25.4	25.33	1500	Diana Shipping inc.
+BIT	18.61	18.45	216300	BlackRock Multi-Sector Income Trust
+UL	59.53	59.23	961300	Unilever PLC
+UN	60.94	60.71	1813600	Unilever NV
+GEB	25.07	25.05	66900	General Electric Company
+GEF	56.88	56.11	198900	Greif Bros. Corporation
+GEH	25.45	25.42	20000	General Electric Capital Corporation
+IRET	6.28	6.26	377200	Investors Real Estate Trust
+GEK	25.45	25.42	35800	General Electric Capital Corporation
+GEL	24.05	24.01	645600	Genesis Energy, L.P.
+GEO	25.89	25.67	1857200	Geo Group Inc (The)
+OUT	24.52	24.165	507600	OUTFRONT Media Inc.
+GER	6.73	6.53	417600	Goldman Sachs MLP Energy Renaissance Fund
+GES	15.96	15.905	836200	Guess?, Inc.
+AEUA	38.3	37.43	6400	Anadarko Petroleum Corporation
+LAD	114.65	114.17	185300	Lithia Motors, Inc.
+ATHM	60.36	57.91	897200	Autohome Inc.
+NETS	11.97	11.13	168000	Netshoes (Cayman) Limited
+LAZ	45.97	45.53	341400	Lazard Ltd.
+BEDU	28.05	26	635000	Bright Scholar Education Holdings Limited
+VC	124.74	123.19	184000	Visteon Corporation
+VG	8.25	8.06	930600	Vonage Holdings Corp.
+JCAP	21.31	21.06	84600	Jernigan Capital, Inc.
+BJZ	15.02	15.02	2500	Blackrock California Municipal 2018 Term Trust
+VR	51.39	50.77	1235800	Validus Holdings, Ltd.
+GFA	9.05	8.91	121800	Gafisa SA
+NYCB	12.82	12.68	2835200	New York Community Bancorp, Inc.
+GFF	22.25	21.9	48300	Griffon Corporation
+VZ	48.09	47.87	14842800	Verizon Communications Inc.
+GFI	4.09	4.075	5707500	Gold Fields Limited
+CHGG	16.05	15.55	949200	Chegg, Inc.
+ENLC	16.75	16.55	407100	EnLink Midstream, LLC
+GFY	17.21	17.17	6600	Western Asset Variable Rate Strategic Fund Inc.
+TRC	19.48	18.95	150000	Tejon Ranch Co
+ENLK	16.28	16	335000	EnLink Midstream Partners, LP
+TRI	47.65	47.65	1605300	Thomson Reuters Corp
+TRK	22.85	22.67	46700	Speedway Motorsports, Inc.
+TRN	34.03	33.72	766000	Trinity Industries, Inc.
+TRP	50.04	49.86	903100	TransCanada Corporation
+TRQ	3.35	3.3	1784700	Turquoise Hill Resources Ltd.
+SLRA	25.6	25.58	7000	Solar Capital Ltd.
+AKO.A	26	26	4600	Embotelladora Andina S.A.
+TRU	49.3	48.99	1256900	TransUnion
+AKO.B	29.44	29.25	21000	Embotelladora Andina S.A.
+TRV	128.44	127.5	1808200	The Travelers Companies, Inc.
+BKD	10.15	10.11	2033600	Brookdale Senior Living Inc.
+CMCM	8.49	8.28	562400	Cheetah Mobile Inc.
+BKE	15.4	15.35	246000	Buckle, Inc. (The)
+VCRA	29.4	29.01	98900	Vocera Communications, Inc.
+BKH	67.59	67.34	171800	Black Hills Corporation
+BKI	46.9	45.75	883900	Black Knight, Inc.
+BKK	15.52	15.46	47900	Blackrock Municipal 2020 Term Trust
+AJRD	33.18	32.72	1341500	Aerojet Rocketdyne Holdings, Inc.
+WD	55.1	54.59	102700	Walker & Dunlop, Inc.
+BKN	15.04	14.99	45100	BlackRock Investment Quality Municipal Trust Inc. (The)
+WF	46.44	45.32	19000	Woori Bank
+WG	3.27	3.15	124700	Willbros Group, Inc.
+BKS	7.35	7.2	973100	Barnes & Noble, Inc.
+BKT	6.23	6.23	113600	BlackRock Income Trust Inc. (The)
+WK	22.35	22.1	93400	Workiva Inc.
+BKU	34.4	34.01	870000	BankUnited, Inc.
+WM	76.6	76.545	1793500	Waste Management, Inc.
+WR	52.07	52.01	996300	Westar Energy, Inc.
+GGB	3.56	3.52	4809500	Gerdau S.A.
+WU	19.77	19.68	3401400	Western Union Company (The)
+ABBV	91.09	90.95	5280400	AbbVie Inc.
+WY	34.95	34.82	1649500	Weyerhaeuser Company
+GGG	127.25	125.04	295500	Graco Inc.
+GGM	23.25	22.94	35900	Guggenheim Credit Allocation Fund
+GGP	21.37	21.36	2514300	GGP Inc.
+SQNS	1.9	1.82	492100	Sequans Communications S.A.
+GGT	9.52	9.43	35700	Gabelli Multi-Media Trust Inc. (The)
+NOMD	14.9	14.78	378800	Nomad Foods Limited
+GGZ	13.4	13.34	127400	Gabelli Global Small and Mid Cap Value Trust (The)
+TSE	71.1	70.55	500400	Trinseo S.A.
+TSI	5.75	5.69	40300	TCW Strategic Income Fund, Inc.
+LCI	23.45	23.05	1408000	Lannett Co Inc
+TSM	40.83	40.54	7582700	Taiwan Semiconductor Manufacturing Company Ltd.
+TSN	70.32	70.3	1655100	Tyson Foods, Inc.
+LCM	8.72	8.68	23500	Advent/Claymore Enhanced Growth & Income Fund
+TSQ	10.39	10.12	43600	Townsquare Media, Inc.
+TSS	67.65	67.05	598500	Total System Services, Inc.
+TSU	19.04	18.83	697300	TIM Participacoes S.A.
+BLD	62.92	62.92	272700	TopBuild Corp.
+BLH	14.95	14.95	4000	Blackrock New York Municipal 2018 Term Trust
+BLK	477.22	472.795	431700	BlackRock, Inc.
+BLL	42.12	41.81	1384400	Ball Corporation
+DATA	78.41	78.36	371100	Tableau Software, Inc.
+XL	41.77	41.315	4586900	XL Group Ltd.
+BLW	16.2	16.15	99000	Citigroup Inc.
+BLX	29.35	28.9	81200	Banco Latinoamericano de Comercio Exterior, S.A.
+GHC	553.65	547	12200	Graham Holdings Company
+OXM	63.21	63.21	71700	Oxford Industries, Inc.
+GHL	17.1	17	1028100	Greenhill & Co., Inc.
+GHM	22	21.37	19200	Graham Corporation
+OXY	64.83	64.23	3092500	Occidental Petroleum Corporation
+GHY	14.91	14.795	269400	Prudential Global Short Duration High Yield Fund, Inc.
+TTC	62.24	61.93	593000	Toro Company (The)
+TTF	10.96	10.85	13800	Thai Fund, Inc. (The)
+MVCB	25.3	25.3	100	MVC Capital, Inc.
+TTI	2.64	2.62	435000	Tetra Technologies, Inc.
+LDF	12.19	12.19	3000	Latin American Discovery Fund, Inc. (The)
+TTM	32.96	32.45	1252900	Tata Motors Ltd
+QUAD	22.81	22.12	190100	Quad Graphics, Inc
+LDL	58.45	57.35	55700	Lydall, Inc.
+TTP	18.99	18.73	31900	Tortoise Pipeline & Energy Fund, Inc.
+BMA	127.13	125.04	237500	Macro Bank Inc.
+LDP	26.83	26.72	63100	Cohen & Steers Limited Duration Preferred and Income Fund, Inc
+NEWM	15.52	15.4	359800	New Media Investment Group Inc.
+SLTB	25.14	25	1400	Scorpio Bulkers Inc.
+LDR	67.3	67.2	375600	Landauer, Inc.
+BME	36.67	36.56	26300	Blackrock Health Sciences Trust
+NEWR	49.96	49.72	200600	New Relic, Inc.
+BMI	42.05	42	932700	Badger Meter, Inc.
+ATKR	19.38	19.14	147400	Atkore International Group Inc.
+BMO	77.91	77.71	844400	Bank Of Montreal
+YPF	22.86	22.56	416500	YPF Sociedad Anonima
+FDEU	19.4	19.26	166900	First Trust Dynamic Europe Equity Income Fund
+BMS	46.1	46.01	435400	Bemis Company, Inc.
+BMY	63.63	63.41	5030700	Bristol-Myers Squibb Company
+GIB	52.65	52.65	149700	CGI Group, Inc.
+BRSS	34.45	34	53100	Global Brass and Copper Holdings, Inc.
+TI.A	7.25	7.16	5400	Telecom Italia S.P.A.
+GIL	30.98	30.93	282300	Gildan Activewear, Inc.
+GIM	6.67	6.63	269000	Templeton Global Income Fund, Inc.
+GIS	51.81	51.31	3049500	General Mills, Inc.
+LEA	174.42	172.43	420400	Lear Corporation
+LEE	2.4	2.3	63500	Lee Enterprises, Incorporated
+TOWR	27.9	27.25	103300	Tower International, Inc.
+LEG	47.76	47.61	565300	Leggett & Platt, Incorporated
+TUP	61.35	60.61	452400	Tupperware Brands Corporation
+LEN	55.86	55.73	2213800	Lennar Corporation
+LEO	8.84	8.84	62500	Dreyfus Strategic Municipals, Inc.
+BNJ	15.59	15.58	5300	BlackRock New Jersey Municipal Income Trust
+ZF	12.71	12.68	70100	Virtus Total Return Fund Inc.
+BNS	64.41	64.21	461100	Bank of Nova Scotia (The)
+BNY	15.06	15.05	9900	BlackRock New York Investment Quality Municipal Trust Inc. (Th
+ZX	1.28	1.26	64000	China Zenix Auto International Limited
+ABEV	6.82	6.76	10489500	Ambev S.A.
+RACE	115.95	115.35	444200	Ferrari N.V.
+OZM	3.32	3.21	147600	Och-Ziff Capital Management Group LLC
+SGZA	25.31	25.3	5600	Selective Insurance Group, Inc.
+GJR	21.24	21.24	200	Synthetic Fixed-Income Securities, Inc.
+GJS	19.41	19.41	100	STRATS Trust
+GJV	26.14	26.14	600	Synthetic Fixed-Income Securities, Inc.
+CHKR	2.15	2.1	82400	Chesapeake Granite Wash Trust
+TVC	25.47	25.37	4900	Tennessee Valley Authority
+TVE	25.15	25.12	14100	Tennessee Valley Authority
+LFC	15.5	15.42	277100	China Life Insurance Company Limited
+BOE	13.73	13.65	145600	Blackrock Global
+BOH	83.75	82.76	111300	Bank of Hawaii Corporation
+YRD	51.35	50.6	678000	Yirendai Ltd.
+LDOS	62	61.73	463800	Leidos Holdings, Inc.
+BOX	20.08	20.02	2277600	Box, Inc.
+CRCM	16.2	15.78	125900	Care.com, Inc.
+KAMN	55.39	55.19	77300	Kaman Corporation
+FICO	147.57	146.32	107400	Fair Isaac Corporation
+TWI	9.67	9.5	92700	Titan International, Inc.
+LGI	17.18	17.08	19900	Lazard Global Total Return and Income Fund
+TWN	21.47	21.35	15500	Taiwan Fund, Inc. (The)
+TWO	10.15	10.11	1848400	Two Harbors Investments Corp
+TWX	101.2	101.05	3855300	Time Warner Inc.
+BPI	9.6	9.41	161400	Bridgepoint Education, Inc.
+BPK	14.99	14.99	20800	Blackrock Municipal 2018 Term Trust
+BPL	54.9	53.04	1018500	Buckeye Partners L.P.
+BPT	21	19.8	304300	BP Prudhoe Bay Royalty Trust
+BPY	24.26	24.17	115700	Brookfield Property Partners L.P.
+QCP	15.7	15.7	431500	Quality Care Properties, Inc.
+CHMI	18.65	18.52	110000	Cherry Hill Mortgage Investment Corporation
+GLP	18.4	18.05	50700	Global Partners LP
+GLT	19.27	18.98	69300	Glatfelter
+GLW	29.78	29.65	3728900	Corning Incorporated
+AGCO	71.75	71.28	887800	AGCO Corporation
+LHO	30.21	30.01	998300	LaSalle Hotel Properties
+TXT	53.19	52.81	1520200	Textron Inc.
+HESM	21.38	20.55	120200	Hess Midstream Partners LP
+HTFA	25.49	25.47	19500	Horizon Technology Finance Corporation
+BQH	15.28	15.15	2600	Blackrock New York Municipal Bond Trust
+AJXA	25.75	25.74	1100	Great Ajax Corp.
+ESNT	42.64	42.19	1061600	Essent Group Ltd.
+GME	19.46	19.35	1251000	Gamestop Corporation
+GMS	35.04	34.8	295500	GMS Inc.
+DPLO	20.05	19.885	457800	Diplomat Pharmacy, Inc.
+GMZ	9.22	9.11	84900	Goldman Sachs MLP Income Opportunities Fund
+TYG	28.15	27.92	171700	Tortoise Energy Infrastructure Corporation
+LII	181.2	179.18	360200	Lennox International, Inc.
+TYL	171.5	169.5	187600	Tyler Technologies, Inc.
+BRC	38.4	38.05	111600	Brady Corporation
+HTGC	12.75	12.61	332500	Hercules Capital, Inc.
+BRO	49.39	48.68	945600	Brown & Brown, Inc.
+BRS	9.59	9.16	487800	Bristow Group Inc
+BRT	10.27	10.08	7200	BRT Apartments Corp.
+YUM	76.11	76.035	1410700	Yum! Brands, Inc.
+NBHC	36.02	35.36	49300	National Bank Holdings Corporation
+BRX	18.95	18.88	1820500	Brixmor Property Group Inc.
+HTGX	25.46	25.37	3700	Hercules Capital, Inc.
+QEP	8.81	8.505	4918900	QEP Resources, Inc.
+GNC	7.8	7.735	1602200	GNC Holdings, Inc.
+GNE	6.3	6.26	18600	Genie Energy Ltd.
+GNK	12.5	12.2	39400	Genco Shipping & Trading Limited Warrants Expiring 12/31/2021
+GNL	22.22	22.06	187900	Global Net Lease, Inc.
+VAC	124.55	124.13	121000	Marriot Vacations Worldwide Corporation
+GNT	7.05	6.98	60600	GAMCO Natural Resources, Gold & Income Tust
+GNW	3.88	3.81	2022600	Genworth Financial Inc
+VAR	102.77	102.35	461400	Varian Medical Systems, Inc.
+BSD	14.21	14.13	28400	BlackRock Strategic Municipal Trust Inc. (The)
+SNAP	16.29	16.05	15090900	Snap Inc.
+BSE	13.44	13.44	4600	Blackrock New York Municipal Income Quality Trust
+BSL	17.55	17.49	32800	Blackstone GSO Senior Floating Rate Term Fund
+BSM	17.23	17.11	51000	Black Stone Minerals, L.P.
+BST	25.67	25.48	79700	BlackRock Science and Technology Trust
+BSX	29.13	29.08	4725900	Boston Scientific Corporation
+NYLD	18.9	18.7	405100	NRG Yield, Inc.
+GOF	21.13	21.11	146400	Guggenheim Strategic Opportunities Fund
+GOL	22.68	22.2	135400	Gol Linhas Aereas Inteligentes S.A.
+VBF	19.65	19.51	28000	Invesco Bond Fund
+HOME	21.84	21.62	136500	At Home Group Inc.
+BTA	12.31	12.3	20300	BlackRock Long-Term Municipal Advantage Trust
+BTE	2.71	2.65	1013400	Baytex Energy Corp
+HEI.A	75.25	74.4	56300	Heico Corporation
+XFLT	11	10.95	28200	XAI Octagon Floating Rate & Alternative Income Term Trust
+BTI	64.28	63.9	1856000	British American Tobacco p.l.c.
+BTO	37.58	37.47	62700	John Hancock Financial Opportunities Fund
+BTT	22.64	22.63	73000	BlackRock Municipal Target Term Trust Inc. (The)
+BTU	28.86	28.855	639000	Peabody Energy Corporation
+BTZ	13.47	13.47	116900	BlackRock Credit Allocation Income Trust
+RSPP	34	33.74	1820600	RSP Permian, Inc.
+GPC	96.26	96.15	611900	Genuine Parts Company
+GPI	69.31	68.98	146800	Group 1 Automotive, Inc.
+GPK	14.21	14.14	1316800	Graphic Packaging Holding Company
+GPM	8.71	8.71	278000	Guggenheim Enhanced Equity Income Fund
+GPN	99.3	97.52	901900	Global Payments Inc.
+GPS	27.2	26.25	7262500	Gap, Inc. (The)
+TGNA	12.64	12.53	1638900	TEGNA Inc.
+GPT	30.8	30.51	1003700	Gramercy Property Trust
+ENVA	14.35	14.25	352500	Enova International, Inc.
+GPX	30.4	30.15	26100	GP Strategies Corporation
+VCO	36.56	36.31	4800	Vina Concha Y Toro
+VCV	13.04	13.04	36400	Invesco California Value Municipal Income Trust
+LLL	185.91	185.26	297700	L3 Technologies, Inc.
+DUKH	25.25	25.22	17100	Duke Energy Corporation
+BUD	125.19	125.075	864900	Anheuser-Busch Inbev SA
+BUI	21.08	21.05	24400	BlackRock Utility and Infrastructure Trust
+LLY	85.9	85.42	3643700	Eli Lilly and Company
+QHC	4.75	4.63	113800	Quorum Health Corporation
+SDLP	3.81	3.65	134900	Seadrill Partners LLC
+ESRT	20.92	20.89	1910500	Empire State Realty Trust, Inc.
+PRGO	87	86.055	1126400	Perrigo Company
+LMT	318.86	317.02	741600	Lockheed Martin Corporation
+VEDL	20.46	20.32	411000	Vedanta  Limited
+SNDR	24.09	23.84	1063300	Schneider National, Inc.
+ATTO	11.6	11.6	26300	Atento S.A.
+BVN	14.62	14.53	1707700	Buenaventura Mining Company Inc.
+ALDW	11.54	11.42	73000	Alon USA Partners, LP
+GRA	72.15	71.28	665400	W.R. Grace & Co.
+GRC	32.65	32	27100	Gorman-Rupp Company (The)
+VEC	32.98	32.295	69300	Vectrus, Inc.
+NBLX	51.16	49.6	82600	Noble Midstream Partners LP
+GRR	12.7	12.7	100	Asia Tigers Fund, Inc. (The)
+CHSP	28.53	28.37	494200	Chesapeake Lodging Trust
+GRX	10.2	10.13	97200	The Gabelli Healthcare & Wellness Trust
+LNC	75.62	74.565	878100	Lincoln National Corporation
+VER	8.26	8.16	14557500	VEREIT Inc.
+LND	4.22	4.22	100	Brasilagro Cia Brasileira De Propriedades Agricolas
+VET	34.54	34.42	133900	Vermilion Energy Inc.
+BWXT	59.53	59.295	340000	BWX Technologies, Inc.
+LNN	89.61	89.475	143000	Lindsay Corporation
+BWA	52.11	51.86	1067000	BorgWarner Inc.
+JMEI	2.83	2.82	2041300	Jumei International Holding Limited
+FNFV	18.3	17.75	208300	Fidelity National Financial, Inc.
+LNT	43.05	42.98	985000	Alliant Energy Corporation
+BWG	13.22	13.15	86500	Legg Mason BW Global Income Opportunities Fund Inc.
+ESTE	10.36	10.35	245500	Earthstone Energy, Inc.
+ATUS	24.47	24.33	603800	Altice USA, Inc.
+BWP	14.83	14.61	960900	Boardwalk Pipeline Partners L.P.
+VEEV	58.8	58.8	1054500	Veeva Systems Inc.
+ALEX	45.47	45.34	143900	Alexander & Baldwin Holdings, Inc.
+GSH	29.3	29.18	500	Guangshen Railway Company Limited
+GSK	40.77	40.59	4775200	GlaxoSmithKline PLC
+GSL	1.4	1.4	176100	Global Ship Lease, Inc.
+VFC	64.19	64.04	1707000	V.F. Corporation
+MKC.V	98.75	98.75	100	McCormick & Company, Incorporated
+WPXP	50.1	50.1	29600	WPX Energy, Inc.
+EXPR	5.97	5.95	1520500	Express, Inc.
+LXFR	12.5	12.41	193200	Luxfer Holdings PLC
+LXFT	48.45	48.1	125100	Luxoft Holding, Inc.
+BXC	9.3	8.145	395500	BlueLinx Holdings Inc.
+LOR	11.49	11.42	21300	Lazard World Dividend & Income Fund, Inc.
+GLOB	41.29	41.29	88300	Globant S.A.
+BXE	2.48	2.42	33100	Bellatrix Exploration Ltd
+LOW	81.26	80.23	5517600	Lowe's Companies, Inc.
+GLOG	17.85	17.7	314400	GasLog LP.
+FSCE	25.07	25.04	1100	Fifth Street Finance Corp.
+BXP	128.16	127.93	506800	Boston Properties, Inc.
+BERY	59.04	58.79	691600	Berry Global Group, Inc.
+GLOP	23.9	23.55	97400	GasLog Partners LP
+BXS	32.25	31.55	607000	BancorpSouth, Inc.
+LITB	2.37	2.25	44600	LightInTheBox Holding Co., Ltd.
+GTN	15.4	15	400500	Gray Television, Inc.
+LADR	13.85	13.74	555300	Ladder Capital Corp
+GTS	23.55	23.42	141300	Triple-S Management Corporation
+GTT	32.6	32.25	301700	GTT Communications, Inc.
+VGI	18.69	18.41	76000	Virtus Global Multi-Sector Income Fund
+EPAM	91.1	90.65	172800	EPAM Systems, Inc.
+GTY	29.53	29.18	106500	Getty Realty Corporation
+VGM	13.43	13.41	48200	Invesco Trust for Investment Grade Municipals
+VGR	20.7	20.59	411200	Vector Group Ltd.
+LPG	7.9	7.7	90000	Dorian LPG Ltd.
+LPI	12.54	12.04	3597900	Laredo Petroleum, Inc.
+LPL	12.86	12.71	328900	LG Display Co., Ltd.
+BYD	27.84	27.8	977100	Boyd Gaming Corporation
+LPT	41.72	41.37	970700	Liberty Property Trust
+LPX	28.25	28.224	1098900	Louisiana-Pacific Corporation
+BYM	14.85	14.82	29400	Blackrock Municipal Income Quality Trust
+GUT	7.1	7.07	63600	Gabelli Utility Trust (The)
+NYRT	7.74	7.69	811800	New York REIT, Inc.
+VHI	3.13	3.06	513800	Valhi, Inc.
+RPAI	13.24	13.19	2127400	Retail Properties of America, Inc.
+DAC	1.5	1.45	82100	Danaos Corporation
+CMRE	6.15	6.15	766100	Costamare Inc.
+DAL	53.48	52.66	6547500	Delta Air Lines, Inc.
+DAN	29.03	28.84	1080900	Dana Incorporated
+DAR	16.66	16.6	699200	Darling Ingredients Inc.
+BZH	19.49	19.29	474200	Beazer Homes USA, Inc.
+BETR	7.42	7.3	205000	Amplify Snack Brands, inc.
+PRLB	80.65	80.175	81700	Proto Labs, Inc.
+GVA	58.83	58.09	213700	Granite Construction Incorporated
+VRTV	32.3	32.05	40200	Veritiv Corporation
+VIV	16.02	15.94	802100	Telefonica Brasil S.A.
+DBD	22.4	22.175	614100	Diebold Nixdorf Incorporated
+LRN	17.4	17.33	125600	K12 Inc
+DBL	23.76	23.33	74400	DoubleLine Opportunistic Credit Fund
+QUOT	16.95	16.7	434000	Quotient Technology Inc.
+SDRL	0.29	0.28	3437900	Seadrill Limited
+ABRN	25.64	25.64	3700	Arbor Realty Trust
+GWB	41.02	40.27	181900	Great Western Bancorp, Inc.
+VJET	4.95	4.86	74000	voxeljet AG
+GWR	71.15	70.87	245500	Genesee & Wyoming, Inc.
+EXTN	31.91	31.44	148400	Exterran Corporation
+GWW	188.475	186.43	6078200	W.W. Grainger, Inc.
+AVAL	8.94	8.9	233900	Grupo Aval Acciones y Valores S.A.
+LSI	81.04	80.96	413400	Life Storage, Inc.
+DCI	46.84	46.69	307100	Donaldson Company, Inc.
+DCM	23.43	23.41	124600	NTT DOCOMO, Inc
+DCO	33.01	32.65	126700	Ducommun Incorporated
+DCP	34.88	34.3	286800	DCP Midstream LP
+DCT	59.37	58.57	504800	DCT Industrial Trust Inc
+EARN	14.35	14.35	44100	Ellington Residential Mortgage REIT
+GXP	31.86	31.755	869800	Great Plains Energy Inc
+VKQ	12.61	12.58	86900	Invesco Municipal Trust
+LTC	47.08	47	75200	LTC Properties, Inc.
+DDC	14.17	14.16	561700	Dominion Diamond Corporation
+DDD	11.62	11.45	2905100	3D Systems Corporation
+DDE	1.01	0.99	19700	Dover Downs Gaming & Entertainment Inc
+DDF	10.72	10.7	4900	Delaware Investments Dividend & Income Fund, Inc.
+LTM	13.82	13.52	455600	LATAM Airlines Group S.A.
+TLRA	4.77	4.73	301200	Telaria, Inc.
+DDR	8.65	8.65	5360300	DDR Corp.
+DDS	51.12	50.81	308400	Dillard's, Inc.
+DDT	25.52	25.48	8900	Dillard's, Inc.
+TLRD	13.32	13.26	722500	Tailored Brands, Inc.
+MDLQ	25.35	25.28	3900	Medley LLC
+MDLX	24.77	24.77	5800	Medley LLC
+GYB	22.9	22.9	2500	CABCO Series 2004-101 Trust
+MDLY	6	5.95	6400	Medley Management Inc.
+GYC	23.55	23.55	700	Corporate Asset Backed Corp CABCO
+GDDY	43.89	43.4	660100	GoDaddy Inc.
+OOMA	10.2	10.2	25800	Ooma, Inc.
+MOG.A	88.23	86.82	77600	Moog Inc.
+VLO	77.59	77.27	2358400	Valero Energy Corporation
+MOG.B	87.65	87.65	200	Moog Inc.
+VLP	42.57	42.04	65700	Valero Energy Partners LP
+LUB	2.47	2.43	37300	Luby's, Inc.
+DEA	20.74	20.66	120000	Easterly Government Properties, Inc.
+SXCP	17.7	17.7	93600	SunCoke Energy Partners, L.P.
+VLT	14.99	14.97	12500	Invesco High Income Trust II
+VLY	11.97	11.75	1461200	Valley National Bancorp
+LUK	25.75	25.53	1725200	Leucadia National Corporation
+BOOT	7.75	7.66	198200	Boot Barn Holdings, Inc.
+DEI	40.83	40.815	505600	Douglas Emmett, Inc.
+DEL	89.22	88.07	25500	Deltic Timber Corporation
+ALLE	88.11	86.82	768100	Allegion plc
+DEO	135	134.34	301600	Diageo plc
+LUV	59	58.64	3673700	Southwest Airlines Company
+JMLP	8.81	8.67	24500	Nuveen All Cap Energy MLP Opportunities Fund
+DEX	11.79	11.74	21200	Delaware Enhanced Global Dividend
+FSIC	8.4	8.25	677400	FS Investment Corporation
+IAE	11.03	10.91	36200	Voya Asia Pacific High Dividend Equity Income Fund
+ALLY	24.65	24.37	2397300	Ally Financial Inc.
+AGM.A	76.34	76.34	100	Federal Agricultural Mortgage Corporation
+IAG	5.91	5.52	16326600	Iamgold Corporation
+BBDO	11.61	10.76	300	Banco Bradesco Sa
+VMC	116.89	116.63	613300	Vulcan Materials Company
+GZT	9.77	9.73	1400	Gazit-Globe Ltd.
+VMI	159.4	158.3	81800	Valmont Industries, Inc.
+VMO	12.9	12.88	115400	Invesco Municipal Opportunity Trust
+VMW	115.12	115	1844100	Vmware, Inc.
+LVS	62.6	62.065	1901400	Las Vegas Sands Corp.
+DFP	26.71	26.67	42000	Flaherty & Crumrine Dynamic Preferred and Income Fund Inc.
+DFS	65.41	64.56	1680900	Discover Financial Services
+RUBI	3.59	3.46	255500	The Rubicon Project, Inc.
+IBA	60.1	59.21	11900	Industrias Bachoco, S.A. de C.V.
+IBM	146.63	146.18	6372300	International Business Machines Corporation
+IBN	8.41	8.31	6540700	ICICI Bank Limited
+IBP	66.15	65.45	149900	Installed Building Products, Inc.
+RATE	13.95	13.9	109400	Bankrate, Inc.
+AGRO	10.63	10.35	391100	Adecoagro S.A.
+VNO	78.64	78.18	704400	Vornado Realty Trust
+LFGR	7.45	7.15	16900	Leaf Group Ltd.
+ITCB	14.2	14.06	9100	Ita? CorpBanca
+WMLP	3.2	3.1	3800	Westmoreland Resource Partners, LP
+DGX	91.5	90.79	1393000	Quest Diagnostics Incorporated
+ICB	18.18	18.18	6300	MS Income Securities, Inc.
+ICD	3.64	3.52	61000	Independence Contract Drilling, Inc.
+ICE	68.6	67.98	4417700	Intercontinental Exchange Inc.
+ICL	4.43	4.32	163300	Israel Chemicals Shs
+QSR	66.77	66.77	1407300	Restaurant Brands International Inc.
+VOC	3.65	3.64	19300	VOC Energy Trust
+BORN	1.38	1.365	64000	China New Borun Corporation
+DHF	3.5	3.49	81400	Dreyfus High Yield Strategies Fund
+DHG	15.05	15.05	7800	DWS High Income Opportunities Fund, Inc.
+DHI	41.38	40.99	2979900	D.R. Horton, Inc.
+LXP	10.51	10.47	501900	Lexington Realty Trust
+DHR	85.45	83.81	4838000	Danaher Corporation
+LXU	7.55	7.54	235800	Lsb Industries Inc.
+DHT	4.06	4.01	427400	DHT Holdings, Inc.
+DHX	2.35	2.3	92400	DHI Group, Inc.
+IDA	89.84	89.84	207600	IDACORP, Inc.
+MSCA	25.88	25.67	2500	Main Street Capital Corporation
+IDE	16.23	16.13	60100	Voya Infrastructure, Industrials and Materials Fund
+QTM	5.83	5.82	104500	Quantum Corporation
+MSCI	123.35	122.06	242400	MSCI Inc
+QTS	53.3	53.22	308000	QTS Realty Trust, Inc.
+IDT	13.59	13.3	163100	IDT Corporation
+SITE	62.6	61.56	381000	SiteOne Landscape Supply, Inc.
+VPG	24.5	23.75	22900	Vishay Precision Group, Inc.
+BGCA	26	25.91	18800	BGC Partners, Inc.
+LYB	97.89	97.45	1527100	LyondellBasell Industries NV
+LYG	3.58	3.56	2542900	Lloyds Banking Group Plc
+VPV	12.26	12.25	43900	Invesco Pennsylvania Value Municipal Income Trust
+JMPB	25.51	25.51	2700	JMP Group LLC
+JMPC	25.49	25.49	100	JMP Group LLC
+DIN	43.64	43.27	267600	DineEquity, Inc
+DIS	98.4	97.86	5942500	Walt Disney Company (The)
+LYV	41.9	41.29	1606100	Live Nation Entertainment, Inc.
+IEX	121.91	120.925	584800	IDEX Corporation
+PRTY	11.95	11.8	864600	Party City Holdco Inc.
+NAC	14.83	14.83	156800	Nuveen California Quality Municipal Income Fund
+NAD	14.12	14.1	184800	Nuveen Quality Municipal Income Fund
+LZB	27.3	27.1	403500	La-Z-Boy Incorporated
+NAN	14.05	14.01	45700	Nuveen New York Quality Municipal Income Fund
+NAO	1.42	1.36	294500	Nordic American Offshore Ltd
+NAP	9	8.92	237800	Navios Maritime Midstream Partners LP
+NAT	5.44	5.43	556500	Nordic American Tankers Limited
+NAV	42.58	41.69	768100	Navistar International Corporation
+NAZ	14.51	14.51	3400	Nuveen Arizona Quality Municipal Income Fund
+NVGS	11.25	11.2	120300	Navigator Holdings Ltd.
+IFF	149.59	148.47	208300	Internationa Flavors & Fragrances, Inc.
+IFN	27.99	27.96	125200	India Fund, Inc. (The)
+SAFE	18.32	18.16	79300	Safety, Income and Growth, Inc.
+NBB	21.88	21.817	36600	Nuveen Build America Bond Fund
+NBD	22.36	22.33	8300	Nuveen Build America Bond Opportunity Fund
+NBL	27.92	27.66	4778100	Noble Energy Inc.
+VRS	5.89	5.77	130000	Verso Corporation
+RFTA	20.84	19.62	72200	RAIT Financial Trust
+NBR	7.24	7.15	5821000	Nabors Industries Ltd.
+VRX	13	12.62	10741300	Valeant Pharmaceuticals International, Inc.
+DKL	31.45	30.6	16000	Delek Logistics Partners, L.P.
+DKS	24.74	24.69	2202300	Dick's Sporting Goods Inc
+DKT	26.37	26.27	120200	Deutsch Bk Contingent Cap Tr V
+TVPT	15.78	15.68	561500	Travelport Worldwide Limited
+CELP	8.3	8.075	4700	Cypress Energy Partners, L.P.
+IGA	11.37	11.31	69200	Voya Global Advantage and Premium Opportunity Fund
+IGD	8.07	8.03	287000	Voya Global Equity Dividend and Premium Opportunity Fund
+TLYS	11.89	11.88	98600	Tilly's, Inc.
+ITGR	54.35	53.75	98100	Integer Holdings Corporation
+IGI	21.04	21.04	15600	Western Asset Investment Grade Defined Opportunity Trust Inc.
+SSNI	16.19	16.175	1123100	Silver Spring Networks, Inc.
+IGR	7.94	7.92	431400	CBRE Clarion Global Real Estate Income Fund
+IGT	23.96	23.2	2840900	International Game Technology
+NCA	10.6	10.57	35800	Nuveen California Municipal Value Fund, Inc.
+NCB	17.75	17.52	3600	Nuveen California Municipal Value Fund 2
+VSH	20.95	20.9	1740300	Vishay Intertechnology, Inc.
+VSI	5.35	5.15	611100	Vitamin Shoppe, Inc
+NGVC	5.15	4.79	422500	Natural Grocers by Vitamin Cottage, Inc.
+TIER	19.8	19.51	196000	TIER REIT, Inc.
+NCI	16.93	16.86	125100	Navigant Consulting, Inc.
+VSM	39.49	39.421	227300	Versum Materials, Inc.
+CODI	18.25	18.05	203600	Compass Diversified Holdings
+VST	19.03	18.85	1915800	Vistra Energy Corp.
+DLB	59.69	59.01	156000	Dolby Laboratories
+NCR	37.43	37.15	1014100	NCR Corporation
+NCS	15.65	15.25	915100	NCI Building Systems, Inc.
+NCV	7.13	7.1	217200	AllianzGI Convertible & Income Fund
+NGVT	69.36	69.07	195900	Ingevity Corporation
+NCZ	6.22	6.2	169300	AllianzGI Convertible & Income Fund II
+DLR	121.58	121.46	1201900	Digital Realty Trust, Inc.
+ALSN	37.54	37.3	1184600	Allison Transmission Holdings, Inc.
+DLX	72.42	71.98	164800	Deluxe Corporation
+IHC	28	27.5	35700	Independence Holding Company
+IHD	9.49	9.44	49800	Voya Emerging Markets High Income Dividend Equity Fund
+IHG	54.06	54.01	46100	Intercontinental Hotels Group
+MSGN	20.8	20.65	857600	MSG Networks Inc.
+VTA	11.9	11.86	164300	Invesco Credit Opportunities Fund
+EBR.B	7.45	7.32	15200	Centrais Electricas Brasileiras S.A.- Eletrobras
+VTN	13.73	13.73	19300	Invesco Trust  for Investment Grade New York Municipal
+VTR	63	62.58	1684800	Ventas, Inc.
+NDP	13.12	13.01	62800	Tortoise Energy Independence Fund, Inc.
+DMB	13.33	13.22	78900	Dreyfus Municipal Bond Infrastructure Fund, Inc.
+DMO	26.15	26.14	49200	Western Asset Mortgage Defined Opportunity Fund Inc
+CTAA	27.04	27.04	12600	Qwest Corporation
+DCUD	51.5	51.17	9100	Dominion Energy, Inc.
+ECCA	25.83	25.8	500	Eagle Point Credit Company Inc.
+ECCB	26.49	26.49	400	Eagle Point Credit Company Inc.
+NLSN	39.58	39.48	1898300	Nielsen N.V.
+IID	7.79	7.75	25900	Voya International High Dividend Equity Income Fund
+IIF	36.47	36.34	11200	Morgan Stanley India Investment Fund, Inc.
+IIM	14.9	14.89	82500	Invesco Value Municipal Income Trust
+ECCY	25.6	25.46	1200	Eagle Point Credit Company Inc.
+SAIC	68.65	67.78	298700	SCIENCE APPLICATIONS INTERNATIONAL CORPORATION
+ECCZ	25.36	25.36	3200	Eagle Point Credit Company Inc.

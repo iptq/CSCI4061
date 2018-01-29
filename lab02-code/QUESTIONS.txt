@@ -1,0 +1,182 @@
+                           __________________
+
+                            LAB 02 QUESTIONS
+                           __________________
+
+
+- Name: Michael Zhang
+- NetID: zhan4854
+
+Answer the questions below according to the lab specification. Write
+your answers directly in this text file and submit it to complete Lab01.
+
+
+PROBLEM 1 `fork1.c'
+===================
+
+A
+~
+
+  Compile and run the program in `fork1.c'. Show it's output below.
+
+I am number 1, my pid is 9162
+I am number 0, my pid is 9161
+I am number 3, my pid is 9164
+I am number 8, my pid is 9160
+I am number 4, my pid is 9165
+I am number 2, my pid is 9163
+I am number 7, my pid is 9168
+I am number 5, my pid is 9166
+I am number 6, my pid is 9167
+
+B
+~
+
+  Is the output ordered or disordered with respect to the "I am
+  number..." statements? Why?
+
+It's disordered in that the output has been printed to the screen out of order,
+because spawning each process and then executing the print statement could take
+an indeterminate amount of time for each process, so it ends up out of order.
+However, PIDs are in the same order as the child's number, since PIDs are usually
+created in an incremental manner so processes created later will have a larger
+PID.
+
+C
+~
+
+  Add calls to the wait() or waitpid() function to ensure that the
+  output is ordered.
+
+#include <stdio.h>
+#include <sys/wait.h>
+#include <unistd.h>
+
+int main(void) {
+  int i;
+  for (i = 0; i < 8; i++) {
+    pid_t child = fork();
+    if (child == 0) {
+      break;
+    } else { // make sure this is only executed on the parent process
+      waitpid(child, 0, 0); // wait for the child process to exit with status 0
+    }
+  }
+  printf("I am number %d, my pid is %d\n", i, getpid());
+  return 0;
+}
+
+
+D
+~
+
+  How many parents and children are there in this program? What is their
+  arrangement?
+
+There's 1 parent and 8 children, with the parent process printing "I am
+number 8" (since it only prints after it's spawned all the children, leaving
+i = 8 when it reaches the printf statement).
+
+
+PROBLEM 2 `fork-exec1.c'
+========================
+
+A
+~
+
+  Compile and run the program in `fork-exec1.c'. Show it's output below.
+
+Running command 'ls'
+------------------
+total 84K
+drwxr-xr-x 2 michael michael 4.0K Sep 18 02:26 .
+drwxrwxr-x 4 michael michael 4.0K Sep 18 02:18 ..
+-rwxrwxr-x 1 michael michael 8.6K Sep 18 02:24 fork1
+-rw-r--r-- 1 michael michael  408 Sep 18 02:25 fork1.c
+-rwxrwxr-x 1 michael michael 8.6K Sep 18 02:26 fork-exec1
+-rw-r--r-- 1 michael michael  360 Sep 13 13:56 fork-exec1.c
+-rw-r--r-- 1 michael michael 2.4K Sep 18 02:26 QUESTIONS.txt
+
+
+B
+~
+
+  Adjust the contents of the `child_argv[]' array. Try remove the "-l"
+  element, try adding on ".." prior to the final NULL, or make other
+  modifications INCLUDING for the 0th "ls" string.  Recompile and
+  describe whether the output has changed.
+
+Changed the line to:
+  char *child_argv[] = {"ls","-lc","-ah","/home",NULL};
+
+Ouptut:
+
+Running command 'ls'
+------------------
+total 24K
+drwxr-xr-x  4 root    root    4.0K Sep  5 10:27 .
+drwxr-xr-x 24 root    root    4.0K Sep 12 17:24 ..
+drwxr-xr-x  3 root    root    4.0K Sep  5 10:27 .ecryptfs
+drwx------ 44 michael michael  12K Sep 18 02:29 michael
+
+
+C
+~
+
+  Change the child_cmd string from "ls" to be something else like "gcc"
+  or "cat". Recompile ad explain what happens now.
+
+Changed the line to:
+  char *child_argv[] = {"--", "derpalerp",NULL};
+  char *child_cmd = "cowsay";
+
+Output:
+
+Running command 'cowsay'
+------------------
+ ___________
+< derpalerp >
+ -----------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+
+
+D
+~
+
+  Currently `fork-exec1.c' does not reach the bottom statements.
+  ,----
+  |   printf("------------------\n");
+  |   printf("Finished\n");
+  `----
+  Correct this by doing the following:
+  - Fork a child process
+  - Have ONLY the child process call execvp()
+  - Have the parent process wait() for the child
+
+#include <stdio.h>
+#include <stdlib.h>
+#include <sys/wait.h>
+#include <unistd.h>
+
+int main(void){
+
+  char *child_argv[] = {"--", "derpalerp",NULL};
+  char *child_cmd = "cowsay";
+
+  printf("Running command '%s'\n",child_cmd);
+  printf("------------------\n");
+  
+  pid_t child = fork();
+  if (child == 0) { // child
+    execvp(child_cmd,child_argv);
+  } else {
+    waitpid(child, 0, 0);
+    printf("------------------\n");
+    printf("Finished\n");
+  }
+  return 0;
+}

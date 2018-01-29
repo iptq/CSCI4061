@@ -1,0 +1,137 @@
+                           __________________
+
+                            LAB 04 QUESTIONS
+                           __________________
+
+
+- Name: Michael Zhang
+- NetID: zhan4854
+
+Answer the questions below according to the lab specification. Write
+your answers directly in this text file and submit it to complete Lab01.
+
+
+PROBLEM 1 `parent_listen.c'
+===========================
+
+A
+~
+
+  Compile and run the program in `parent_listen.c'. Show it's output
+  below.
+
+Child wrote 17 bytes
+Parent read 17 bytes
+Child said: 'Send $$$ please!'
+
+
+B
+~
+
+  Consider the call to pipe(). Do some research to figure out what a
+  pipe does and explain in a few sentences.
+
+According to the manpage, a pipe is "a unidirectional data channel that can be
+used for interprocess communication." Simply put, it's a way for processes to
+communicate with each other through a file-like object, with a read end and a
+write end that can be used by separate processes.
+
+
+C
+~
+
+  Observe the calls to read() and write(). Their meaning should be
+  self-evident (read and write data) but the parameters to these
+  functions are interesting. Do some reading and explain the 3
+  parameters to each of them. Also explain their return value.
+
+The arguments for read and write are: int fd, void *buf, and size_t count. count
+is obvious, and *buf is the buffer that the function is writing to, but the
+argument of interest is fd. fd is a numerical file descriptor that can be used
+to ask the kernel to make read/write transfers. File descriptors can be linked
+to tty IO (stdin, stdout) or files or even sockets or pipes.
+
+Also, the return value is simply the number of bytes that have been transferred.
+
+
+D
+~
+
+  If you run the program a number of times, you may see output in
+  different orders: the child may report writing data before the parent
+  has read it.  Adjust the position of the wait() call to guarantee that
+  the order is always
+  - Child wrote
+  - Parent read
+  - Child said
+  Paste your code below.
+
+The wait() call will guarantee that the rest of the code will not run until the
+child has terminated, or, more specifically, until after the print statement has
+been executed. The code does not need to be changed.
+
+
+PROBLEM 2 `capture_stdout.c'
+============================
+
+A
+~
+
+  Compile and run the program in `capture_stdout.c'. Show its output.
+
+Process 28530 Piping
+28530 Read from the my_pipe
+28530 Read: '28530 In the pipe, five by five'
+
+
+B
+~
+
+  The calls `dup()' and `dup2()' are used in this program to manipulate
+  file descriptors. Explain the effects of the lines below.
+  ,----
+  | int stdout_bak = dup(STDOUT_FILENO);
+  | dup2(my_pipe[PWRITE], STDOUT_FILENO);
+  | ...
+  | dup2(stdout_bak, STDOUT_FILENO);
+  `----
+
+The first line makes a copy of STDOUT_FILENO and stores it into stdout_bak. The
+second line changes my_pipe[PWRITE] to be the fd of STDOUT_FILENO, and finally
+the last line changes STDOUT_FILENO back to the stored value that was created in
+the first of the three lines.
+
+
+C
+~
+
+  The use of `printf()' normally puts output directly on the
+  screen. Explain why the statement
+  ,----
+  | printf("%d In the pipe, five by five",
+  |        getpid());
+  `----
+  does not print to screen as usual.
+
+This statement does not print because by this time, the output tty STDOUT_FILENO
+has had its fd changed such that it will be writing to a pipe rather than the
+standard tty output.
+
+
+D
+~
+
+  Modify the code so that the `In the pipe...' expression is printed by
+  a child process.
+  - Add a `fork()' AFTER `dup2()' redirects standard output but before
+    the print
+  - Add an `if()' to distinguish between parent and child
+  - The child should print then exit
+  - The parent should restore stdout then read from the pipe
+  - Add a `wait()' to guarantee the parent waits for the child to
+    complete prior to reading from the pipe
+  Paste your completed code below
+
+
+
+

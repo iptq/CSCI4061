@@ -1,0 +1,11 @@
+Symbol	Open	Low	Volume	Name
+NEA	13.79	13.77	304100	Nuveen AMT-Free Quality Municipal Income Fund
+NEE	151.5	151.03	1291000	NextEra Energy, Inc.
+NEM	37.72	37.55	3923700	Newmont Mining Corporation
+NEP	43.09	41	553600	NextEra Energy Partners, LP
+DNB	120.38	119.54	217100	Dun & Bradstreet Corporation (The)
+NEU	429.3	425.86	17000	NewMarket Corporation
+NEV	14.71	14.64	41000	Nuveen Enhanced Municipal Value Fund
+DWDP	70.8	70.53	5606700	DowDuPont Inc.
+DNI	13.1	13.05	13600	Dividend and Income Fund
+DNP	11.45	11.39	202000	Duff & Phelps Utilities Income, Inc.

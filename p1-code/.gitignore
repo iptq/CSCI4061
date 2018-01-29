@@ -1,0 +1,10 @@
+.vscode
+*.o
+commando
+actual.txt
+actual.std
+expect.txt
+expect.std
+valgrind.txt
+binary_tests
+test_args

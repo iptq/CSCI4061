@@ -1,0 +1,131 @@
+                           __________________
+
+                            LAB 11 QUESTIONS
+                           __________________
+
+
+- Name: John Eidum
+- NetID: eidum003
+
+Answer the questions below according to the lab specification. Write
+your answers directly in this text file and submit it to complete Lab01.
+
+
+PROBLEM 1: Condition Variables
+==============================
+
+  Examine the three files
+  - `odds_evens_busy.c'
+  - `odds_evens_busy_nested_if.c'
+  - `odds_evens_condvar.c'
+  Each of these was discussed in class and in a follow-up Piazza
+  post. Each implements a slight variation on the odd/even worker
+  problem discussed in class.
+
+  The provided Makefile allows one to run part of the experiment
+  discussed on the Piazza post by entering
+  ,----
+  | make experiment
+  `----
+
+  Describe the 3 different techniques used by each of these
+  implementations and the timing differences that you get in the
+  experiment results. Keep in mind that "work" is simulated by short
+  sleeps by threads so the real/wall timing has little meaning while the
+  user/sys times have more meaning.
+
+
+YOUR ANSWERS HERE:
+
+Busy runs busy waiting which can be seen in its while(1) loop. Nested_if checks to see if count is even, locks the count_mutex, then checks if the count variable is even again. Condvar checks for if the count is even within the while loop statement.
+
+Busy:
+User: 0.356s
+Sys: 0.480s
+
+Nested_if:
+User: 0.872s
+Sys: 0.316s
+
+Condvar:
+User: 0.092s
+Sys: 0.340s
+
+
+PROBLEM 2: Mutex Dangers
+========================
+
+  A multi-threaded program has a number of worker threads which each
+  need to modify global data structures.  They are as follows:
+  - A workers must modify global data X and Y
+  - B workers must modify global data Y and Z
+
+
+A
+~
+
+  In one protocol design, there are two mutexes
+  - M1 is associated with accessing data X and Y
+  - M2 is associated with accessing data Y and Z
+  That means that
+  - A workers would acquire M1 when modifying X and Y and release when
+    finished
+  - B workers would acquire M2 when modify Y and Z and release when
+    finished
+
+  Describe a major flaw in this protocol.
+
+
+YOUR ANSWERS HERE:
+------------------
+Values will likely be off due to the mutexes working at the same time. Therefore, M1 and M2 may both be given the value Y at the same time and be told to increment the value. However, when M1 increments the value, M2 will not take this into account and the M1 increment will end up being ignored, causing values to be off.
+
+
+B
+~
+
+  In another protocol design, there are three mutexes
+  - MX is associated with accessing data X
+  - MY is associated with accessing data Y
+  - MZ is associated with accessing data Z
+
+  The workers do the following
+  - A workers acquire MX then MY then modify global data X and Y then
+    release both mutexes
+  - B workers acquire MY then MZ then modify global data Y and Z then
+    release both mutexes
+
+  Identify any problems you see this protocol such as deadlock or
+  starvation.  Describe a major flaw in this protocol.
+
+
+YOUR ANSWERS HERE:
+------------------
+This would make Y lock up when either A or B are being used. This will cause significant delay due to the mutexes having to wait for one another to finish modifying every time.
+
+
+C
+~
+
+  A third protocol focuses on the A workers which modify global data X
+  and Y.  The intended changes for X and Y are independent so a
+  potentially more efficient protocol is the following.
+
+  "A" workers
+  1. Atomically check MX and lock it if possible
+     - If MX is acquired, modify X
+     - Acquire MY, modify Y
+     - Release both MX and MY
+  2. If MX is NOT available immediately
+     - Acquire MY, modify Y
+     - Acquire MX, modify X
+     - Release MX and MY
+
+  This protocol has the potential for deadlock. Explain a sequence of
+  events that would lead to deadlock and suggest a change in the
+  protocol to fix the problem.
+
+
+YOUR ANSWERS HERE:
+------------------
+There could be two A workers, with both MX and MY initially available. They start at the same time, and the first worker sees that MX is available and locks it. The second worker sees that MX is not available, so it acquires MY and locks it. Now the first worker is waiting for MY to be unlocked before it releases MX, and the second worker is waiting for MX before it releases MY, causing a deadlock. You could have a lock hierarchy so that locks are always obtained in the same order, that way deadlocking won't occur. Can just ignore the second change.
